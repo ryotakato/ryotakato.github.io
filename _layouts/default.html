@@ -1,0 +1,32 @@
+{% include setup %}
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="ja"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="ja"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title }}{% if page.title != null %} - {% endif %}{{ site.title }}</title>
+  <meta name="author" content="{{ site.author.name }}">
+  <link href='{{ BASE_PATH }}/assets/css/style.css' rel="stylesheet" media="all">
+  <link href="{{ BASE_PATH }}{{ site.atom_path}}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
+</head>
+
+<body>
+  <div id="outer">
+    <div id="inner">
+      <div id="header">
+        {% include header %}
+      </div>
+      <div id="menu">
+        {% include menu %}
+      </div>
+      <div id="content">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+{% capture setupcache %}
+  {% if site.baseurl != '/' %}
+    {% assign BASE_PATH = site.baseurl %}
+  {% else %}
+    {% assign BASE_PATH = "" %}
+  {% endif %}
+{% endcapture %}{% assign setupcache = nil %}

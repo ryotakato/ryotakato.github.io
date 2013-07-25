@@ -6,7 +6,7 @@ markdown: kramdown
 safe: false
 timezone: Asia/Tokyo
 lsi: false
-
+baseurl: /
 
 # blog setting
 title : "Tavi's Travelog"
