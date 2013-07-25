@@ -1,0 +1,28 @@
+# jekyll base setting
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: true
+pygments: true
+markdown: kramdown
+safe: false
+timezone: Asia/Tokyo
+lsi: false
+
+
+# blog setting
+title : "Tavi's Travelog"
+author :
+  name : tavi
+  email : ryotakato4@gmail.com
+  github : ryotakato
+  twitter : tavi4444
+  facebook : ryota.kato.169
+
+permalink: /:year/:month/:day/:title 
+
+
+# variable setting
+path :
+  archive: /archive.html
+  categories : /categories.html
+  tags : /tags.html
+  atom : /atom.xml
