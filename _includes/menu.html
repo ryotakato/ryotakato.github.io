@@ -11,7 +11,7 @@
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title}}</a></li>
   {% endfor %}
   <li class="more">
-    <a href="{{ BASE_PATH }}{{ path.archive }}">More...</a>
+    <a href="{{ BASE_PATH }}{{ site.path.archive }}">More...</a>
   </li>
   </ul>
 </div>
@@ -22,11 +22,11 @@
   {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %} 
-      <li><a href="{{ BASE_PATH }}{{ path.categories }}#{{ category }}-ref">{{ category | join: "/" }}</a></li>
+      <li><a href="{{ BASE_PATH }}{{ site.path.categories }}#{{ category }}-ref">{{ category | join: "/" }}</a></li>
     {% endfor %}
   {% else %}
     {% for category in categories_list %} 
-      <li><a href="{{ BASE_PATH }}{{ path.categories }}#{{ category[0] }}-ref">{{ category[0] | join: "/" }}</a></li>
+      <li><a href="{{ BASE_PATH }}{{ site.path.categories }}#{{ category[0] }}-ref">{{ category[0] | join: "/" }}</a></li>
     {% endfor %}
   {% endif %}
   {% assign categories_list = nil %}

@@ -1,0 +1,29 @@
+---
+layout: page
+title : Archive
+---
+
+<div>
+  <h2>Archive</h2>
+  {% for post in site.posts  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+    {% if forloop.first %}
+      <br/>
+      <h3>{{this_year}}</h3>
+      <ul class="ul_none">
+    {% endif %}
+
+    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%Y/%m/%d" }} : {{ post.title }}</a></li>
+
+    {% if forloop.last %}
+      </ul>
+    {% else %}
+      </ul>
+      <br/>
+      <h3>{{next_year}}</h3>
+      <ul class="ul_none">
+    {% endif %}
+  {% endfor %}
+</div>

@@ -120,3 +120,6 @@ input.err { background-color: orange; }
   clear: left;
 }
 
+.ul_none li {
+  list-style-type:none;
+}
