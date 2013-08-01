@@ -72,8 +72,14 @@ input.err { background-color: orange; }
 
 #menu #recent li {
   font-size:small;
+  list-style-type:disc;
+  margin-top:3px;
+  margin-left:15px;
+}
+
+#menu #recent li.more {
   list-style-type: none;
-  margin-top: 3px;
+  text-align: right;
 }
 
 #menu #category li {
