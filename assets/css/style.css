@@ -107,6 +107,10 @@ input.err { background-color: orange; }
   margin-left:20px;
 }
 
+#content ol {
+  margin-left:20px;
+}
+
 #content #entry-comments .about-comment{
   font-size:small;
 }
