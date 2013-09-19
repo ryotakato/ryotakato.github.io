@@ -103,6 +103,10 @@ input.err { background-color: orange; }
   border-radius: 1em;  
 }
 
+#content ul {
+  margin-left:20px;
+}
+
 #content #entry-comments .about-comment{
   font-size:small;
 }
