@@ -19,10 +19,12 @@ title : Archive
     {% if forloop.last %}
       </ul>
     {% else %}
-      </ul>
-      <br/>
-      <h3>{{next_year}}</h3>
-      <ul class="ul_none">
+      {% if this_year != next_year %}
+        </ul>
+        <br/>
+        <h3>{{next_year}}</h3>
+        <ul class="ul_none">
+      {% endif %}
     {% endif %}
   {% endfor %}
 </div>
