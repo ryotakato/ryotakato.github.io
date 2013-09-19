@@ -2,7 +2,8 @@
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
-markdown: kramdown
+#markdown: kramdown
+markdown: redcarpet
 safe: false
 timezone: Asia/Tokyo
 lsi: false
