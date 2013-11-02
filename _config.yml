@@ -4,6 +4,8 @@ auto: true
 pygments: true
 #markdown: kramdown
 markdown: redcarpet
+redcarpet:
+  extensions: ["hard_wrap"]
 safe: false
 timezone: Asia/Tokyo
 lsi: false
