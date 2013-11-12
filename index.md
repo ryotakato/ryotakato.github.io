@@ -6,8 +6,22 @@ layout: page
 <div id="entry-content">
   <h3>{{ post.title }}</h3>
   <h5>{{ post.date | date: '%Y-%m-%d %H:%M:%S' }}</h5>
+  <ul style="text-align: right;" class="ul-none">
+    <li style="display:inline-block;">Tags:</li>
+    {% assign tags_list = post.tags %}
+    {% if tags_list.first[0] == null %}
+      {% for tag in tags_list %} 
+        <li style="display:inline-block;"><a href="{{ BASE_PATH }}{{ site.path.tags }}#{{ tag }}-ref">{{ tag }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for tag in tags_list %} 
+        <li style="display:inline-block;"><a href="{{ BASE_PATH }}{{ site.path.tags }}#{{ tag[0] }}-ref">{{ tag[0] }}</a></li>
+      {% endfor %}
+    {% endif %}
+    {% assign tags_list = nil %}
+  </ul>
   <br/>
-  <div>{{ post.content }}</div>
+  <div id="entry-body">{{ post.content }}</div>
   <br/>
 </div>
 <hr/>

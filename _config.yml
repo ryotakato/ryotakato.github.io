@@ -5,7 +5,7 @@ pygments: true
 #markdown: kramdown
 markdown: redcarpet
 redcarpet:
-  extensions: ["hard_wrap"]
+  extensions: ["hard_wrap", "tables"]
 safe: false
 timezone: Asia/Tokyo
 lsi: false
