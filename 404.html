@@ -3,6 +3,25 @@ layout: page
 title: 404 Not Found
 ---
 
+<script type="text/javascript">
+
+var jumpMap = {
+  '/viewEntry?id=20130629114620':'/2013/06/29/node-install-macports-to-ndenv',
+  '/viewEntry?id=20130616224118':'/2013/06/16/groovy-install-macports-to-gvm'
+}
+
+var basepath = "{{ BASE_PATH }}";
+
+var jump = jumpMap[basepath + location.pathname];
+
+if (jump) {
+  setTimeout(function() {
+    location.replace(location.protocol + location.host + basepath + jump);
+  }, 3)
+}
+
+</script>
+
 <h3>Sorry. This Page is 404 Not Found.</h3>
 
 <br/>
