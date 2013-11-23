@@ -72,7 +72,7 @@ window.onload = function() {
   if (jump) {
     document.getElementById('auto_redirect').style.display = "inline";
     setTimeout(function() {
-      location.replace(location.protocol + location.host + basepath + jump);
+      location.replace(location.protocol + '//' + location.host + basepath + jump);
     }, 3000)
   } else {
     document.getElementById('please_search').style.display = "inline";
