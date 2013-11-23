@@ -6,19 +6,80 @@ title: 404 Not Found
 <script type="text/javascript">
 
 var jumpMap = {
-  '/viewEntry?id=20130629114620':'/2013/06/29/node-install-macports-to-ndenv',
-  '/viewEntry?id=20130616224118':'/2013/06/16/groovy-install-macports-to-gvm'
+  '/viewEntry?id=20130629114620'           :'/2013/06/29/node-install-macports-to-ndenv',
+  '/viewEntry?id=20130616224118'           :'/2013/06/16/groovy-install-macports-to-gvm',
+  '/viewEntry?id=20130602125013'           :'/2013/06/02/di-and-config-file',
+  '/viewEntry?id=20130526221412'           :'/2013/05/26/review-of-enchantMOON',
+  '/viewEntry?id=20130526204345'           :'/2013/05/26/buy-motivation-in-fantasy',
+  '/viewEntry?id=20130518025434'           :'/2013/05/18/before-after',
+  '/viewEntry?id=20130324220909'           :'/2013/03/24/mac-image-preview',
+  '/viewEntry?id=20130320184053'           :'/2013/03/20/land-of-lisp-02',
+  '/viewEntry?id=20130304220241'           :'/2013/03/04/moded',
+  '/viewEntry?id=20130304214216'           :'/2013/03/04/land-of-lisp-01',
+  '/viewEntry?id=20130222010448'           :'/2013/02/22/gstring',
+  '/viewEntry?id=20130216233631'           :'/2013/02/16/fortuity',
+  '/viewEntry?id=20130216231453'           :'/2013/02/16/rest',
+  '/viewEntry?id=20130210014302'           :'/2013/02/10/start-rails',
+  '/viewEntry?id=20130208072630'           :'/2013/02/08/rbenv-latest-ruby',
+  '/viewEntry?id=20130101021510'           :'/2013/01/01/vim-advent-calendar-2012',
+  '/viewEntry?id=20121230200406'           :'/2012/12/30/made-image-view',
+  '/viewEntry?id=20121209142618'           :'/2012/12/09/change-sub-domain',
+  '/viewEntry?id=20121118191053'           :'/2012/11/18/what-mean-customer-is-god',
+  '/viewEntry?id=20121110155041'           :'/2012/11/10/install-rbenv-via-git-on-mac',
+  '/viewEntry?id=20121105231640'           :'/2012/11/05/join-in-ujihisa-vim-3',
+  '/viewEntry?id=20121028000903'           :'/2012/10/28/koans-coffeescript',
+  '/viewEntry?id=20121025233215'           :'/2012/10/25/increment-of-ruby',
+  '/viewEntry?id=20121003215723'           :'/2012/10/03/get-domain',
+  '/viewEntry?id=20120819150123'           :'/2012/08/19/install-rails-by-rbenv',
+  '/viewEntry?id=20120723002718'           :'/2012/07/23/install-mercurial',
+  '/viewEntry?id=20120719003639'           :'/2012/07/19/join-in-satoshi-nakajima-public-interview',
+  '/viewEntry?id=20120718235656'           :'/2012/07/18/build-jquery-1.8pre',
+  '/viewEntry?id=20120501175530'           :'/2012/05/01/about-original-domain',
+  '/viewEntry?id=20120401204942'           :'/2012/04/01/begin-blog',
+  '/viewCategory?name=CoffeeScript'        :'/tags.html#CoffeeScript-ref',
+  '/viewCategory?name=Gauche'              :'/tags.html#Gauche-ref',
+  '/viewCategory?name=Groovy'              :'/tags.html#Groovy-ref',
+  '/viewCategory?name=JavaScript'          :'/tags.html#JavaScript-ref',
+  '/viewCategory?name=Lisp'                :'/tags.html#Lisp-ref',
+  '/viewCategory?name=Mac'                 :'/tags.html#Mac-ref',
+  '/viewCategory?name=Mercurial'           :'/tags.html#Mercurial-ref',
+  '/viewCategory?name=Node.js'             :'/tags.html#Node.js-ref',
+  '/viewCategory?name=REST'                :'/tags.html#REST-ref',
+  '/viewCategory?name=Ruby'                :'/tags.html#Ruby-ref',
+  '/viewCategory?name=Ruby on Rails'       :'/tags.html#RubyonRails-ref',
+  '/viewCategory?name=SCM'                 :'/tags.html#SCM-ref',
+  '/viewCategory?name=Scheme'              :'/tags.html#Scheme-ref',
+  '/viewCategory?name=Vim'                 :'/tags.html#Vim-ref',
+  '/viewCategory?name=enchantMOON'         :'/tags.html#enchantMOON-ref',
+  '/viewCategory?name=jQuery'              :'/tags.html#jQuery-ref',
+  '/viewCategory?name=その他'              :'/tags.html',
+  '/viewCategory?name=ソフトウェアパターン':'/tags.html#ソフトウェアパターン-ref',
+  '/viewCategory?name=ネタ'                :'/tags.html#ネタ-ref',
+  '/viewCategory?name=ブログ'              :'/tags.html#ブログ-ref',
+  '/viewCategory?name=参加してきた'        :'/tags.html#参加してきた-ref',
+  '/viewCategory?name=考え方'              :'/tags.html#考え方-ref',
+  '/viewCategory?name=言葉'                :'/tags.html#言葉-ref',
+  '/viewArchive?year=2013'                 :'/archive.html',
+  '/viewArchive?year=2012'                 :'/archive.html'
 }
 
 var basepath = "{{ BASE_PATH }}";
 
-var jump = jumpMap[basepath + location.pathname];
+window.onload = function() {
 
-if (jump) {
-  setTimeout(function() {
-    location.replace(location.protocol + location.host + basepath + jump);
-  }, 3)
+  var jump = jumpMap[basepath + location.pathname + location.search];
+
+  if (jump) {
+    document.getElementById('auto_redirect').style.display = "inline";
+    setTimeout(function() {
+      location.replace(location.protocol + location.host + basepath + jump);
+    }, 3000)
+  } else {
+    document.getElementById('please_search').style.display = "inline";
+  }
+
 }
+
 
 </script>
 
@@ -27,11 +88,11 @@ if (jump) {
 <br/>
 <br/>
 
-<p>
-(2013/11/20)
-URLの構成を変更しました。
-以前よりのURLを辿ってこられた方は、お手数ですが、下記よりお探しください。
-</p>
+<p>(2013/11/20)</p>
+
+<p>URLの構成を変更しました。</p>
+<p id="please_search" style="display:none;">以前よりのURLを辿ってこられた方は、お手数ですが、下記よりお探しください。</p>
+<p id="auto_redirect" style="display:none;">3秒後に、移動します。</p>
 
 <br/>
 
