@@ -100,7 +100,8 @@ input.err { background-color: orange; }
   background-color: white;
   margin:10px 0px 10px 210px;
   padding: 10px;
-  border-radius: 1em;  
+  border-radius: 1em;
+  overflow:hidden; /* avert droping livefyre column */
 }
 
 
