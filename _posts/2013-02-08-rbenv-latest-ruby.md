@@ -2,7 +2,7 @@
 layout: post
 title: "rbenv で ruby の最新を使う"
 tags : [Ruby]
-date: 2013-02-08 07:26:30+09:00
+date: 2013-02-08 07:26:30
 ---
 
 

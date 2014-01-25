@@ -7,7 +7,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ["hard_wrap", "tables"]
 safe: false
-timezone: Asia/Tokyo
+timezone: UTC
 lsi: false
 baseurl: /
 
