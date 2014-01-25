@@ -2,7 +2,7 @@
 layout: post
 title: "CoffeeScriptを公案で学んでみた"
 tags : [CoffeeScript, JavaScript]
-date: 2012-10-28 00:09:03+09:00
+date: 2012-10-28 00:09:03
 ---
 
 

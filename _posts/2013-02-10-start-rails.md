@@ -2,7 +2,7 @@
 layout: post
 title: "BundlerでRailsを始める手順＆スクリプト"
 tags : [Ruby,Ruby on Rails]
-date: 2013-02-10 01:43:02+09:00
+date: 2013-02-10 01:43:02
 ---
 
 久々にRubyを更新し、

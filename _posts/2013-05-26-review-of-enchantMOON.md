@@ -2,7 +2,7 @@
 layout: post
 title: "enchantMOONに触ってきた"
 tags : [enchantMOON, 参加してきた]
-date: 2013-05-26 22:14:12+09:00
+date: 2013-05-26 22:14:12
 ---
 
 

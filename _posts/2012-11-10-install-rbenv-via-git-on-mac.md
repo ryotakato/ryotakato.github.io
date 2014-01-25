@@ -2,7 +2,7 @@
 layout: post
 title: "Mac に git で rbenv と ruby をインストール"
 tags : [Ruby]
-date: 2012-11-10 15:50:41+09:00
+date: 2012-11-10 15:50:41
 ---
 
 

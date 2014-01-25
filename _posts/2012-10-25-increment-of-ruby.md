@@ -2,7 +2,7 @@
 layout: post
 title: "Rubyにおけるインクリメント"
 tags : [Ruby]
-date: 2012-10-25 23:32:15+09:00
+date: 2012-10-25 23:32:15
 ---
 
 

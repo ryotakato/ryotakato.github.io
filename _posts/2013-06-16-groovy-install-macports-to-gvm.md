@@ -2,7 +2,7 @@
 layout: post
 title: "Groovyインストール MacportからGVMへの乗り換え"
 tags : [Groovy]
-date: 2013-06-16 22:41:18+09:00
+date: 2013-06-16 22:41:18
 ---
 
 

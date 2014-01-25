@@ -2,7 +2,7 @@
 layout: post
 title: "画像機能をつけました。"
 tags : [ブログ]
-date: 2012-12-30 20:04:06+09:00
+date: 2012-12-30 20:04:06
 ---
 
 Vim Advent Calendar 2012 に合わせ、

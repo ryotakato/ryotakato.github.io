@@ -2,7 +2,7 @@
 layout: post
 title: "ujihisa.vim #3 に参加してきた"
 tags : [Vim, 参加してきた]
-date: 2012-11-05 23:16:40+09:00
+date: 2012-11-05 23:16:40
 ---
 
 

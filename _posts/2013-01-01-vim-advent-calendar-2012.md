@@ -2,7 +2,7 @@
 layout: post
 title: "なんでもhjkl for Windows"
 tags : [Vim]
-date: 2013-01-01 02:15:10+09:00
+date: 2013-01-01 02:15:10
 ---
 
 この記事は<a href="http://atnd.org/events/33746">Vim Advent Calendar 2012</a>の32日目の記事です。

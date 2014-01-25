@@ -2,7 +2,7 @@
 layout: post
 title: "jQueryをビルドしてみた ver 1.8pre"
 tags : [jQuery, JavaScript]
-date: 2012-07-18 23:56:56+09:00
+date: 2012-07-18 23:56:56
 ---
 
 
