@@ -102,6 +102,7 @@ closeという言葉が全体的にdestoryに置き換えられていて、
 うまくいくように見せて、
 itemView -> childView の変換が上手くいってなかったり
 (issueあげました [Not replacement itemView -> childView · Issue #35 · marionettejs/Marionette.Upgrade](https://github.com/marionettejs/Marionette.Upgrade/issues/35) )
+(2015/02/16 追記：ごめんなさい、僕の完全なる勘違いでした。でも、その代わり分かりづらいと思ったところをpull request 出しました)
 するので、
 
 使ったあとはしっかり動作確認しないとまともに動かない。
