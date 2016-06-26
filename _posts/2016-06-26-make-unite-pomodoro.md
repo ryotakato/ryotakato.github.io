@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vimでポモドーロ・テクニック(unite-pomodoroを作りました)"
-tags : [Vim, つくったもの]
+tags : [Vim,つくったもの]
 date: 2016-06-26 19:03:18
 ---
 
