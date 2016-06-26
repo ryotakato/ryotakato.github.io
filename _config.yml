@@ -1,11 +1,15 @@
 # jekyll base setting
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".ruby-version", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
-pygments: true
-#markdown: kramdown
-markdown: redcarpet
-redcarpet:
-  extensions: ["hard_wrap", "tables"]
+#pygments: true
+highlighter: rouge
+markdown: kramdown
+#markdown: redcarpet
+#redcarpet:
+#  extensions: ["hard_wrap", "tables"]
+kramdown:
+  input: GFM
+  hard_wrap: true
 safe: false
 timezone: UTC
 lsi: false
