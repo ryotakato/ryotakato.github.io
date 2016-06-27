@@ -165,6 +165,5 @@ $ bundle exec rails server
 ってことで、スクリプトにしたのがここにありまーす。（３分クッキング方式）
 はじめてGist使ったけど、簡単でいいね！
 
-{% gist 4745892 %}
-
+[make rails application for local rails version option [-m] is use MongoDB ( gem 'mongoid')](https://gist.github.com/ryotakato/4745892)
 
