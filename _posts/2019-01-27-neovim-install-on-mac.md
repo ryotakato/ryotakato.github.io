@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MacにNeoVimをインストール pyenv使用"
-tags : [vim]
+tags : [Vim]
 date: 2019-01-27 11:32:44
 ---
 
