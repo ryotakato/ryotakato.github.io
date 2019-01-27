@@ -53,7 +53,7 @@ Windowsも問題なかった。
 下記とかみると、一度BIOSアップデートして、最新にしていたのがよかったのかも。  
 
 
-[非UEFIマザーボードで最新グラボは認識できるのか！？　|　イカとボール](https://squid-and-ball.net/archives/446)
+[非UEFIマザーボードで最新グラボは認識できるのか！？　　イカとボール](https://squid-and-ball.net/archives/446)
 
 
 真相は闇の中だが、まあ動いたのはラッキー。  
