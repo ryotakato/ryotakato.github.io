@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gitbookをやってみた"
-tags : [Vim]
+tags : [Gitbook, Node.js]
 date: 2019-02-17 17:32:44
 ---
 
