@@ -107,15 +107,19 @@ PaperWhiteだと一瞬待たされる感じがあり、
 
 まずはPaperWhiteのページ送り
 
-![oasis_06]({{ BASE_PATH }}/images/2020/11/27/oasis_06.mp4)
-
+<video controls="" loop="" autoplay="" width="500px" height="800px">
+  <source src="{{ BASE_PATH }}/images/2020/11/27/oasis_06.mp4" type="video/mp4">
+</video>
 
 え？漫画の内容に気を取られてよく分からないって？
 
 次にOasisのページ送り
 
 
-![oasis_07]({{ BASE_PATH }}/images/2020/11/27/oasis_07.mp4)
+<video controls="" loop="" autoplay="" width="500px" height="800px">
+  <source src="{{ BASE_PATH }}/images/2020/11/27/oasis_07.mp4" type="video/mp4">
+</video>
+
 
 
 PaperWhiteでの微妙なひっかかりがなくなっているのがわかると思う。
