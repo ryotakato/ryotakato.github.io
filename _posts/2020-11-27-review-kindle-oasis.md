@@ -73,6 +73,8 @@ Oasisだとつるつるした素材。
 
 [包丁人味平とは (ホウチョウニンアジヘイとは) [単語記事] - ニコニコ大百科](https://dic.nicovideo.jp/a/%E5%8C%85%E4%B8%81%E4%BA%BA%E5%91%B3%E5%B9%B3)
 
+  
+  
 
 
 閑話休題。
@@ -94,6 +96,8 @@ Oasisだとつるつるした素材。
 勿論、ボタンがついたほうを反対にすると画面の上下も自動で反転するから、
 寝返り時も問題なし。
 
+  
+
 
 
 
@@ -107,8 +111,9 @@ PaperWhiteだと一瞬待たされる感じがあり、
 
 まずはPaperWhiteのページ送り
 
-<video controls="" loop="" autoplay="" width="500px" height="800px">
+<video controls loop muted="true" width="500px" height="800px">
   <source src="{{ BASE_PATH }}/images/2020/11/27/oasis_06.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos.
 </video>
 
 え？漫画の内容に気を取られてよく分からないって？
@@ -116,8 +121,9 @@ PaperWhiteだと一瞬待たされる感じがあり、
 次にOasisのページ送り
 
 
-<video controls="" loop="" autoplay="" width="500px" height="800px">
+<video controls loop muted="true" width="500px" height="800px">
   <source src="{{ BASE_PATH }}/images/2020/11/27/oasis_07.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos.
 </video>
 
 
@@ -132,7 +138,7 @@ PaperWhiteでの微妙なひっかかりがなくなっているのがわかる�
 
 反対に、ちょっとあれって思っているのは、
 画面のタップに反応しやすくなっているのか、
-画面上部触れないぐらいに手を置いても反応してしまうこと。
+画面に触れるか触れないかぐらいに手をかざしても、反応してしまうこと。
 個人差あると思うけど。
 設定で変えれるのかな。
 
