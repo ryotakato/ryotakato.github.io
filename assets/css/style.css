@@ -124,6 +124,11 @@ input.err { background-color: orange; }
   margin-bottom:1em;
 }
 
+#entry-body img {
+  max-width: 100%;
+  height: auto;
+}
+
 #entry-body h1, #entry-body h2, #entry-body h3, #entry-body h4, #entry-body h5, #entry-body h6 {
   margin-top:2em;
   margin-bottom:1em;
