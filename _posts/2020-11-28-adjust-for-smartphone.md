@@ -23,11 +23,13 @@ date: 2020-11-28 11:53:44
 
 指定したのは、以下2つ
 
-
+HTMLの
 
 ```html
-  <meta name="viewport" content="width=1000">
+<meta name="viewport" content="width=1000">
 ```
+
+と、CSSの
 
 ```css
 #entry-body img {
