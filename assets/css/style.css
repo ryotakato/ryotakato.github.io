@@ -102,6 +102,7 @@ input.err { background-color: orange; }
   margin:10px 0px 10px 210px;
   padding: 10px;
   border-radius: 1em;
+  overflow: hidden;
 }
 
 
