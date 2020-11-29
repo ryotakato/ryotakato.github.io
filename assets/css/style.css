@@ -102,7 +102,6 @@ input.err { background-color: orange; }
   margin:10px 0px 10px 210px;
   padding: 10px;
   border-radius: 1em;
-  overflow:hidden; /* avert droping livefyre column */
 }
 
 
@@ -132,15 +131,6 @@ input.err { background-color: orange; }
 #entry-body h1, #entry-body h2, #entry-body h3, #entry-body h4, #entry-body h5, #entry-body h6 {
   margin-top:2em;
   margin-bottom:1em;
-}
-
-#entry-comments .about-comment{
-  font-size:small;
-}
-
-#entry-post-comment textarea {
-  width:50%;
-  height:7em;
 }
 
 #footer{
