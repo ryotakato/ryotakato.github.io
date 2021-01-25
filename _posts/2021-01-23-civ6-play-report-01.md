@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Civilization6の簡易プレイレポ"
+title: "Civilization6の簡易プレイレポ01"
 tags : [ゲーム, Civilization6]
 date: 2021-01-23 10:09:44
 ---
