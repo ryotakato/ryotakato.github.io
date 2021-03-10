@@ -1,18 +1,28 @@
 ---
 layout: post
-title: "読みたい本リスト（随時更新）"
+title: "読みたい・読んだ本リスト（随時更新）"
 tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
+最終更新日：2021/03/10
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
 
+1. [高性能紙飛行機: その設計・製作・飛行技術のすべて](#book-1)
+2. [歴史人口学で見た日本](#book-2)
+3. [健康的で清潔で、道徳的な秩序ある社会の不自由さについて](#book-3)
+4. [どこかで誰かが見ていてくれる 日本一の斬られ役・福本清三](#book-4)
+5. [おちおち死んでられまへん ―斬られ役 ハリウッドへ行く―](#book-5)
+6. [銃・病原菌・鉄　上巻](#book-6)
+7. [銃・病原菌・鉄　下巻](#book-7)
+8. [新型コロナとワクチン　知らないと不都合な真実](#book-8)
 
 
-### 高性能紙飛行機: その設計・製作・飛行技術のすべて
 
+
+### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
 
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4416313071/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516fryUDIcL._SL200_.jpg" alt="高性能紙飛行機: その設計・製作・飛行技術のすべて" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4416313071/?tag=tavi06-22" name="AmaQuicklink" target="_blank">高性能紙飛行機: その設計・製作・飛行技術のすべて</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">二宮 康明(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4416313071/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
@@ -26,7 +36,7 @@ date: 2021-03-04 06:35:44
 
 
 
-### 歴史人口学で見た日本
+### 歴史人口学で見た日本 {#book-2}
 
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B088LRB5HZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/31baKAPN1PL._SL200_.jpg" alt="歴史人口学で見た日本 (文春新書)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B088LRB5HZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">歴史人口学で見た日本 (文春新書)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">速水 融(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B088LRB5HZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
@@ -46,7 +56,7 @@ date: 2021-03-04 06:35:44
 
 
 
-### 健康的で清潔で、道徳的な秩序ある社会の不自由さについて
+### 健康的で清潔で、道徳的な秩序ある社会の不自由さについて {#book-3}
 
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08C4YDVVY/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51d3JwtIAVL._SL200_.jpg" alt="健康的で清潔で、道徳的な秩序ある社会の不自由さについて" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08C4YDVVY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">健康的で清潔で、道徳的な秩序ある社会の不自由さについて</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">熊代亨(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08C4YDVVY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
@@ -55,6 +65,145 @@ date: 2021-03-04 06:35:44
 これも歴史人口学を調べている過程で、見つけた本。
 現代に生きることの息苦しさが、社会の発展のために必然的にそうなっているのではないかという観点で記載された本。
 結構内容重めの本みたい。
+
+
+
+
+
+### どこかで誰かが見ていてくれる 日本一の斬られ役・福本清三 {#book-4}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4087476510/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/510PG2YXJJL._SL200_.jpg" alt="どこかで誰かが見ていてくれる 日本一の斬られ役・福本清三 (集英社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4087476510/?tag=tavi06-22" name="AmaQuicklink" target="_blank">どこかで誰かが見ていてくれる 日本一の斬られ役・福本清三 (集英社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">福本 清三(著), 小田 豊二(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4087476510/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/01/10 読了
+
+今年の元旦に亡くなった、斬られ役俳優の福本清三さんの本。
+時代劇が好きな人なら知っているんだろうけど、僕は初めて知った。
+訃報のニュースを見て、斬られ役というのがどういう人だったのかと興味がわいたので、
+後述と併せて、図書館で借りて読んだ。
+
+インタビューをまとめたような書き方で、
+福本さんが仕事場や実家で、自身が生きた時代を語ってくれる。
+対話形式なので、
+福本さんがどういう話し方や言葉遣いをするのかが分かって、人間としての雰囲気が感じられ、面白かった。
+こういう方の生涯をまとめるにはいい手法だと思う。
+
+ネットで「福本さんは斬られ役一筋、それだけにこだわっている」みたいな書き方をされているのが見られるが、
+この本をみて思ったのは、
+確かにこだわってはいるんだけど、そんなに頑固なイメージはなく、
+むしろ本人は、
+「撮影のために考えた結果なだけ」みたいな、
+謙虚な姿勢でいるのが印象に残った。
+決して自分のやってきたことを必要以上に誇らない、心地よい軽さというものが感じられ、
+こういう大人ってカッコいいなと思わせてくれた。
+
+
+
+
+### おちおち死んでられまへん ―斬られ役 ハリウッドへ行く― {#book-5}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4420310073/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51PBHKAHYZL._SL200_.jpg" alt="おちおち死んでられまへん ―斬られ役 ハリウッドへ行く―" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4420310073/?tag=tavi06-22" name="AmaQuicklink" target="_blank">おちおち死んでられまへん ―斬られ役 ハリウッドへ行く―</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">小田 豊二(著), 福本 清三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4420310073/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/01/13 読了
+
+同じく福本清三さんの本。
+実は福本さんは2003年に映画「ラストサムライ」に寡黙なサムライとして出演している。
+上述した前作が2003年に出た本で、こちらが2004年なので、
+元々2つにわける予定だったのかも。
+
+メインはラストサムライの話題で、
+ハリウッドの映画の撮り方などが語られているが。
+それより印象的なのが、福本さんがハリウッドなどの海外のやり方を素直に絶賛していること。
+2003年当時定年を迎えた日本映画の人が、
+いいものはいいとオープンなマインドをもっていることがなんだか嬉しかった。
+
+この後2014年には初出演映画の「太秦ライムライト」に出ている。
+カナダのファンタジア国際映画祭で最優秀主演男優賞をいただいたそうで、
+今度見てみる予定。
+
+
+
+
+
+
+### 銃・病原菌・鉄　上巻 {#book-6}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00DNMG8Q2/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51U6f63ccKL._SL200_.jpg" alt="銃・病原菌・鉄　上巻" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00DNMG8Q2/?tag=tavi06-22" name="AmaQuicklink" target="_blank">銃・病原菌・鉄　上巻</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジャレド ダイアモンド(著), 倉骨 彰(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00DNMG8Q2/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2021/03/04 読了
+
+数年前に下巻の途中まで読んだけど、それっきり積読になってた。
+Civilizationやってると世界史欲が出てくるので、また最初から読もうと思った。
+
+この本全体のテーマである、「現在の世界の不平等さはどこに由来するのか」という問いを、
+上巻は主に農耕と牧畜がどのように発展してきたのかを説明しながら語られている。
+この本の良い点は、
+特定の時代や特定の地域だけを扱うのではなく、世界全体を扱っているので、
+世界史を俯瞰でみるような視点が得られるということ。
+また、各章の内容が、最初のテーマにどのように繋がっているのかがちゃんと語られているため、
+テーマを見失わずに読んでいけることだと思う。
+
+下巻も楽しみ。
+
+
+
+### 銃・病原菌・鉄　下巻 {#book-7}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00DNMG8QC/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516yONOvSML._SL200_.jpg" alt="銃・病原菌・鉄　下巻" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00DNMG8QC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">銃・病原菌・鉄　下巻</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジャレド ダイアモンド(著), 倉骨 彰(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00DNMG8QC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中。
+
+
+
+
+### 新型コロナとワクチン　知らないと不都合な真実 {#book-8}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08PF8LWG8/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/31bU4KrxBsL._SL200_.jpg" alt="新型コロナとワクチン　知らないと不都合な真実 (日経プレミアシリーズ)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08PF8LWG8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">新型コロナとワクチン　知らないと不都合な真実 (日経プレミアシリーズ)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">峰宗太郎(著), 山中浩之(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08PF8LWG8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/03/09 読了
+
+眠れぬ夜に一息で読んだ。4時間ぐらいかな。
+
+実は、子供が勝手にKindleを触ってたら、
+わけもわからず購入完了になってたという経緯で知った本なので、読みたくて買った本ではない。
+
+「なに勝手に触ってるの！」って言ったら、
+やばいと思ったのか、小さい声で「ごめんなさい」って言ってたけど、
+読んでみたら、結構面白かった。
+叱ってごめん、息子よ。君が偶然買ってくれたおかげだわ。
+
+
+全体としてインタビュー形式なので読みやすいってのはあるんだけど、
+特に面白かったのがワクチンと免疫の仕組みと、
+現在世界で急ピッチで作られているワクチンがどういう種類のワクチンなのかってのが分かったこと。
+
+また、科学的思考で新型コロナウイルスを含めた世の中の流れを考えるためにはという観点からのアドバイスもあって、
+単純に新型コロナウイルスだけの話題ではなかったのが良かった。
+
+とりあえず、
+この本を読んだ後に調べてみた限りでは、
+現在世界で接種が進められている核酸ワクチンは今までのワクチンと仕組みが違うので、副反応が怖く、
+ワクチン接種を急ぐ必要ないなら、塩野義製薬が開発中の従来型ワクチンができてからでもいいなと思った。
+どうせ一般市民が接種できるのはもっとあとだろうけど。
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
