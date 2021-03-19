@@ -11,7 +11,7 @@ Herokuのstackが16のままで、
 
 ここに書いてあるのがすべて。
 
-[Upgrading to the Latest Stack | Heroku Dev Center](https://devcenter.heroku.com/articles/upgrading-to-the-latest-stack)
+[Upgrading to the Latest Stack &#124; Heroku Dev Center](https://devcenter.heroku.com/articles/upgrading-to-the-latest-stack)
 
 
 やったのは下記だけ。
