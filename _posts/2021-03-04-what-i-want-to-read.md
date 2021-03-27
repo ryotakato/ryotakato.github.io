@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/03/25
+最終更新日：2021/03/27
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -20,6 +20,9 @@ date: 2021-03-04 06:35:44
 8. [新型コロナとワクチン　知らないと不都合な真実](#book-8)
 9. [親業―子どもの考える力をのばす親子関係のつくり方](#book-9)
 10. [ゴルディアスの結び目](#book-10)
+11. [果しなき流れの果に](#book-11)
+
+
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -237,17 +240,39 @@ Civilizationやってると世界史欲が出てくるので、また最初か�
 
 
 
+### 果しなき流れの果に {#book-11}
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00W2ZRC5W/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61ALTIjRoHL._SL200_.jpg" alt="果しなき流れの果に (角川文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00W2ZRC5W/?tag=tavi06-22" name="AmaQuicklink" target="_blank">果しなき流れの果に (角川文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">小松 左京(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00W2ZRC5W/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2021/03/26 読了
 
+わずか2日で読んじゃった。
+やはりゴルディアスの結び目より先にこっちを読むべきかも。
 
+プロローグから1、2章、エピローグ2まではすごく面白い。
+伏線色々貼ってて、どうなるんだ感が強くてどんどん読んでいける。
+3章以降の各話自体はいいのだが、
+結論までにもっていくところが、
+よくわからんけどなんとなくこんな感じになりましたよ感があって、
+しっくりこない感じ。
+これは僕がゴリゴリのハードSFが好きで、
+論理的に成り立ってない（正確にいうと、作品内でちゃんと説明されていない）事柄を積み重ねて、
+なんとなく結論に持っていくのがあまり好みじゃないってのがあるかもしれない。
+ファンタジー色が出てきる感じで、話の必然性がないってことかな。
+光瀬龍の「百億の昼と千億の夜」もそうなんだけど、
+宗教とか意識のみの生命とか出てくると、
+こういう傾向が強くて、なんか納得できないので、純粋に楽しめない感じがある。
+デニス・E・テイラーの「われらはレギオン」とかのほうがそういう話は少なくて好きだね。
 
+まあ、半世紀以上前の作品なので、比べるのは小松左京や光瀬龍に失礼というものだが。
 
-
-
-
-
-
+批判が多くなったかもだけど、
+最後のエピローグ1で締める終わり方は胸熱。
+目次でエピローグ2、エピローグ1って書いてる時点で話の筋が想像できるのだが、
+（ちなみにこれは元々本作品が雑誌連載だったから、ここで話が終わりと思わせないようにエピローグに番号いれたのだと思う。）
+それでもこういう構成は好き。
+今ではそこまで珍しくないかもだけど、1965年にかかれているからね。
+このプロットだけでもこの作品は読む価値がある。
 
 
 
