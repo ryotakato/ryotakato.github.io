@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/03/27
+最終更新日：2021/03/29
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -21,6 +21,7 @@ date: 2021-03-04 06:35:44
 9. [親業―子どもの考える力をのばす親子関係のつくり方](#book-9)
 10. [ゴルディアスの結び目](#book-10)
 11. [果しなき流れの果に](#book-11)
+12. [マイナス・ゼロ](#book-12)
 
 
 
@@ -273,6 +274,29 @@ Civilizationやってると世界史欲が出てくるので、また最初か�
 それでもこういう構成は好き。
 今ではそこまで珍しくないかもだけど、1965年にかかれているからね。
 このプロットだけでもこの作品は読む価値がある。
+
+
+
+### マイナス・ゼロ {#book-12}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01MDR4SNJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41HZrsyyhuL._SL200_.jpg" alt="マイナス・ゼロ（広瀬正小説全集１） (集英社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01MDR4SNJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">マイナス・ゼロ（広瀬正小説全集１） (集英社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">広瀬正(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01MDR4SNJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2021/03/28 読了
+
+夏への扉が好きなので、それに似た感じで、非常に楽しく読めた。
+昭和初期の描写などが、よくこれだけ詳しく書いたなと思う。
+調べるのは大変だっただろうに。
+
+また、タイムマシンが空間移動できない設定なのも良かった。
+これで少しドラマが生まれている。
+
+夏への扉のほうが人気が高いけど、
+マイナス・ゼロのほうが細かいところをしっかりと書いているし、
+主人公だけがタイムトラベルするのではないというのが複雑さを増し、面白くしていると思う。
+
+
+
+
 
 
 
