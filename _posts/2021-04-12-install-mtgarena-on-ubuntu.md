@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MTG Arena をUbuntuにインストール"
-tags : [Linux, Magic: The Gathering]
+tags : [Linux, Magic The Gathering]
 date: 2021-04-12 09:40:44
 ---
 
@@ -150,7 +150,7 @@ $ sudo dpkg --add-architecture i386
 # リポジトリキー追加とリポジトリ追加
 $ wget -nc https://dl.winehq.org/wine-builds/winehq.key
 $ sudo apt-key add winehq.key
-$ sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main
+$ sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/' focal main
 
 # 終わったら一応キーを消しておく
 $ rm winehq.key
