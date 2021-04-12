@@ -5,10 +5,12 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/03/29
+最終更新日：2021/04/13
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
+小説系はネタバレ関係なく書いているので、気になる人はその項目は読まない方がいいかも。
+
 
 1. [高性能紙飛行機: その設計・製作・飛行技術のすべて](#book-1)
 2. [歴史人口学で見た日本](#book-2)
@@ -22,7 +24,11 @@ date: 2021-03-04 06:35:44
 10. [ゴルディアスの結び目](#book-10)
 11. [果しなき流れの果に](#book-11)
 12. [マイナス・ゼロ](#book-12)
-
+13. [ＭＭ９](#book-13)
+14. [ＭＭ９─invasion─](#book-14)
+15. [ＭＭ９─destruction─](#book-15)
+16. [ネクサス（上）](#book-16)
+17. [ネクサス（下）](#book-17)
 
 
 
@@ -293,6 +299,104 @@ Civilizationやってると世界史欲が出てくるので、また最初か�
 夏への扉のほうが人気が高いけど、
 マイナス・ゼロのほうが細かいところをしっかりと書いているし、
 主人公だけがタイムトラベルするのではないというのが複雑さを増し、面白くしていると思う。
+
+
+
+### ＭＭ９ {#book-13}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B007TAKNB0/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51vDfA9Wj3L._SL200_.jpg" alt="ＭＭ９ (創元SF文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B007TAKNB0/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ＭＭ９ (創元SF文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">山本 弘(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B007TAKNB0/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/03/29 読了
+
+感想は3冊まとめて
+
+### ＭＭ９─invasion─ {#book-14}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00KLAMQMO/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51VESdET6qL._SL200_.jpg" alt="ＭＭ９─invasion─" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00KLAMQMO/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ＭＭ９─invasion─</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">山本 弘(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00KLAMQMO/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2021/03/30 読了
+
+感想は3冊まとめて
+
+### ＭＭ９─destruction─ {#book-15}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00M99NER6/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51v0+UvNJiL._SL200_.jpg" alt="ＭＭ９─destruction─" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00M99NER6/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ＭＭ９─destruction─</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">山本 弘(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00M99NER6/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2021/03/31 読了
+
+
+怪獣モノってのは、あまり今まで好きじゃなくて敬遠してた。
+多くがパニックやアクションがメインになりやすいので、
+それは別に求めてないからなーという理由だった。
+しかし、「ＭＭ９」は、「神は沈黙せず」を書いた山本弘さんだったので、読んでみようかなと思い、買ってみた。
+
+
+読んでみると、確かに怪獣が出てくるんだけど、
+本当のメインは、多重人間原理という架空の理論を中心にすえ、
+怪獣はあくまでその小道具の一つで、
+すぐにハマってしまった。
+
+雰囲気は1巻が一番良くて、
+2,3巻はどっちかというと恋愛要素入ってきてしまうので半減だが、
+それでも最後まで、多重人間原理およびそこからの理論の広げ方が面白い。
+
+「神は沈黙せず」のときも思ったけど、山本弘さんとは、
+SF関連や哲学関連の感性が近いのかもしれない。
+
+本作でも、
+世界各地の神話などはデタラメなこと書いているわけではなく、
+あるがままに書いていたという発想があるが、
+僕も、昔の人がそんな馬鹿なわけないという発想の持ち主なので、非常に面白かった。
+
+スピンオフ的な本もあるらしいので、そっちも暇があったら読むかも。
+
+
+
+
+### ネクサス（上） {#book-16}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B075GP4QKS/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51+CwTRjZ1L._SL200_.jpg" alt="ネクサス（上） (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B075GP4QKS/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ネクサス（上） (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ラメズ ナム(著), 中原 尚哉(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B075GP4QKS/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2021/04/02 読了
+
+感想は上下まとめて
+
+
+### ネクサス（下） {#book-17}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B075GPMSBZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51FHUsezAbL._SL200_.jpg" alt="ネクサス（下） (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B075GPMSBZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ネクサス（下） (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ラメズ ナム(著), 中原 尚哉(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B075GPMSBZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/04/04 読了
+
+ドラッグ指定されているナノマシンを利用して頭の中にOSを入れ、
+かつ、他の人と精神的な交流ができるという設定はなかなか面白く、
+著者がマイクロソフトにいたというだけあって、しっかりと考えられていた。
+他人からの精神干渉をファイヤーウォールちっくので防いだり、
+バックドアを仕掛ける方法が、Ken Thompsonのコンパイラーバックドアの手法が使われてたりして、
+プログラマーなら、クスっとしてしまうことうけあいだ。
+
+ただし、本書の一番いいのは、単にクライシスものやアクションもので終わるのではなく、
+モラルとは何か、選択肢が限られている状況で主人公は何が一番いいのかを苦悩して、結論を選んでいるということを描いていることだろう。
+
+技術をどう活かすのかは今後ますます強い意味合いを帯びていくと思われるので、
+SFの中で、こういう作品が増えていくのは重要な意味があると思う。
+
+ちなみに、この作品は3部作になっており、
+本書はその1作目。
+まだ2,3作目が日本語訳されていないが、出たらすぐ読みたいと思う。
+
+
+
+
+
+
+
+
+
+
+
 
 
 
