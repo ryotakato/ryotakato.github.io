@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/04/13
+最終更新日：2021/04/30
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -29,6 +29,11 @@ date: 2021-03-04 06:35:44
 15. [ＭＭ９─destruction─](#book-15)
 16. [ネクサス（上）](#book-16)
 17. [ネクサス（下）](#book-17)
+18. [ボッコちゃん](#book-18)
+19. [きまぐれロボット](#book-19)
+20. [市塵（上）](#book-20)
+21. [習得への情熱](#book-21)
+
 
 
 
@@ -391,16 +396,76 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 
 
 
+### ボッコちゃん {#book-18}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00BIXNJOW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/519T0rIXDtL._SL200_.jpg" alt="ボッコちゃん（新潮文庫）" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00BIXNJOW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ボッコちゃん（新潮文庫）</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">星 新一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00BIXNJOW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2021/04/19 読了
+
+
+ショートショートの神様、星新一。
+小学生以来、特に読んでなかったけど、小松左京と仲良かったということを知って、読んでみた。
+
+軽く読めるSFとしては最高。
+わずか4ページぐらいの話もあるから、気軽。
+でもちょっとした毒のある話もあって、飽きない。
+日常のちょっとした出来事の、別の見方を提供してくれるような感じが、感性を刺激される。
+
+なんで星新一が評価されているのかが分かった。
 
 
 
 
+### きまぐれロボット {#book-19}
+
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B009TPQVLY/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51oMExmKoiL._SL200_.jpg" alt="きまぐれロボット (角川文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B009TPQVLY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">きまぐれロボット (角川文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">星 新一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B009TPQVLY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
 
 
+2021/04/20 読了
+
+上記の「ボッコちゃん」の流れで、読んでみた。
+解説が谷川俊太郎なのでって理由もある。
+何だか谷川俊太郎好きなんだよね。
+
+読んでたら、数個、ボッコちゃんに収録されているのと同じ話があった。
+
+なので、感想はだいたい同じ。
 
 
+ショートショートって、一話ごとに感想書いたほうが意味がある気がするけど、
+面倒なので、やらない。
+もっと気軽に読めるのが大事だしね。
+
+ただ、これを読んだ後に、星新一のショートショートの作り方を少し調べたんだけど、
+かなり細部まで気を遣っているのがわかった。(登場人物をエヌ氏とかって表現しているのも、その一環らしい。)
+色々無駄なものを排除した結果がショートショートなんだということがわかると、また違った読み方になる。
+
+
+
+
+### 市塵（上） {#book-20}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00BLDN71O/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51EQ5ZIOVbL._SL200_.jpg" alt="市塵（上） (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00BLDN71O/?tag=tavi06-22" name="AmaQuicklink" target="_blank">市塵（上） (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">藤沢周平(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00BLDN71O/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+新井白石を描いた本らしい
+
+
+
+### 習得への情熱 {#book-21}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07BGY95J4/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/21zf93sJIBL._SL200_.jpg" alt="習得への情熱 チェスから武術へ――上達するための、僕の意識的学習法" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07BGY95J4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">習得への情熱 チェスから武術へ――上達するための、僕の意識的学習法</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジョッシュ・ウェイツキン(著), 吉田俊太郎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07BGY95J4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+チェスのチャンピオンが、太極拳のチャンピオンにという人の自伝ちっくな本
 
 
 
