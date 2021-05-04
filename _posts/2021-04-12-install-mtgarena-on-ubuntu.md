@@ -105,7 +105,7 @@ $ sudo apt install lutris
 
 参考(別に原神をやりたいわけじゃなかったけど、わりと新しめの記事だったので。他ディストリビューションも載ってる。
 
-[Linuxでゲームを動かそう ～Lutrisで原神を動かした話～ | FascodeNetwork Official Blog](https://blog.fascode.net/2021/03/03/lutris_genshin/)
+[Linuxでゲームを動かそう ～Lutrisで原神を動かした話～ &#124; FascodeNetwork Official Blog](https://blog.fascode.net/2021/03/03/lutris_genshin/)
 
 
 
