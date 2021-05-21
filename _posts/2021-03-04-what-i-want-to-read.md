@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/05/05
+最終更新日：2021/05/21
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -33,6 +33,7 @@ date: 2021-03-04 06:35:44
 19. [きまぐれロボット](#book-19)
 20. [市塵（上）](#book-20)
 21. [習得への情熱](#book-21)
+22. [日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争](#book-22)
 
 
 
@@ -80,8 +81,8 @@ date: 2021-03-04 06:35:44
 半分自伝だというので、なるほどという感じ。
 歴史人口学がまだまだ研究する分野が多い学問だなというのが、ワクワクを感じさせてくれる。
 次は、この人の書いたスペイン風邪の本が読みたいな。
-
-
+->
+[日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争](#book-22)
 
 
 
@@ -478,6 +479,29 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 
 
 チェスのチャンピオンが、太極拳のチャンピオンにという人の自伝ちっくな本
+
+
+
+### 日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争 {#book-22}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4894345021/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51F4Z31CGNL._SL200_.jpg" alt="日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4894345021/?tag=tavi06-22" name="AmaQuicklink" target="_blank">日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">速水 融(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4894345021/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+[歴史人口学で見た日本](#book-2)
+の、速水融さんの本
+日本内での記録があまり残ってないスペイン・インフルエンザを調べた本だというので、図書館で借りて読んでみる予定。
+
+
+
+
+
+
+
+
+
+
+
 
 
 
