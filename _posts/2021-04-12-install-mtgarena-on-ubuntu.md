@@ -241,6 +241,11 @@ hereって書いてあるところ。
 ファイル名は、
 MTGAInstaller_0.1.3536.856069.msi
 
+-> (2021/05/28 追記)
+上記URLがまだ更新されてない場合でも、下記ページをみると最新版のURLが分かることがある。
+[https://mtgarena.downloads.wizards.com/Live/Windows64/version](https://mtgarena.downloads.wizards.com/Live/Windows64/version)
+
+
 これをとりあえず下記に保存して、
 /home/{ユーザー}/Games/MTGAInstaller_0.1.3536.856069.msi
 
