@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/06/02
+最終更新日：2021/06/16
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -535,6 +535,46 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 ### 市塵（下） {#book-23}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00BLDN6ZQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51LXvGpwi2L._SL200_.jpg" alt="市塵（下） (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00BLDN6ZQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">市塵（下） (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">藤沢周平(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00BLDN6ZQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/06/16 読了
+
+元々は、江戸時代に侍の格好をして日本に潜り込んだという、
+宣教師シドッチのことを知ったのが始まりだったと思う。
+そのシドッチを尋問したのが新井白石で、
+尋問という形ではあったが、その会談はひどく新井白石を感激させたという。
+
+そこから新井白石に興味がわき、今回「市塵」を読んでみたわけであるが、
+この本は非常に楽しかった。
+
+まず、江戸時代中期という、一番良くわからない時代が舞台。
+忠臣蔵で知られる赤穂浪士の討ち入りや、生類憐れみの令の徳川綱吉のあたり。
+これらの単発の出来事は知っていても、
+では時代はどういう時代だったのかということは分かっていなかったので、
+読んでいくうちに自然と社会情勢が理解できる本書は非常に有益だった。
+
+そして、その情勢の中で、
+壮年になるまでさして活躍をしてなかった新井白石が、
+数年で幕府の政治の中心になるというある意味シンデレラストーリー（ただし、並々ならぬ努力の結果であるが）が、面白い。
+また、仕えた主君が二人とも早世だったため、あっという間に失脚し、
+晩年は上記シドッチのことやそれ以外のことについて大量の著作物を残して亡くなっていくという悲哀も、物語を美しくさせている。
+
+おそらく、天運に恵まれていれば、
+そのまま幕府の中枢で、様々な改革をやり遂げ、また違った形の社会を作ったであろう人であったが、
+そうすんなりいかないのが世の常というものなのかもしれない。
+
+
+藤沢周平は、読んだのはほとんど初だと思うが、重苦しくなりやすい時代物で、どんどん読み進めたくなる文章を書く人だなと思った。
+
+
+
+
+
+
+
+
+
+
 
 
 
