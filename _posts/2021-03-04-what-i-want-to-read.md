@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/06/16
+最終更新日：2021/06/20
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -35,6 +35,7 @@ date: 2021-03-04 06:35:44
 21. [習得への情熱](#book-21)
 22. [日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争](#book-22)
 23. [市塵（下）](#book-23)
+24. [馬場のぼる ねこと漫画と故郷と](#book-24)
 
 
 
@@ -565,6 +566,42 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 
 
 藤沢周平は、読んだのはほとんど初だと思うが、重苦しくなりやすい時代物で、どんどん読み進めたくなる文章を書く人だなと思った。
+
+
+
+
+### 馬場のぼる ねこと漫画と故郷と {#book-24}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4772190678/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51zNDSmhfFL._SL200_.jpg" alt="馬場のぼる ねこと漫画と故郷と" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4772190678/?tag=tavi06-22" name="AmaQuicklink" target="_blank">馬場のぼる ねこと漫画と故郷と</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">のぼる, 馬場(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4772190678/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/06/17 読了
+
+「11ぴきのねこ」シリーズは、誰しもが子供のころ目にした本だと思う。
+のほほんとしたねこたちの物語だが、どこか人間くささを感じ、何年たっても古びない、良い絵本だと思う。
+大人になるにつれて、次第に忘れていってしまったのだが、
+最近子供が読むようになって、当時の記憶が蘇ってきていた。
+
+で、図書館でシリーズを借りつつよんでいくうちに、馬場のぼるさん自身に興味が出てきて、本書を借りてみた。
+全体として、本人の来歴とそのときどきの作品を紹介しつつ、
+馬場のぼるさんに関わった方々の馬場さんについての文章などを載せている。
+
+馬場さんの絵はコミカルな素朴さがあるが、
+作品やスケッチをみると、
+実際はしっかりとした絵を描くことができる人だというのが分かる。
+特に動物が上手い。
+動物を描くときはまず写実的に描いて、その後に人間っぽくデフォルメしていくという描き方をしている。
+動物の元々の動作を見て、「おや、今はこういう人間の動きかな」っていう風に、
+人間くささを見出していく方法みたいだから、不自然にならずに描くことができている。
+なるほどなーっと思った。
+
+他にも親友手塚治虫との話だったり、11ぴきのねこのマラソン大会の絵巻絵本の制作過程だったり、色々と面白かった。
+
+馬場さんは2001年に亡くなっているが、
+その4日前には、遺作となる「ぶどう畑のアオさん」の最後のページを描いていたそうだ。
+最後のページはアオさんが雲を見上げている姿が描かれているが、
+それは1967年に出した「11ぴきのねこ」の表紙の雲と一緒だった。
+これを知ったとき、最後まで絵の中に遊び心を忘れない人だったんだなと思った。
 
 
 
