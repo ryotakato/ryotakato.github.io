@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/06/20
+最終更新日：2021/07/13
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -36,6 +36,9 @@ date: 2021-03-04 06:35:44
 22. [日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争](#book-22)
 23. [市塵（下）](#book-23)
 24. [馬場のぼる ねこと漫画と故郷と](#book-24)
+25. [馬場のぼる作品集 絵本のしごと 漫画のしごと](#book-25)
+26. [うろんな客](#book-26)
+
 
 
 
@@ -607,11 +610,56 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 
 
 
+### 馬場のぼる作品集 絵本のしごと 漫画のしごと {#book-25}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4909087281/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51qgN+al++L._SL200_.jpg" alt="馬場のぼる作品集 絵本のしごと 漫画のしごと (SPACE SHOWER BOOKs)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4909087281/?tag=tavi06-22" name="AmaQuicklink" target="_blank">馬場のぼる作品集 絵本のしごと 漫画のしごと (SPACE SHOWER BOOKs)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">馬場 のぼる(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4909087281/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2021/07/04 読了
+
+上の本の次に読んだやつ。
+ほぼほぼ内容は似通っているが、
+こっちは展覧会の内容を載せているので、どっちかというと絵が多め。
 
 
 
 
 
+### うろんな客 {#book-26}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4309264344/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51WPRDJ4GYL._SL200_.jpg" alt="うろんな客" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4309264344/?tag=tavi06-22" name="AmaQuicklink" target="_blank">うろんな客</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">エドワード ゴーリー(著), Gorey,Edward(原著), 元幸, 柴田(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4309264344/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/07/08 読了
+
+普段子供のために図書館から借りた絵本はこの一覧にはいれないんだけど、
+これは完全に大人のための絵本な気がするから書いておく。
+
+エドワード・ゴーリーといえば、知る人ぞ知る絵本作家らしい。
+特にホラー系の絵本を描くことが多く、世界で熱狂的なファンがいるらしい。
+
+僕は今まで知らなかったんだけど、
+この本が、一見何の話なのか分からないが、実は子供を表しているということを聞いて、
+読んでみようと思った。
+
+すごいのは、翻訳するときに、五七五七七の短歌調に翻訳していること。
+これは翻訳家の柴田さんが頑張ったなと思う。
+単に字数合わせるだけではなく、
+雰囲気も捉えた短歌というのが悪くない。
+
+白河夜船（しらかわよふね）なんていう言葉を初めてきいたりして、
+かなり面白い翻訳だと思った。
+
+最後に普通に翻訳したバージョンも載せているので、意味が分からないってことはほぼない。
+
+
+子供のことを表しているってことだけど、
+たしかにそれっぽいのはあるものの、
+言うほど子供感があるわけではなく、ふーんって感じ。
+
+期待と結果の驚きが違った読書だったので、面白かった。
 
 
 
