@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/07/13
+最終更新日：2021/07/22
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -38,6 +38,7 @@ date: 2021-03-04 06:35:44
 24. [馬場のぼる ねこと漫画と故郷と](#book-24)
 25. [馬場のぼる作品集 絵本のしごと 漫画のしごと](#book-25)
 26. [うろんな客](#book-26)
+27. [英語の「なぜ?」に答える はじめての英語史](#book-27)
 
 
 
@@ -660,6 +661,65 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 言うほど子供感があるわけではなく、ふーんって感じ。
 
 期待と結果の驚きが違った読書だったので、面白かった。
+
+
+
+
+### 英語の「なぜ?」に答える はじめての英語史 {#book-27}
+
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4327401684/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51+Wue2PO4L._SL200_.jpg" alt="英語の「なぜ?」に答える はじめての英語史" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4327401684/?tag=tavi06-22" name="AmaQuicklink" target="_blank">英語の「なぜ?」に答える はじめての英語史</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">堀田 隆一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4327401684/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/07/22 読了
+
+
+去年からずっと読みたかった本
+「はじめての英語史」とはあるが、
+実は、去年読みたかったときには下記の本を読んでいた。
+
+<a href="https://www.amazon.co.jp/dp/B00LMB2VQ2/?tag=tavi06-22" target="_blank">英語の歴史　過去から未来への物語 (中公新書)</a>
+
+なので、ざっくりと英語史には触れていたので、
+それを思い返しながら読んだという感じ。
+
+英語史については、また別記事にすると思うけど、
+英語を学ぶにあたって、僕にとってはただ英語を覚えるというよりは、歴史的背景をおさえておいたほうが理解が早い気がするんだよね。
+どうやって、そういう表現が成り立ってきたのかとかは結構面白いし。
+
+本書も、英語を学んでいくと誰もが通る何故？を題材にしながら、歴史に入っていくので、英語学習者を対象にしている。
+
+そして、例えば、三単現のsとかは、三単現の場合だけが例外なんじゃなくて、
+歴史的にみれば、他のパターンのときに、語尾が消失し、三単現の場合だけが残ったという経緯がある。
+などのことがしっかりと解説されてあって、面白かった。
+
+専門用語をしっかりと理解して読んだわけじゃないが、
+それでも大体が理解できるので、一字一句読んでいくというよりは、
+英語勉強中にちょっとしたコラムを読んでいる感じで読めたので、読みやすかったと思う。
+
+この著者の堀田さんは英語史のブログもやっていて、そっちも面白そう。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
