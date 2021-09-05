@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "読みたい・読んだ本リスト（随時更新）"
+title: "2021年 読みたい・読んだ本リスト（随時更新）"
 tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/07/22
+最終更新日：2021/09/05
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -39,8 +39,9 @@ date: 2021-03-04 06:35:44
 25. [馬場のぼる作品集 絵本のしごと 漫画のしごと](#book-25)
 26. [うろんな客](#book-26)
 27. [英語の「なぜ?」に答える はじめての英語史](#book-27)
-
-
+28. [水木サンの幸福論](#book-28)
+29. [水木しげるの古代出雲](#book-29)
+30. [輪廻の蛇](#book-30)
 
 
 
@@ -704,19 +705,79 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 
 
 
+### 水木サンの幸福論 {#book-28}
+
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00U24A5OU/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51orDE3n3LL._SL200_.jpg" alt="水木サンの幸福論 (角川文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00U24A5OU/?tag=tavi06-22" name="AmaQuicklink" target="_blank">水木サンの幸福論 (角川文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">水木 しげる(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00U24A5OU/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/08/17 読了
+
+息子が鬼太郎が好きなので、
+それにつられて僕も水木しげるに興味が出てきたので読んでみた。
+
+幸福論というタイトルだけど、
+実際にページ数が多いのは、自伝部分。
+そして、この自伝部分が一番面白かった。
+やはり戦争に行って死にかけるという強烈な体験は、
+水木しげるを大きく変えたんだろうなと思う。
+
+そこで得られた人生観が、作品にしっかり含まれているから、
+あんなにも鬼太郎が人気なのだろうと思った。
+
+ちなみに、水木しげるは自分のことを「水木サン」と呼ぶ。
+なかなかいい一人称。
+
+
+
+
+### 水木しげるの古代出雲 {#book-29}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00ZQJW1AW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61l-uXsQjAL._SL200_.jpg" alt="水木しげるの古代出雲 (角川文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00ZQJW1AW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">水木しげるの古代出雲 (角川文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">水木 しげる(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00ZQJW1AW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2021/08/21 読了
+
+
+そういえば、鬼太郎は好きだけど、
+水木しげるの漫画って読んだことなかったなと思ったので、読んでみた。
+
+水木しげるの故郷から近い出雲を中心に、
+古代の神話を本人なりに解釈して描いた作品。
+ずっと温めていたらしく、晩年になって発表している。
+
+内容としては、古事記や日本神話のおさらいって感じだが、
+水木しげるなりのキャラクターの書き方が面白いので、
+雰囲気が固くならず読めるのがよかった。
 
 
 
 
 
+### 輪廻の蛇 {#book-30}
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4150119899/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/514dsD-UdFL._SL200_.jpg" alt="輪廻の蛇 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4150119899/?tag=tavi06-22" name="AmaQuicklink" target="_blank">輪廻の蛇 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ロバート・A. ハインライン(著), Heinlein,Robert A.(原著), 徹, 矢野(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4150119899/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2021/09/03 読了
 
+ハインラインといえば、「夏への扉」
+SF好きからは絶大な人気を集めている本。
+僕も、旧約版、新約版、英語原作版と3つも持ってる。
+だけど、ハインラインの他の作品というと、急に知名度が下がる印象。
+「月は無慈悲な夜の女王」とか、「人形つかい」とか、名作は多いんだけどね。
+そんな中でも特に知られていないのが、本作「輪廻の蛇」
+短編集で、表題作の「輪廻の蛇」が秀逸なんだけど、それ以外も「歪んだ家」とかが面白い。
+実は、映画「プリデスティネーション」として2014年に公開されて、
+それで僕は本作を知った。
 
+この映画がまたとても面白く、1時間37分しかないのに非常によく話がまとまっている。
+主演イーサン・ホークがいい演技をしているが、
+それを超えるストーリーが素晴らしい。
+初見が一番楽しめるが、二度三度見ても新たな発見があったりするので、オススメだ。
 
-
-
-
+原作がずっと気になっていて、ようやく読めたのは嬉しい。
 
 
 
