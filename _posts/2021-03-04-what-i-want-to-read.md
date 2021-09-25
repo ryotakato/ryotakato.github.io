@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/09/12
+最終更新日：2021/09/25
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -32,7 +32,7 @@ date: 2021-03-04 06:35:44
 18. [ボッコちゃん](#book-18)
 19. [きまぐれロボット](#book-19)
 20. [市塵（上）](#book-20)
-21. [習得への情熱](#book-21)
+21. [習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法](#book-21)
 22. [日本を襲ったスペイン・インフルエンザ―人類とウイルスの第一次世界戦争](#book-22)
 23. [市塵（下）](#book-23)
 24. [馬場のぼる ねこと漫画と故郷と](#book-24)
@@ -42,7 +42,6 @@ date: 2021-03-04 06:35:44
 28. [水木サンの幸福論](#book-28)
 29. [水木しげるの古代出雲](#book-29)
 30. [輪廻の蛇](#book-30)
-31. [習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法](#book-31)
 
 
 
@@ -486,13 +485,44 @@ SFの中で、こういう作品が増えていくのは重要な意味がある
 [市塵（下）](#book-23)
 
 
-### 習得への情熱 {#book-21}
+
+### 習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法 {#book-21}
 
 
-<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07BGY95J4/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/21zf93sJIBL._SL200_.jpg" alt="習得への情熱 チェスから武術へ――上達するための、僕の意識的学習法" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07BGY95J4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">習得への情熱 チェスから武術へ――上達するための、僕の意識的学習法</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジョッシュ・ウェイツキン(著), 吉田俊太郎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07BGY95J4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4622079224/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41R1S8OTjKL._SL200_.jpg" alt="習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4622079224/?tag=tavi06-22" name="AmaQuicklink" target="_blank">習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジョッシュ・ウェイツキン(著), 吉田 俊太郎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4622079224/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
 チェスのチャンピオンが、太極拳のチャンピオンにという人の自伝ちっくな本
+
+2021/09/11 読了
+
+
+半年ぐらいずっと読みたかった本なんだけど、ようやく読めた。
+ここ最近では一番の当たり。
+
+作者は子供の頃からチェスの天才児として活躍してたけど、
+映画のモチーフになったことで、環境が変化し、
+そのためにチェスでも上手くいかなくなってしまったところ、
+太極拳と出会い、自身を見つめ直すことで、
+世界大会で優勝するという異色の経歴の持ち主。
+
+この本は、そんな作者が、
+全く違う世界の技術でも共通している要素があり、
+それを意識していけばどちらも上達していくことができるという認識のもと、
+自身の人生を思い返しながら、どういう風にそれぞれの道を習得していったかを記したもの。
+
+内容は結構難しいと思う。
+もちろん書かれていることは理解できるし、頭では分かるんだけど、
+実際それを行うというのは、
+強い意思と情熱が必要だ。
+だから、自分が好きな道とかに応用して考えるしかない。
+
+しかし、ここに書かれている内容は、
+極めれば人生を豊かにしてくれることは間違いない。
+
+一度読んだだけでは入ってこない部分も多いから、
+何度も読んで、自分の中に蓄積していく必要があると思う。
+
 
 
 
@@ -784,41 +814,6 @@ SF好きからは絶大な人気を集めている本。
 
 
 
-### 習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法 {#book-31}
-
-
-<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4622079224/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41R1S8OTjKL._SL200_.jpg" alt="習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4622079224/?tag=tavi06-22" name="AmaQuicklink" target="_blank">習得への情熱―チェスから武術へ―:上達するための、僕の意識的学習法</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジョッシュ・ウェイツキン(著), 吉田 俊太郎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4622079224/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
-
-
-
-2021/09/11 読了
-
-
-半年ぐらいずっと読みたかった本なんだけど、ようやく読めた。
-ここ最近では一番の当たり。
-
-作者は子供の頃からチェスの天才児として活躍してたけど、
-映画のモチーフになったことで、環境が変化し、
-そのためにチェスでも上手くいかなくなってしまったところ、
-太極拳と出会い、自身を見つめ直すことで、
-世界大会で優勝するという異色の経歴の持ち主。
-
-この本は、そんな作者が、
-全く違う世界の技術でも共通している要素があり、
-それを意識していけばどちらも上達していくことができるという認識のもと、
-自身の人生を思い返しながら、どういう風にそれぞれの道を習得していったかを記したもの。
-
-内容は結構難しいと思う。
-もちろん書かれていることは理解できるし、頭では分かるんだけど、
-実際それを行うというのは、
-強い意思と情熱が必要だ。
-だから、自分が好きな道とかに応用して考えるしかない。
-
-しかし、ここに書かれている内容は、
-極めれば人生を豊かにしてくれることは間違いない。
-
-一度読んだだけでは入ってこない部分も多いから、
-何度も読んで、自分の中に蓄積していく必要があると思う。
 
 
 
