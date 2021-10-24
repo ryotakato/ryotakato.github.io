@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/09/25
+最終更新日：2021/10/24
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -42,6 +42,9 @@ date: 2021-03-04 06:35:44
 28. [水木サンの幸福論](#book-28)
 29. [水木しげるの古代出雲](#book-29)
 30. [輪廻の蛇](#book-30)
+31. [時間とは何か](#book-31)
+32. [七人のイヴ　上](#book-32)
+33. [七人のイヴ　下](#book-33)
 
 
 
@@ -813,24 +816,41 @@ SF好きからは絶大な人気を集めている本。
 
 
 
+### 時間とは何か {#book-31}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062147823/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51LQIlADP8L._SL200_.jpg" alt="時間とは何か" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062147823/?tag=tavi06-22" name="AmaQuicklink" target="_blank">時間とは何か</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">池内 了(著), ヨシタケ シンスケ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062147823/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/10/23 読了
+
+挿絵を書いたヨシタケシンスケさんが好きで、
+よく子供と図書館で借りているが、
+子供向けなのかなと勝手に勘違いして借りた本。
+時間にまつわる歴史や考え方などがのっていて、
+広く浅く時間とは何かを知るにはいいのかもしれない。
+また、文章が平易で読みやすいので、中学生や高校生が読んでも分かりやすい。
 
 
 
 
 
+### 七人のイヴ　上 {#book-32}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B086R11JR3/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ip7j-EZiL._SL200_.jpg" alt="七人のイヴ　上 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B086R11JR3/?tag=tavi06-22" name="AmaQuicklink" target="_blank">七人のイヴ　上 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ニール スティーヴンスン(著), 日暮 雅通(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B086R11JR3/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/10/18 読了
+
+感想は下巻と一緒に。
+
+
+### 七人のイヴ　下 {#book-33}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B086QYVJDT/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51w+0UzaXDL._SL200_.jpg" alt="七人のイヴ　下 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B086QYVJDT/?tag=tavi06-22" name="AmaQuicklink" target="_blank">七人のイヴ　下 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ニール スティーヴンスン(著), 日暮 雅通(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B086QYVJDT/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+読み中
 
 
