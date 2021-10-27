@@ -18,10 +18,10 @@ date: 2021-10-28 00:40:44
 なので、Jekyllでどうにかコメントをつけれないかと色々と探していたところ、
 Google Formsなどを利用して実現している人がいた。
 
-[Using Google Forms for Jekyll Comments | JD Porterfield | Articles](https://jdvp.me/articles/Google-Forms-Jekyll-Comments)
-[Using Google Forms for Jekyll Comments, Revisited | JD Porterfield | Articles](https://jdvp.me/articles/Google-Forms-Jekyll-Comments-Revisited)
+[Using Google Forms for Jekyll Comments &#124; JD Porterfield &#124; Articles](https://jdvp.me/articles/Google-Forms-Jekyll-Comments)
+[Using Google Forms for Jekyll Comments, Revisited &#124; JD Porterfield &#124; Articles](https://jdvp.me/articles/Google-Forms-Jekyll-Comments-Revisited)
 
-[jdvp/jekyll-comments-google-forms: Files necessary to add comments to Jekyll through use of Google Forms: https://jdvp.me/articles/Google-Forms-Jekyll-Comments](https://github.com/jdvp/jekyll-comments-google-forms)
+[jdvp/jekyll-comments-google-forms](https://github.com/jdvp/jekyll-comments-google-forms)
 
 英語だけど、結構丁寧に説明してあるので、ほとんど迷わなくてすむ。
 最後のはGithub
