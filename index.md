@@ -25,6 +25,7 @@ layout: page
   <br/>
 </div>
 <hr/>
+ここはTOPページです。コメントなどは個々のページへお願いします。
 {% endfor %}
 
 
