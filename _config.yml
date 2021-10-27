@@ -33,3 +33,8 @@ path :
   categories : /categories.html
   tags : /tags.html
   atom : /atom.xml
+
+# comment setting
+comment-read: https://docs.google.com/spreadsheets/d/1AesvRc9hlJIwXUrjhHZLmLWcwIbDi46T9FBNzt6IOGY
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLSdEkVK084a1PddgI4KhVG5tZyrEDWXRQARuoxASZmtNRvYHRA
+comment-post-fields: [ entry.1263970082, entry.995752065, entry.561732460]
