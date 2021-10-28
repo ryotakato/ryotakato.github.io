@@ -4,7 +4,7 @@ layout: page
 
 {% for post in site.posts limit:1 %}
 <div id="entry-content">
-  <h3>{{ post.title }}</h3>
+  <h3><a herf="{{ post.url }}" style="color: unset;">{{ post.title }}</a></h3>
   <h5>{{ post.date | date: '%Y-%m-%d %H:%M:%S' }}</h5>
   <ul style="text-align: right;" class="ul-none">
     <li style="display:inline-block;">Tags:</li>
@@ -25,7 +25,7 @@ layout: page
   <br/>
 </div>
 <hr/>
-ここはTOPページです。コメントなどは個々のページへお願いします。
+ここはTOPページです。コメントなどは<a herf="{{ post.url }}">個別のページ</a>へお願いします。
 {% endfor %}
 
 
