@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/10/24
+最終更新日：2021/10/31
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -45,6 +45,7 @@ date: 2021-03-04 06:35:44
 31. [時間とは何か](#book-31)
 32. [七人のイヴ　上](#book-32)
 33. [七人のイヴ　下](#book-33)
+34. [ものは言いよう](#book-34)
 
 
 
@@ -852,5 +853,27 @@ SF好きからは絶大な人気を集めている本。
 
 
 読み中
+
+
+
+### ものは言いよう {#book-34}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4592733010/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51s57mabAlL._SL200_.jpg" alt="ものは言いよう (MOE BOOKS)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4592733010/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ものは言いよう (MOE BOOKS)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ヨシタケシンスケ(著), MOE編集部(編集)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4592733010/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/10/27 読了
+
+ヨシタケシンスケさんを知るための本。
+本人へのインタビューとか、どうやって絵本作家になったかとか。
+結構ネガティブというか自虐的な人だけど、見てる観点が面白いので、スイスイ読んでしまえる。
+勝手な偏見だけど、絵本作家って自身の業績を変に誇ったりしないでほしいって思うから、
+そういう点ではヨシタケシンスケさんはまさにピッタリ合ってる感じはする。
+でも、この人はもっと自信もってよいと思うけどな。
+
+
+
+
+
+
 
 
