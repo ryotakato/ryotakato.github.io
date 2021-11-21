@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/10/31
+最終更新日：2021/11/22
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -46,6 +46,8 @@ date: 2021-03-04 06:35:44
 32. [七人のイヴ　上](#book-32)
 33. [七人のイヴ　下](#book-33)
 34. [ものは言いよう](#book-34)
+35. [デリカシー体操](#book-35)
+36. [聖の青春](#book-36)
 
 
 
@@ -852,7 +854,35 @@ SF好きからは絶大な人気を集めている本。
 
 
 
-読み中
+2021/11/13 読了
+
+
+この人の小説は造語が多くて読みづらいという評判だったけど、
+実際読んでみるとそこまで読みづらい印象はない。
+むしろ、関係あるのか分からないところが深く書かれていて、本筋を見失ってしまいがち。
+まあ、それが世界観を演出しているところがあるので、結構本の世界にはまり込んでしまう。
+
+七人のイブは設定がすでに面白いので、
+さらにそこからどう物語を展開していくのかが気になっていた。
+
+ネタバレになるけど、
+タイトルの意味およびクライマックスは第二部最後で7人の女性が残るところ。（実際には8人）
+そこから第三部にいくと人種問題が入ってきたりして、物語の構成をしっかり考えているなと思わせる。
+これをタイトルの意味が分かって終わりにしなかったのは、作者すごいなと思う。
+内容としては第二部で綺麗に終わりそうなので、
+普通なら、これからきっと人類は再度発展していくんだろうなという余韻を読者に託して本を終わらせるところを、
+さらにそこから自分なりの未来を描いたのが、作者の努力が伝わってくる。
+
+正直いうと、第三部は途中でダレるところがあったけど、最後のほうで伏線回収してたのが良かったかな。
+
+ただ、月が崩壊した原因が不明のままだったのが、ちょっと不満。
+見落としてるだけかな？
+でも、ネット探してもあまり見つからないから、
+もしかしたらまだ続編を考えているのかも。
+
+
+面白いけど、SF初めての人にはおすすめしない。
+
 
 
 
@@ -869,6 +899,71 @@ SF好きからは絶大な人気を集めている本。
 勝手な偏見だけど、絵本作家って自身の業績を変に誇ったりしないでほしいって思うから、
 そういう点ではヨシタケシンスケさんはまさにピッタリ合ってる感じはする。
 でも、この人はもっと自信もってよいと思うけどな。
+
+
+
+
+
+### デリカシー体操 {#book-35}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4766128990/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/4188ZLPXK2L._SL200_.jpg" alt="ヨシタケシンスケ スケッチ集 デリカシー体操" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4766128990/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ヨシタケシンスケ スケッチ集 デリカシー体操</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ヨシタケ シンスケ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4766128990/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/11/03 読了
+
+
+
+ものは言いように引き続き、ヨシタケシンスケさんの本
+デビュー前のスケッチ集で、
+ただ何気ないスケッチが並んでいるだけなんだけど、結構面白い。
+ふっとした疑問を描いたものも多く、気軽に読めるのに、
+ヨシタケシンスケさんの視点が何となく分かる気がする。
+
+日めくりカレンダーとかにしてあったら買っちゃうかも。
+
+
+
+### 聖の青春 {#book-36}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00LP6RWTK/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51sSZ8-cxcL._SL200_.jpg" alt="聖の青春 (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00LP6RWTK/?tag=tavi06-22" name="AmaQuicklink" target="_blank">聖の青春 (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">大崎善生(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00LP6RWTK/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2021/11/07 読了
+
+村山聖という夭折した棋士の生涯を描いた作品。
+
+藤井聡太が四冠を取り、昨今以前から続いている将棋ブームがより一層高まっているが、
+この本を読んだのは、別にそれがきっかけではなく、
+現在やってるドラマ「日本沈没」で松山ケンイチの演技が素晴らしく、
+その松山ケンイチがしっかり役づくりして望んだ映画「聖の青春」が素晴らしかったから。
+
+でも、本を見つけて、作者が大崎善生だってことに驚いた。
+僕にとってこの人はパイロットフィッシュ、アジアンタムブルーの人だったので、
+なんでその人が？って感じだった。
+
+調べたら、大崎さんは、むしろ将棋の世界の人だったらしい。
+この作品で作家としてデビューしたと言っていい。
+
+なので、俄然読んでみようという気になった。
+
+読んでみると、映画版はかなり圧縮されていることが分かった。
+少年時代のことや師匠との日々など、村山聖を形作る大事な部分がしっかりと記されている。
+
+そして、鬼気迫る対局や闘病生活。
+師匠と仲が良い大崎さんだからこそ書けた本であろう。
+
+この村山聖という男の生涯と気迫にただ感服するとともに、
+村山聖が生きた将棋の世界を少しでも垣間見たいと思い、
+この本をきっかけに、将棋に手を出してみたが、結構面白い。
+
+また他の将棋の本読んでいるからそっちで書くと思う。
+
+
+
+
+
 
 
 
