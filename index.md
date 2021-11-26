@@ -25,7 +25,7 @@ layout: page
   <br/>
 </div>
 <hr/>
-ここはTOPページです。コメントなどは<a href="{{ post.url }}">個別のページ</a>へお願いします。
+<a href="{{ post.url }}#comments-and-input">コメント</a>
 {% endfor %}
 
 
