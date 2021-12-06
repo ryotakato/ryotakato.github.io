@@ -5,7 +5,7 @@ tags : [本]
 date: 2021-03-04 06:35:44
 ---
 
-最終更新日：2021/11/22
+最終更新日：2021/12/06
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -48,6 +48,8 @@ date: 2021-03-04 06:35:44
 34. [ものは言いよう](#book-34)
 35. [デリカシー体操](#book-35)
 36. [聖の青春](#book-36)
+37. [ひふみんの将棋入門](#book-37)
+38. [名人に香車を引いた男―升田幸三自伝](#book-38)
 
 
 
@@ -959,6 +961,56 @@ SF好きからは絶大な人気を集めている本。
 この本をきっかけに、将棋に手を出してみたが、結構面白い。
 
 また他の将棋の本読んでいるからそっちで書くと思う。
+
+
+
+
+
+
+### ひふみんの将棋入門 {#book-37}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07GQ2YTBF/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41vFEmgPZOL._SL200_.jpg" alt="[新装版]ひふみんの将棋入門" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07GQ2YTBF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">[新装版]ひふみんの将棋入門</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">加藤一二三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07GQ2YTBF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/11/26 読了
+
+将棋をはじめて、アプリのぴよ将棋などで駒落ちCPU戦を戦っている。
+とりあえず8枚落ちまではピヨ帝に勝てるようになり、6枚落ちをやっている最中。
+
+将棋の入門書ということで、棒銀で有名な加藤一二三さんの本を選んでみた。
+基本的なことは知ってるつもりでも、
+例えば歩打ちで詰ませることができないのは知らなかったので、読んでおいて良かったと思った。
+また、詰将棋50問がついていたので、盤に並べてやってみた。
+詰将棋は、はじめてだったんだけど、なんとか45問ぐらいまでは間違いありつつ解けた。
+しかし、そこからは7手詰めだったので、難易度が高くて、答えをみただけで終わらせてしまった。
+
+加藤一二三さんはやっぱりメディアに出れるぐらいなので、話が面白く、
+横筋それるのが逆にいい味出してると思う。
+
+
+
+
+
+### 名人に香車を引いた男―升田幸三自伝 {#book-38}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/412204247X/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51565K8BMZL._SL200_.jpg" alt="名人に香車を引いた男―升田幸三自伝 (中公文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/412204247X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">名人に香車を引いた男―升田幸三自伝 (中公文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">升田 幸三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/412204247X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2021/11/27 読了
+
+聖の青春もそうだけど、
+将棋も面白いが、それより棋士の生き様が特に面白い。
+本書の升田幸三という人も、昭和の棋士だが、
+その破天荒な生き様がすごくて、今だと想像もできない人生だ。
+
+元々、GHQと舌論を交わしたというエピソードが気になってよんでみたんだけど、
+その他のエピソードも結構面白い。
+
+少年時代の途方もない夢をしっかりと叶えてしまうのが人物の大きさを伺えた。
+
+
+
+
 
 
 
