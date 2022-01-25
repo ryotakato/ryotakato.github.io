@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/01/15
+最終更新日：2022/01/25
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -31,6 +31,7 @@ date: 2022-01-08 09:51:44
 5. [上弦の月を喰べる獅子（上）](#book-5)
 6. [上弦の月を喰べる獅子（下）](#book-6)
 7. [スタートボタンを押してください　ゲームＳＦ傑作選](#book-7)
+8. [あるかしら書店](#book-8)
 
 
 
@@ -138,7 +139,27 @@ date: 2022-01-08 09:51:44
 
 2022/01/09 読了
 
-(感想書き中)
+
+夢枕獏を知ったのは、昔NHKでやってた、稲垣吾郎と杉本哲太の陰陽師をみてから。
+雰囲気が良かったので原作を読んだのがもう20年近く前。
+そこからずっと陰陽師シリーズは読み続けているが、
+他に読んだ夢枕獏の作品は、
+「沙門空海唐の国にて鬼と宴す」
+だけ。
+すごい長編だったけど、陰陽師に慣れている僕にはあまり印象に残らなかったなと思ってた。
+
+で、最近本作「上弦の月を喰べる獅子」を知ったので、勝手に新作かと思って読んでみた。
+最後のあとがきにて、結局これが、陰陽師よりも前に書かれていた本だと知ったが、
+そんな昔にこんな小説を書けるのはスゴいと思った。
+
+内容が知りたい人は読んでもらうとして、
+この話は螺旋がメインテーマになっていて、
+最後主人公が死んで発見されるんだけど、
+それが仏陀に転生したみたいな感じになっていて、
+ああ、仏教の輪廻転生を表している、つまり、螺旋なんだなってことが想起され、綺麗に終わっているのがすごかった。
+
+僕の中で、かなり好きな方の作品となった。
+
 
 
 
@@ -172,6 +193,27 @@ date: 2022-01-08 09:51:44
 この人の他の仕事の、「死者の代弁者」の新訳版とか「ネクサス」は翻訳に違和感なく読めたので、結構気に入っている翻訳者。
 
 
+
+
+
+
+### あるかしら書店 {#book-8}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0714PLRQR/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61-bBhSBoFL._SL200_.jpg" alt="あるかしら書店" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0714PLRQR/?tag=tavi06-22" name="AmaQuicklink" target="_blank">あるかしら書店</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ヨシタケシンスケ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0714PLRQR/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2022/01/23 読了
+
+
+実は去年子供が読みたいというので図書館で借りて読んでたのだが、
+また今年になって再度読みたいということでまた借りた。
+
+よくこういう発想になるなーってのが多くて、
+ヨシタケシンスケさんの中では結構好きだな。
+本好きにはたまらないと思う。
+
+特に水中図書館の話が好き。
 
 
 
