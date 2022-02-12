@@ -12,6 +12,7 @@ kramdown:
   hard_wrap: true
 safe: false
 timezone: UTC
+future: true
 lsi: false
 baseurl: /
 
