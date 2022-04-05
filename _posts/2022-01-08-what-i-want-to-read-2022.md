@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/01/25
+最終更新日：2022/04/05
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -32,7 +32,8 @@ date: 2022-01-08 09:51:44
 6. [上弦の月を喰べる獅子（下）](#book-6)
 7. [スタートボタンを押してください　ゲームＳＦ傑作選](#book-7)
 8. [あるかしら書店](#book-8)
-
+9. [犬ぞり探検家が見た！ ふしぎな北極のせかい](#book-9)
+10. [超高速！　参勤交代](#book-10)
 
 
 
@@ -217,6 +218,41 @@ date: 2022-01-08 09:51:44
 
 
 
+
+### 犬ぞり探検家が見た！ ふしぎな北極のせかい {#book-9}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07N7D2MRQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51DtEuoo82L._SL200_.jpg" alt="犬ぞり探検家が見た！ ふしぎな北極のせかい" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07N7D2MRQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">犬ぞり探検家が見た！ ふしぎな北極のせかい</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">山崎 哲秀(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07N7D2MRQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/04/02 読了
+
+NHKのカネオくんで、山崎哲秀さんが紹介されていて、
+すごいなーと思って、その人の書いた本を読んでみた。
+
+北極の様々な紹介なので、「へぇー」と思いながら読める。
+
+一番面白かったのは、最後のほうの奥さんとの馴れ初め。
+
+やはり、こういう特別な人には特別な奥さんがいるもんだなと思った。
+
+
+
+###  超高速！　参勤交代 {#book-10}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01DVW4CVG/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51xb7s++6QL._SL200_.jpg" alt="超高速！　参勤交代 (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01DVW4CVG/?tag=tavi06-22" name="AmaQuicklink" target="_blank">超高速！　参勤交代 (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">土橋章宏(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01DVW4CVG/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/04/04 読了
+
+佐々木蔵之助主演で映画化したやつの原作。
+映画は普通のコメディだったけど、原作が評価が高いので図書館で借りて読んでみた。
+確かに小説のほうが人物の深堀りがされていて、面白いし、話がまとまっている。
+クライマックスも、映画のような皆で戦う感じではなく、面白い。
+もちろん、設定はめちゃくちゃだけど、それ関しては、そういうものとして読むべきだし。
+
+ところどころ、カッコいいシーンも出てくるので、ただのお笑いになっていないのがいい。
+わずか一日で読めてしまったので、続編のリターンズも読もうかな。
 
 
 
