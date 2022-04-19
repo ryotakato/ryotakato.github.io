@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/04/05
+最終更新日：2022/04/19
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -34,6 +34,7 @@ date: 2022-01-08 09:51:44
 8. [あるかしら書店](#book-8)
 9. [犬ぞり探検家が見た！ ふしぎな北極のせかい](#book-9)
 10. [超高速！　参勤交代](#book-10)
+11. [超高速！　参勤交代　リターンズ](#book-11)
 
 
 
@@ -238,7 +239,7 @@ NHKのカネオくんで、山崎哲秀さんが紹介されていて、
 
 
 
-###  超高速！　参勤交代 {#book-10}
+### 超高速！　参勤交代 {#book-10}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01DVW4CVG/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51xb7s++6QL._SL200_.jpg" alt="超高速！　参勤交代 (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01DVW4CVG/?tag=tavi06-22" name="AmaQuicklink" target="_blank">超高速！　参勤交代 (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">土橋章宏(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01DVW4CVG/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
@@ -253,6 +254,25 @@ NHKのカネオくんで、山崎哲秀さんが紹介されていて、
 
 ところどころ、カッコいいシーンも出てくるので、ただのお笑いになっていないのがいい。
 わずか一日で読めてしまったので、続編のリターンズも読もうかな。
+
+
+### 超高速！　参勤交代　リターンズ {#book-11}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01HPDLO04/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51SRDhsqBVL._SL200_.jpg" alt="超高速！　参勤交代　リターンズ (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01HPDLO04/?tag=tavi06-22" name="AmaQuicklink" target="_blank">超高速！　参勤交代　リターンズ (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">土橋章宏(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01HPDLO04/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/04/18 読了
+
+またしても読み始めから一日で読んでしまった。
+やっぱり映画版よりよっぽど面白い。
+
+松平信祝の策も結構深くて、逆襲って感じがする。
+
+でも、最後のクライマックスはかなり急いだ感じがするなー。
+もうちょっと丁寧にできたような気がする。
+
+まあ、面白かったからいいけど。
 
 
 
