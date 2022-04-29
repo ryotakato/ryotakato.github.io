@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/04/19
+最終更新日：2022/04/29
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -35,6 +35,9 @@ date: 2022-01-08 09:51:44
 9. [犬ぞり探検家が見た！ ふしぎな北極のせかい](#book-9)
 10. [超高速！　参勤交代](#book-10)
 11. [超高速！　参勤交代　リターンズ](#book-11)
+12. [なん者ひなた丸ねことんの術の巻 (なん者・にん者・ぬん者) ](#book-12)
+13. [われらはレギオン４　驚異のシリンダー世界　上](#book-13)
+14. [われらはレギオン４　驚異のシリンダー世界　下](#book-14)
 
 
 
@@ -274,6 +277,62 @@ NHKのカネオくんで、山崎哲秀さんが紹介されていて、
 
 まあ、面白かったからいいけど。
 
+
+### なん者ひなた丸ねことんの術の巻 (なん者・にん者・ぬん者) 超高速！　参勤交代　リターンズ {#book-12}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038215/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/515M2CXEMSL._SL200_.jpg" alt="なん者ひなた丸ねことんの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038215/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸ねことんの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038215/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/04/22 読了
+
+子供の本を探していたら、ふと見つけた。
+僕が子供の頃、すごく読んでたシリーズの第一作。
+なんで忘れていたんだろうと思うほど、このシリーズは好きだった。
+
+久々に読みたいと思い、図書館で借りて、子供に読んであげた。
+ウチの子の年齢からすると、字が多くて、まだ早いかなと思ったけど、
+言葉の言い回しが面白くて、結構集中して聞いてくれた。
+
+いやー、話の流れは単純なんだけど、やっぱり面白いな。
+思い出補正があるのは否定しないけど、
+忍者モノの第一作に吸血鬼出すとか、結構勇気がいるチョイスだね。
+それでも上手くまとめているあたり、やっぱり著者の斉藤さんはすごいなー。
+
+僕が子供の頃はまだ全巻出てないときだったから、9巻か10巻以降は読んでない気がする。
+ということで、今後も全巻図書館で借りて読んでみるつもり。
+
+ちなみにこんなに面白いのに、あまりネットでは面白いって言ってる人が少なく、
+僕が見つけたのは下記ページを見つけたから。
+[隠れた傑作「なん者ひなた丸ねことんの術の巻」](http://ninja-deli.com/blog/post-934/)
+
+
+
+
+### われらはレギオン４　驚異のシリンダー世界　上 {#book-13}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09WQZFYTR/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41qcVzEbKtL._SL200_.jpg" alt="われらはレギオン４　驚異のシリンダー世界　上 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09WQZFYTR/?tag=tavi06-22" name="AmaQuicklink" target="_blank">われらはレギオン４　驚異のシリンダー世界　上 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">デニス Ｅ テイラー(著), 金子 浩(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09WQZFYTR/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/04/23 読了
+
+
+感想は下巻と一緒に。
+
+
+### われらはレギオン４　驚異のシリンダー世界　下 {#book-14}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09WQXZ8JJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41uH4BtJjIL._SL200_.jpg" alt="われらはレギオン４　驚異のシリンダー世界　下 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09WQXZ8JJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">われらはレギオン４　驚異のシリンダー世界　下 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">デニス Ｅ テイラー(著), 金子 浩(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09WQXZ8JJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/04/29 読了
+
+非常に気に入っているSF「われらはレギオン」シリーズの最新作。
+英語の原作が以前発売されていたのは知ってたんだけど、
+和訳はいつだろうってずっと期待していたので、
+ついこないだ発売されたのを見かけて、すぐKindleで購入した。
+
+アザーズを倒した後、ボビヴァースがどのようになっていくのだろうと思っていたが、なるほどこうなったか。
+やっぱりどこまでいっても政治からは逃れられないのね。
+ちゃんと前作までの謎だったベンダーのことが軸になっていて、探検があったり、陰謀があったりして、面白かった。
+このシリーズはまだまだ構想しているらしく、新作が待ち遠しい。
 
 
 
