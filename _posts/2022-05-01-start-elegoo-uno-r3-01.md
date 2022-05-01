@@ -24,7 +24,7 @@ Elegoo UNO R3 のスターターキットを買ってみた。
 参考したのは下記
 丁寧に説明していて、わかりやすい。
 
-[子供と一緒に始める マイコンプログラム Arduino 入門 【購入編】 | おもろ家](https://omoroya.com/arduino00/)
+[子供と一緒に始める マイコンプログラム Arduino 入門 【購入編】 &#124; おもろ家](https://omoroya.com/arduino00/)
 
 
 
