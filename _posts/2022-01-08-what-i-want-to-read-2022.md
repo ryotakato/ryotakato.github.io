@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/05/17
+最終更新日：2022/06/03
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -38,6 +38,8 @@ date: 2022-01-08 09:51:44
 12. [なん者ひなた丸ねことんの術の巻 (なん者・にん者・ぬん者) ](#book-12)
 13. [われらはレギオン４　驚異のシリンダー世界　上](#book-13)
 14. [われらはレギオン４　驚異のシリンダー世界　下](#book-14)
+15. [法治の獣](#book-15)
+16. [オーラリメイカー](#book-16)
 
 
 
@@ -317,6 +319,31 @@ NHKのカネオくんで、山崎哲秀さんが紹介されていて、
 ちゃんと前作までの謎だったベンダーのことが軸になっていて、探検があったり、陰謀があったりして、面白かった。
 このシリーズはまだまだ構想しているらしく、新作が待ち遠しい。
 
+
+### 法治の獣 {#book-15}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09XV2FSG7/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/510QQDBRO1L._SL200_.jpg" alt="法治の獣 (ハヤカワ文庫JA)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09XV2FSG7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">法治の獣 (ハヤカワ文庫JA)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">春暮 康一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09XV2FSG7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/05/30 読了
+
+久々に日本人で面白いSF作家を見つけた。
+中編3つが収録されているんだけど、
+どれも設定が独特で、それでいて、分かりづらくない。
+そして、物語の方向がそっちにいくのか！と驚きを与えてくれる。
+
+3つの中では「方舟は荒野をわたる」が一番好きかな。
+生物がこんな風に進化するという設定が非常に面白い。
+
+この人はデビュー作の「オーラリメイカー」って本もあるらしいから、そっちもすぐにポチッた。
+
+
+### オーラリメイカー {#book-16}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B081H6SMY7/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/4102hKtel2L._SL200_.jpg" alt="オーラリメイカー" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B081H6SMY7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">オーラリメイカー</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">春暮 康一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B081H6SMY7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+（読み中）
 
 
 

@@ -109,7 +109,17 @@ date: 2022-05-17 19:49:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/425103824X/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61cveQnLUnL._SL200_.jpg" alt="なん者ひなた丸 火炎もぐらの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/425103824X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 火炎もぐらの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/425103824X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-(読み中)
+2022/05/22 読了
+
+今回はまる丸が出てこないので、ひなた丸だけで話が進む。
+だけど、ストーリーは王道で素晴らしい。
+クライマックスでは、敵を倒すのは武士の役割といわんばかりに、
+ひなた丸はいかにも忍者っぽい動き方をするので、子供がやっても無理がなく、話がまとまっている。
+子供は途中でおばけが出てきて怖いって言ってたが、
+僕は今までのシリーズの中で、一番好きかも。
+
+
+
 
 
 
@@ -118,7 +128,16 @@ date: 2022-05-17 19:49:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038258/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51BTsbCJEIL._SL200_.jpg" alt="なん者ひなた丸 月光くずしの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038258/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 月光くずしの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038258/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-(読み中)
+2022/05/28 読了
+
+この巻は、犬丸再登場、そして1巻の吸血鬼関連のお話だったので、
+今までを読んでいると楽しめる巻になっている。
+
+しかし、その前日談などにページを割いているせいか、
+ラストがあっけなさすぎて、物足りない感。
+術の名前が、月光くずしの術と、やたらかっこいいせいか余計にそう思う。
+
+まあ、それを逆手に取って笑いにかえているので、ある意味狙い通りなのかもだけど。
 
 
 
@@ -128,9 +147,31 @@ date: 2022-05-17 19:49:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038266/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51x3Wo4Pj5L._SL200_.jpg" alt="なん者ひなた丸 金とん雲の術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038266/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 金とん雲の術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038266/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2022/05/31 読了
+
+今回は、西遊記をちょいちょいひっぱってきたんだけど、
+正直、後の巻のためのキャラクター出しみたいなところがあって、あまり面白くはないかな。
+もちろん、堂田の国へ忍び込むって設定は面白いんだけど、
+なん者であるひなた丸がやるにはちょっと任務がむずすぎる気がする。
+それなのに、大丈夫じゃろうといって送り出すおじいちゃんが違和感。
+今までなら、ちゃんとダメじゃって言ってたはずなのに。
+でも、ひなた丸が捕まってしまってから、どうなる！という雰囲気を出しているのはスリルがあっていい。
+そして、そこからのクライマックスも。
+
+ただ、表題の金とん雲の術は微妙。
+
+
+
+
+
 ### なん者ひなた丸 津波がえしの術の巻 {#book-7}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038274/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51fzBqfIo0L._SL200_.jpg" alt="なん者ひなた丸 津波がえしの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038274/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 津波がえしの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038274/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+（読み中）
+
+
 
 
 
