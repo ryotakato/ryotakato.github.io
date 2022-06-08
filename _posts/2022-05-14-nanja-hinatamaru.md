@@ -169,9 +169,20 @@ date: 2022-05-17 19:49:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038274/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51fzBqfIo0L._SL200_.jpg" alt="なん者ひなた丸 津波がえしの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038274/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 津波がえしの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038274/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-（読み中）
+2022/06/04 読了
+
+面白かった！
+ここまでの中で一番面白かったんじゃないかな。
+やっぱり、国の存亡の危機ってのはストーリーにしやすいので、展開が安定している。普通に映画にありそう。
+そしてその中に、
+ひなた丸、三蔵、くも丸、いぬ丸、まる丸に、それぞれ忍者としての活躍の場を与えているので、
+主人公たちが活躍しないということもない。
+
+でもって、表題の津波がえしの術は、なるほどと思わせる感じの仕掛けになっている。
+実際の忍者ってきっとこんな感じよねっていう術だね。
 
 
+全部で15巻あるから、この巻が前半のクライマックスって感じかな。
 
 
 
