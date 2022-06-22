@@ -190,11 +190,43 @@ date: 2022-05-17 19:49:44
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038282/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61LiV24fw8L._SL200_.jpg" alt="なん者ひなた丸 千鳥がすみの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038282/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 千鳥がすみの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038282/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2022/06/14 読了
+
+金とん雲の術の巻もそうだったけど、
+術の前ふりが長くなってきてる気がする。
+今回の術は木から飛び降りながら、縄を自分の足と木の枝に結び、
+まるで飛び降りたように見せかせながら空中に浮いてるという術。
+そして、それを霧の中など視認性が悪い場所でやって、相手の頭上を取るという狙いなんだけど、
+これを言葉で説明されても子供は伝わるのかな。
+まあ、この巻まで読んでいる子なら頑張って読み取ってくれるのかもしれない。
+
+この話はなかなか面白かったけど、
+色々詰め込みすぎて、カットした場面が多いのが気になる。
+公家の子とのシーンとか、ほとんど回想で済ませたし。
+おそらく入り切らなくなって、なくなく削ったんだろうな。
 
 
 ### なん者ひなた丸 黒潮がくれの術の巻 {#book-9}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038290/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516Kp5BF+6L._SL200_.jpg" alt="なん者ひなた丸 黒潮がくれの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038290/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 黒潮がくれの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038290/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/06/21 読了
+
+ひなた丸のライバル的な存在が出てくる話なんだけど、
+いまいち盛り上がらない。
+
+話のスタートはわりとすんなり入ってきたんだけど、
+片平直之進が出てくるあたりで、ちょいちょいおかしい場面が出てくる。
+大人のくせにルール破ってひなた丸に仕事を頼む片平直之進が、
+しかも、半ば脅しともとれる言葉でなんとかひなた丸を誘導するところ（こいつ、こんなキャラだっけ）とか、
+それでも乗っかってしまうひなた丸とか、
+ひなた丸のライバルが出てきたときに、攻撃されたのにあまり警戒しないひなた丸とか。
+
+そしてクライマックスもイルカのおかげ感があって、微妙に盛り上がりに欠けるなー。
+
+
+
 
 
 ### なん者ひなた丸 空蝉おとしの術の巻 {#book-10}
