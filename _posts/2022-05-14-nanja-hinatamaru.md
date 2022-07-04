@@ -234,9 +234,36 @@ date: 2022-05-17 19:49:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038304/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61cq6MYAbAL._SL200_.jpg" alt="なん者ひなた丸 空蝉おとしの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038304/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 空蝉おとしの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038304/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2022/07/02 読了
+
+火炎もぐらの術に出てきた飛田の若君が立ち上がって国を取り返す話と、
+ひなた丸が敵の忍者と戦う話がうまくまとめられている、良作。
+詰め込み過ぎな感はないでもないけど、
+最初のほうでくも丸おじさんがこないことが伏線になってたし、
+ちゃんと繋がっていて、しかもひなた丸がしっかり活躍するから、結構楽しめる。
+
+しかし、ひなた丸が強いというか、機転をきかせるのが上手いんだけど、
+ストーリー上、それをしっかりと魅せるために、くも丸おじさんがやられるパターンが多くて、
+くも丸おじさんの株がどんどん落ちているｗ
+お前、なん者を卒業したにん者じゃないのかｗ
+
+犬丸や他の面々との会話は相変わらずおもしろい。
+
+
+ちなみに、このシリーズ、巻を増す毎に説明しなくてはいけない事柄が増えるんだけど、
+それをあえてきっちり説明する（そこを面白くしている）ので、
+5歳の子供に読んで聞かせるにはちょっとダレる部分もある。
+
+
+
+
 ### なん者ひなた丸 南蛮づくしの術の巻 {#book-11}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038312/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51iA6aO6I7L._SL200_.jpg" alt="なん者ひなた丸 南蛮づくしの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038312/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 南蛮づくしの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038312/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+(読み中)
+
 
 
 ### なん者ひなた丸 まぼろし衣切りの術の巻 {#book-12}
