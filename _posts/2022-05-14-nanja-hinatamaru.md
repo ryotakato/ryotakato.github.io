@@ -262,13 +262,38 @@ date: 2022-05-17 19:49:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038312/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51iA6aO6I7L._SL200_.jpg" alt="なん者ひなた丸 南蛮づくしの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038312/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 南蛮づくしの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038312/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-(読み中)
+2022/07/07 読了
+
+今回は設定やところどころの笑い要素が面白かったけど、
+オチがちょっと弱いな。
+ひなた丸を活躍させるために、龍宮亀々斎を弱く書きすぎている。
+実は泳げないという弱点を与えたのは、流石にやりすぎじゃないかな。
+
+虫眼鏡で燃やすところや、幻術破りに鏡を使用するところなんかは、
+王道の忍者っぽくて、非常に面白いのになー。
+
+ちなみに、おじいちゃんが南蛮語がペラペラというのは驚いたｗ
+
+
 
 
 
 ### なん者ひなた丸 まぼろし衣切りの術の巻 {#book-12}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038320/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Y0FWFBKML._SL200_.jpg" alt="なん者ひなた丸まぼろし衣切りの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038320/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸まぼろし衣切りの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038320/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/07/22 読了
+
+めずらしく雪景色。
+タイトルからは想像しづらい作品だが、
+他国に入って密書を届けるなんて、いかにも忍者っぽいし、
+そこで騒動に巻き込まれるが、実はいい奴と思っていたのが悪い奴で、
+窮地になりながらも、協力して解決するって感じが、
+非常に楽しくて、結構良かったと思う。
+ところどころにくすっと笑えるとこもあるし。
+
+
 
 
 
@@ -278,15 +303,73 @@ date: 2022-05-17 19:49:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038339/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51KCGX110ZL._SL200_.jpg" alt="なん者ひなた丸 むささび城封じの術の巻 (なん者・にん者・ぬん者 (13))" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038339/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 むささび城封じの術の巻 (なん者・にん者・ぬん者 (13))</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038339/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2022/07/23 読了
+
+犬丸が出てくるお話。
+途中経過に無理があるのは分かるが、
+それでも因縁の堂田の国に乗り込んでとのさまを人質に取る展開は熱い。
+
+最後、ぶんどった千両箱をちゃんと分配する犬丸がほんといい奴。
+
+
+前のまぼろし衣切りもそうだけど、
+ひなた丸の術の名前がどんどん大げさになっているのは、
+やはりおじいちゃんの三蔵が名付けているからかな。
+
+
+
 
 ### なん者ひなた丸 ばけねこ鏡わりの術の巻 {#book-14}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038347/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51BMMA0PWCL._SL200_.jpg" alt="なん者ひなた丸 ばけねこ鏡わりの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038347/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸 ばけねこ鏡わりの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038347/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2022/07/29 読了
+
+普段とは違って、何田の国の城が主な舞台。
+色々偽物が現われて、国中が混乱するという、よくある話。
+そして、最後は龍宮流と因縁の対決。
+
+だけど、やっぱり南蛮づくしと同じで、
+龍宮流を弱く書きすぎてる気がするな。
+そこらへんがもやもやして、しっかり楽しめない。
+
+
+
+
 ### なん者ひなた丸 まどわし大ねことんの術の巻 {#book-15}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251038355/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/510H794FJ4L._SL200_.jpg" alt="なん者ひなた丸まどわし大ねことんの術の巻 (なん者・にん者・ぬん者)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251038355/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なん者ひなた丸まどわし大ねことんの術の巻 (なん者・にん者・ぬん者)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">斉藤 洋(著), 大沢 幸子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251038355/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/08/06 読了
+
+最終巻。
+
+話自体は、あやしい店に忍び込むことになるというありがちなものだが、
+1巻での伏線（というか、伏線と思っていなかった冗談）を思ってもみない形で出してきたのは、非常に面白かった。
+今回の敵は別の忍者なのだが、それはあまり思い入れがなくて、微妙だが、
+前巻までで、龍宮流の忍者はあらかた登場させてしまったため、仕方ない感じはする。
+ちゃんと三蔵が見守ってくれたということや、
+まる丸の登場シーンもあったりして、最後にふさわしいように描いているのは高評価。
+
+ああ、本当にこのシリーズは好きなので、
+これで終わってしまっているのが悲しい。
+もっと書いてほしいけど、もう斉藤洋さんもお年を召しているから無理かな。
+
+この世の作品で、自分の好きなものをアニメ化していいと言われたら、
+迷わず、なん者ひなた丸シリーズと答えるだろう。
+
+本当に面白かった。
+ありがとう！
+
+
+
+
+
+
+
+
 
 
 
