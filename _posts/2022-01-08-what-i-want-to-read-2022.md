@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/06/03
+最終更新日：2022/10/03
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -40,6 +40,19 @@ date: 2022-01-08 09:51:44
 14. [われらはレギオン４　驚異のシリンダー世界　下](#book-14)
 15. [法治の獣](#book-15)
 16. [オーラリメイカー](#book-16)
+17. [鬼の橋](#book-17)
+18. [かいぞくポケットシリーズ](#book-18)
+19. [ぞくぞく村のおばけシリーズ](#book-19)
+20. [かいけつゾロリシリーズ](#book-20)
+21. [ヨチヨチ父](#book-21)
+22. [不安を力に変える ゆるっと哲学](#book-22)
+23. [十角館の殺人](#book-23)
+24. [探偵ガリレオ](#book-24)
+25. [予知夢](#book-25)
+
+
+
+
 
 
 
@@ -343,7 +356,162 @@ NHKのカネオくんで、山崎哲秀さんが紹介されていて、
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B081H6SMY7/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/4102hKtel2L._SL200_.jpg" alt="オーラリメイカー" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B081H6SMY7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">オーラリメイカー</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">春暮 康一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B081H6SMY7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-（読み中）
+2022/08/14 読了
+
+「法治の獣」が良かったから、デビュー作も読んでみたけど、評価が難しい。
+設定などはSFとしてかなりそそられるし、着眼点も面白い。
+今後これをベースにして世界観を広げることも可能だから、
+続きというか、同一世界の話をもっと読みたいところではあるが、
+この話単体だと、微妙にドラマ性が薄くて、淡々としているんだよね。
+起承転結のメリハリが薄いというか。
+
+もちろん、今後も注目していこうと思う作家だが、短編のほうが合ってるのかもしれない。
+
+
+
+
+
+### 鬼の橋 {#book-17}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4834027392/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51pnJjfXSjL._SL200_.jpg" alt="鬼の橋 (福音館文庫 物語)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4834027392/?tag=tavi06-22" name="AmaQuicklink" target="_blank">鬼の橋 (福音館文庫 物語)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">伊藤遊(著), 太田大八(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4834027392/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/08/03 読了
+
+小学5,6年生向けに紹介されていた本だが、
+ウチの子には流石にまだ早いので、自分で読んでみた。
+一言で言えば、少年の成長物語だが、
+それが平安時代という鬼やあの世などの人ならざるものが身近にあった時代を舞台としているので、惹かれるものがある。
+お話自体はそれほどおもしろいとは思わなかったが、
+終わりはハッピーエンドだったので良かった。
+
+
+
+### かいぞくポケットシリーズ {#book-18}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251037715/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51PFXQR-tlL._SL200_.jpg" alt="なぞのたから島 (かいぞくポケット 1)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251037715/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なぞのたから島 (かいぞくポケット 1)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">寺村 輝夫(著), 永井 郁子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251037715/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/08/21 7巻まで読了、今後順次読んでいく
+
+
+
+### ぞくぞく村のおばけシリーズ {#book-19}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251036719/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51B1179F59L._SL200_.jpg" alt="ぞくぞく村のミイラのラムさん (ぞくぞく村のおばけシリーズ)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251036719/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ぞくぞく村のミイラのラムさん (ぞくぞく村のおばけシリーズ)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">末吉 暁子(著), 垂石 真子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251036719/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/08/21 1巻読了、今後順次読んでいく
+
+
+
+### かいけつゾロリシリーズ {#book-20}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/459102654X/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51X9A0EATWL._SL200_.jpg" alt="かいけつゾロリのドラゴンたいじ (1) (かいけつゾロリシリーズ ポプラ社の小さな童話)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/459102654X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">かいけつゾロリのドラゴンたいじ (1) (かいけつゾロリシリーズ ポプラ社の小さな童話)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">原 ゆたか(著), 原 ゆたか(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/459102654X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/08/21 71巻出ているうちの、60巻ぐらいは読んでいると思う、今後残り読んでいく
+
+
+### ヨチヨチ父 {#book-21}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4870141264/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41u0Zq6muHL._SL200_.jpg" alt="ヨチヨチ父 とまどう日々" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4870141264/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ヨチヨチ父 とまどう日々</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ヨシタケシンスケ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4870141264/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/08/26 読了
+
+ヨシタケシンスケさんの有名な本。
+分かるという点と、あまり共感できない点が混ざってる感じ。
+中身だけというよりヨシタケシンスケさんの絵とともに楽しむ感じ。
+
+
+### 不安を力に変える ゆるっと哲学 {#book-22}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08CNGXF51/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Nl04VqmIL._SL200_.jpg" alt="不安を力に変える ゆるっと哲学" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08CNGXF51/?tag=tavi06-22" name="AmaQuicklink" target="_blank">不安を力に変える ゆるっと哲学</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ただっち(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08CNGXF51/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/09/10 読了
+
+Eテレで、「ロッチと子羊」という哲学番組をやっているが、
+それに出ている哲学者の小川仁志先生が監修をやっている本。
+この人は哲学を分かりやすく、現代人に合った形で解説してくれるので、とっつきやすいが、
+本書ではそれを漫画とその解説という形にしているので、余計に分かりやすく、軽々と読めた。
+でも、哲学の入り口に立ったような感じを与えてくれるから不思議だ。
+
+
+### 十角館の殺人 {#book-23}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00CE3T6OC/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51qH15c6r6L._SL200_.jpg" alt="十角館の殺人〈新装改訂版〉 ｢館｣シリーズ (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00CE3T6OC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">十角館の殺人〈新装改訂版〉 ｢館｣シリーズ (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">綾辻行人(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00CE3T6OC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/09/20 読了
+
+キャンプにいくときにKindleで読める本格ミステリーを読みたいと思ったので、
+有名な綾辻行人さんの館シリーズに手を出してみようと思った。
+ちなみに綾辻さんは、僕が好きな十二国記シリーズの小野不由美さんの配偶者でもある。
+
+感想としては、評判がいいだけあって、レベルが高いなと思った。
+最初に十角館に集まった面々を、ニックネームでしか呼ばせないあたり、
+ははーん、名前のトリックがあるなってことは分かるし、
+本土のほうの人物がなんとなく怪しいなってのも読めてしまうのだけど、
+それを差し引いても読ませるなーと思う。
+1作品として、キャラクターがしっかりたっている人物ばかりだし、トリックや動機も面白い。
+
+ただ、シリーズとして登場しそうな、島田潔がまだ魅力的には思えないので、
+もう少しシリーズを読んでいかないと、このシリーズを本当に好きになるかどうかは判断つかない。
+
+
+
+
+
+
+### 探偵ガリレオ {#book-24}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4167110075/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51PI-h072LL._SL200_.jpg" alt="探偵ガリレオ (文春文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4167110075/?tag=tavi06-22" name="AmaQuicklink" target="_blank">探偵ガリレオ (文春文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">圭吾, 東野(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4167110075/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/09/28 読了
+
+現在、映画「沈黙のパレード」が公開されているが、
+それに際し、TVerでガリレオがみれるようになってたので、
+当時見てなかったシーズン2だけみたのだが、
+改めて小説を読んでみたくなったので、読んでみた。
+
+東野圭吾さんは電子書籍に必ずしも賛成していないので、
+ガリレオシリーズでは「容疑者xの献身」以外はすべて紙の書籍しかない。
+（ちなみに容疑者xの献身は持ってる。映画版が最高。石神は堤真一以外考えられない）
+
+そのため、図書館で借りたのだが、
+最初の巻のためか、まだ湯川と草薙のキャラがしっかり固まっていないながらも、
+サクサク読めて楽しい。
+内容はどれもドラマで見てたからトリックに驚きはなかったものの、
+各話を上手く短編にまとめたなーと思う。
+
+どんどん読んでいこうと思うが、
+楽しみなのは、真夏の方程式と、禁断の魔術。
+
+特に禁断の魔術はこの前スペシャルドラマ化されていて、村上虹郎がいい味出していたから、原作がどんななのか気になっている。
+
+
+
+
+### 予知夢 {#book-25}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4167110083/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51UVNpCp8iL._SL200_.jpg" alt="予知夢 (文春文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4167110083/?tag=tavi06-22" name="AmaQuicklink" target="_blank">予知夢 (文春文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">圭吾, 東野(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4167110083/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/10/01 読了
+
+前作に続き、こちらもすらすら読めたが、
+絞殺る（しめる）や、予知る（しる）が、最後必ずしも犯人が捕まるわけではないという終わり方は、
+ドラマより良かった気がする。
+ガリレオっぽくはないかもだが、
+必ずしもすべてが科学で解決できるわけではないということを示唆していて、
+ガリレオが万能ではないということを仄めかしてくれた。
+
+
+
+
+
+
+
+
 
 
 

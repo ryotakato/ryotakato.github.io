@@ -16,6 +16,9 @@ date: 2022-06-25 07:41:44
 
 [MF2_育成支援ツール_v1.2](https://docs.google.com/spreadsheets/d/1jxFmnKAeCVAJWgbE_xy1XXP5rtjpYqxk_7w7qtyV3vM/edit?usp=sharing)
 
+（2022/07/09現在の最新は下記です。）
+[MF2_育成支援ツール_v1.4](https://docs.google.com/spreadsheets/d/1zkvIYErI5e12HG2e0ZoLVia99rKm2adCTxA06U1cLPM/edit?usp=sharing)
+
 
 モンスター毎にシートを作り、エサや各週の行動を入力していくことで、
 寿命を削ることなく体調値を管理していく。
