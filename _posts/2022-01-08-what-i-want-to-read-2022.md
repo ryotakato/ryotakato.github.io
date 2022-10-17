@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/10/03
+最終更新日：2022/10/17
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -49,6 +49,8 @@ date: 2022-01-08 09:51:44
 23. [十角館の殺人](#book-23)
 24. [探偵ガリレオ](#book-24)
 25. [予知夢](#book-25)
+26. [ガリレオの苦悩](#book-26)
+27. [聖女の救済](#book-27)
 
 
 
@@ -506,6 +508,66 @@ Eテレで、「ロッチと子羊」という哲学番組をやっているが�
 ガリレオが万能ではないということを仄めかしてくれた。
 
 
+
+### ガリレオの苦悩 {#book-26}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/416711013X/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51-IFZJ1d1L._SL200_.jpg" alt="ガリレオの苦悩 (文春文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/416711013X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ガリレオの苦悩 (文春文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野　圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/416711013X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/10/15 読了
+
+ガリレオ4作目。
+今回から内海薫が登場する。
+ドラマでは柴咲コウだが、たぶんドラマからの逆輸入キャラなので、
+非常にイメージに合ってる。
+
+だけど最初の話で、
+湯川と草薙が疎遠であり、最近は捜査協力もしていないってところから始まるので、
+やっぱり容疑者xの献身の事件が尾を引いているのかなと思う。
+
+話はどれも面白いけど、
+2013年版のドラマ（吉高由里子が出てるやつ）を最近みてたから、
+オチはだいたい知ってる。
+
+読んで思ったのが、原作だと栗林が出てこないが、
+ドラマだと、上手く登場させたなと思う。
+あれがあるので、コメディ要素とシリアス要素のメリハリがついてる気がする。
+
+
+
+
+### 聖女の救済 {#book-27}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4163276106/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/414rGJFvv2L._SL200_.jpg" alt="聖女の救済" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4163276106/?tag=tavi06-22" name="AmaQuicklink" target="_blank">聖女の救済</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野 圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4163276106/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/10/16 読了
+
+2013年版のドラマの最後2話を飾った話。元は長編だったのか。
+
+長い話なので、設定はちょいちょい変わっているけど、
+概ねの流れはドラマ版と変わらない。
+犯人は天海祐希のイメージで合ってたなー。
+
+1日で一気に読んでしまったから、面白いんだけど、
+子供がいる身としては、子供ができないとか産む産まないとかの話は読んでいて辛いものがある。
+辛いというか共感できてしまう分、本の内容にひっぱられるというか。
+
+やっぱり長編は犯人に焦点をあてた書き方なのかな。
+容疑者xの献身もそうだけど、今回も犯人の心情などが多めだった。
+
+
+気になったのは、
+被害者の人生観がちょっと特殊すぎて、
+そして、それに輪をかけてトリックが特殊で、
+そこがどうしても気になってしまうことかな。
+
+現実にこんな人生観を持って、しかもそれを何がなんでも実行するほど意思がぶれないやつってそんなにいるのかな。
+また、トリックは危険多すぎて、非現実的なのが。
+
+まあ、その非現実的だから湯川しか分からなかったという話なので、
+そういうものだと言ってしまえばそれまでなんだけど。
+
+話は好きだけど、モヤモヤ部分も多く残る話だったな。
+でも容疑者xの献身はまだ超えられていない。
 
 
 
