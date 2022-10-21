@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F１Manager 2022 アルファタウリ その２ サウジアラビアGP"
+title: "F１Manager 2022 アルファタウリ その2 サウジアラビアGP"
 tags : [ゲーム]
 date: 2022-10-19 08:40:44
 ---
