@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/10/17
+最終更新日：2022/10/28
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -51,6 +51,7 @@ date: 2022-01-08 09:51:44
 25. [予知夢](#book-25)
 26. [ガリレオの苦悩](#book-26)
 27. [聖女の救済](#book-27)
+28. [真夏の方程式](#book-28)
 
 
 
@@ -393,7 +394,8 @@ NHKのカネオくんで、山崎哲秀さんが紹介されていて、
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4251037715/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51PFXQR-tlL._SL200_.jpg" alt="なぞのたから島 (かいぞくポケット 1)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4251037715/?tag=tavi06-22" name="AmaQuicklink" target="_blank">なぞのたから島 (かいぞくポケット 1)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">寺村 輝夫(著), 永井 郁子(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4251037715/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-2022/08/21 7巻まで読了、今後順次読んでいく
+2022/08/21 7巻まで読了、今後順次読んでいく 
+→ 全部読んだ。最後のほうの巻はどんどんよくわからない話に。まあ子供は気に入ってたけど。
 
 
 
@@ -568,6 +570,31 @@ Eテレで、「ロッチと子羊」という哲学番組をやっているが�
 
 話は好きだけど、モヤモヤ部分も多く残る話だったな。
 でも容疑者xの献身はまだ超えられていない。
+
+
+
+### 真夏の方程式 {#book-28}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/416380580X/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ftVCfm6BL._SL200_.jpg" alt="真夏の方程式" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/416380580X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">真夏の方程式</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野　圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/416380580X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2022/10/28 読了
+
+映画化されたガリレオ長編。
+少年と湯川という、普段あまり見られない光景を見ることができたので、
+映画はわりあい好きだったが、
+小説を読んでみるとさらに細かいやり取りがあったことが分かって、
+こっちのほうが好きになった。
+
+いつもの草薙と内海は東京で過去の事件を捜査で、
+湯川や関係者は玻璃ヶ浦で現在の事件と向き合っているという対比も良い。
+
+何より、最後に湯川が恭平にかけた言葉が泣けてくる。
+以前映画をみたときは子供がいなかったけど、親となった今なら色々考えてしまうな。
+
+
+
+
+
 
 
 
