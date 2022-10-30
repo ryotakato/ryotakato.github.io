@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/10/28
+最終更新日：2022/10/30
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -52,7 +52,7 @@ date: 2022-01-08 09:51:44
 26. [ガリレオの苦悩](#book-26)
 27. [聖女の救済](#book-27)
 28. [真夏の方程式](#book-28)
-
+29. [項羽と劉邦](#book-29)
 
 
 
@@ -592,9 +592,31 @@ Eテレで、「ロッチと子羊」という哲学番組をやっているが�
 以前映画をみたときは子供がいなかったけど、親となった今なら色々考えてしまうな。
 
 
+### 項羽と劉邦 {#book-29}
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4267015791/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61KPyesEQrL._SL200_.jpg" alt="項羽と劉邦 1 (潮漫画文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4267015791/?tag=tavi06-22" name="AmaQuicklink" target="_blank">項羽と劉邦 1 (潮漫画文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">横山 光輝(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4267015791/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2022/10/25 読了
 
+普段、漫画はこのリストに書かないが、
+横山光輝の漫画はもはや小説レベルだと思うので、記載しておく。
+全12巻を読破したが、秦の始皇帝の後の時代の楚漢戦争は面白いなと思った。
+
+元々横山光輝は好きだが、伊賀の影丸とか鉄人28号を読んでいて、あまり歴史物は読んでなかった。
+唯一読んでいたのが、水滸伝で、これは8巻のみながら実によくまとまっていて楽しかった。
+これがあったから北方謙三の水滸伝にも手を出した感じ。
+
+で、項羽と劉邦というテーマではほとんど知らなかったけど、
+昔、スーファミで項劉記というゲームがあって、子供の際にちょっとだけやりはじめてすぐ止めてしまった思い出ぐらいしかなかった。
+
+今回図書館で1巻を見つけて、勉強と思って読んでみるかと思ったが、
+これが中々面白い。
+中心人物が項羽と劉邦と2人に限定されているせいか、
+物語がシンプルなので、とっつきやすいし、
+歴史的な故事もしっかり抑えているから、初心者向けだと思った。
+
+今改めて項劉記みたいなあの時代のゲームやりたいと思うが、マイナーテーマだから全然出てないよね。
+仕方ない、次は横山三国志を読んで、KOEIの三國志をやるか。
 
 
 
