@@ -53,6 +53,8 @@ date: 2022-01-08 09:51:44
 27. [聖女の救済](#book-27)
 28. [真夏の方程式](#book-28)
 29. [項羽と劉邦](#book-29)
+30. [虚像の道化師](#book-30)
+31. [禁断の魔術](#book-31)
 
 
 
@@ -619,6 +621,44 @@ Eテレで、「ロッチと子羊」という哲学番組をやっているが�
 仕方ない、次は横山三国志を読んで、KOEIの三國志をやるか。
 
 
+
+### 虚像の道化師 {#book-30}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4167903113/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51qEdV5WWYL._SL200_.jpg" alt="虚像の道化師 (文春文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4167903113/?tag=tavi06-22" name="AmaQuicklink" target="_blank">虚像の道化師 (文春文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野 圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4167903113/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/10/29 読了
+
+ガリレオシリーズ。
+文庫版と単行本版で収録されている話数が違っていて、文庫版のほうが多いのでそっちを読んだ。
+2013年のドラマの話がたくさんあったので、最近ドラマを見た身としては情景が思い浮かぶので助かる。
+
+トリックの差異はあれど、面白かったのは「曲球る（まがる）」かな。
+あと、「念波る（おくる）」はドラマ版では最後かなり湯川を驚かせてくれるが、
+小説ではそこまででもないので、ちょっとがっくり。
+「演技る（えんじる）」はドラマより全然こっちのほうが良かった。
+
+
+
+
+### 禁断の魔術 {#book-31}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4167903776/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41kbNHs+rkL._SL200_.jpg" alt="禁断の魔術 (文春文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4167903776/?tag=tavi06-22" name="AmaQuicklink" target="_blank">禁断の魔術 (文春文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野 圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4167903776/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/11/01 読了
+
+SPドラマの村上虹郎がかなり良かったから、
+小説も楽しみにしていたが、
+読んでみるとほぼ原作どおりだったんだなと思う。
+ただ、代議士の結末とか、刑事役が内海じゃないなどの差異はあって、
+それがそれぞれドラマのほうがいいとか、小説のほうがいいとかの好みはあると思う。
+
+弟子に対する湯川の最後の会話は
+真夏の方程式の恭平との会話とは一味違うので、
+かなり良かった。
+
+元々、短編だったのを書き直したからなのか、ちょっと本が薄いのが気になったかな。
 
 
 
