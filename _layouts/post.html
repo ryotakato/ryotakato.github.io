@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="entry-content">
   <h3>{{ page.title }}</h3>
-  <h5>{{ page.date | date: '%Y-%m-%d %H:%M:%S' }}</h5>
+  <h5 style="margin-top:5px;">{{ page.date | date: '%Y-%m-%d %H:%M:%S' }}</h5>
   {% assign tags_list = page.tags %}
   {% if tags_list %}
     <ul style="text-align: right;" class="ul-none">

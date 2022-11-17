@@ -10,7 +10,7 @@ title: Tags
   <div id="entry-body">
 
     <ul class="tag_box inline">
-      {% assign tags_list = site.tags %}  
+      {% assign tags_list = site.tags | sort %}  
       {% if tags_list.first[0] == null %}
         {% for tag in tags_list %} 
           <li><a href="{{ BASE_PATH }}{{ site.path.tags }}#{{ tag }}-ref">{{ tag }}<span>({{ site.tags[tag].size }})</span></a></li>
