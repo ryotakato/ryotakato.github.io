@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/10/30
+最終更新日：2022/11/22
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -55,7 +55,12 @@ date: 2022-01-08 09:51:44
 29. [項羽と劉邦](#book-29)
 30. [虚像の道化師](#book-30)
 31. [禁断の魔術](#book-31)
-
+32. [その本は](#book-32)
+33. [ZEONIC FRONT　機動戦士ガンダム0079(1)](#book-33)
+34. [ZEONIC FRONT　機動戦士ガンダム0079(2)](#book-34)
+35. [三国志](#book-35)
+36. [沈黙のパレード](#book-36)
+37. [日本沈没](#book-37)
 
 
 
@@ -662,6 +667,95 @@ SPドラマの村上虹郎がかなり良かったから、
 
 
 
+
+
+### その本は {#book-32}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4591174328/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51QJjVsRHPL._SL200_.jpg" alt="その本は" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4591174328/?tag=tavi06-22" name="AmaQuicklink" target="_blank">その本は</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ヨシタケシンスケ(著), 又吉直樹(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4591174328/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2022/11/05 読了
+
+ヨシタケシンスケさんが又吉と本を出すってことで話題になった本。
+妻が買ってたから読んでみた。
+
+
+それぞれが面白い短編を複数書いている本。
+最後は別に驚きって感じはしなかったけど、
+気軽に読めたので悪くはなかったが、正直もっと期待が高かったからうーんという感じ。
+これならあるかしら書店のほうが好きだな。
+
+確かにヨシタケシンスケさんと又吉って雰囲気似てる感じがするよね。
+
+
+
+
+
+### ZEONIC FRONT　機動戦士ガンダム0079(1) {#book-33}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00NPOEUB8/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Fx24n5m-L._SL200_.jpg" alt="ZEONIC FRONT　機動戦士ガンダム0079(1) (角川スニーカー文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00NPOEUB8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ZEONIC FRONT　機動戦士ガンダム0079(1) (角川スニーカー文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">林 譲治(著), 臼井 伸二（ＢＥＣ）(イラスト), 木下 ともたけ(イラスト), 小笠原 智史(イラスト), 矢立 肇(その他), 富野 由悠季(その他)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00NPOEUB8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/11/12 読了
+
+
+感想は2巻と一緒に。
+
+
+### ZEONIC FRONT　機動戦士ガンダム0079(2) {#book-34}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00NPOEUCW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51pD6yB3aQL._SL200_.jpg" alt="ZEONIC FRONT　機動戦士ガンダム0079(2) (角川スニーカー文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00NPOEUCW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ZEONIC FRONT　機動戦士ガンダム0079(2) (角川スニーカー文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">林 譲治(著), 臼井 伸二（ＢＥＣ）(イラスト), 木下 ともたけ(イラスト), 小笠原 智史(イラスト), 矢立 肇(その他), 富野 由悠季(その他)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00NPOEUCW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/11/15 読了
+
+
+ガンダムといえば、一年戦争ぐらいしか興味ないってぐらいに極端な触手を持っている僕だが、
+当然ジオン軍が大好き。
+
+やっぱりザクやグフのモビルスーツはカッコいい。
+連邦のMSなんか全然カッコよく思えない。
+
+で、この本は、もともとゲームとして発売されていたやつを、
+ストーリー化して小説にしたってことなんだが、
+ジオン軍のエースなどではない、普通の一般兵士たちの戦いを描いている。
+
+ゲームのほうは結構面白いのでそのうち書くかもしれないが、
+この小説はゲームをやっていて、それが好きな人向けの内容なので、
+何もない状態から読んでも面白くないかもしれない。
+
+ただ、ジオン軍の一年戦争をもっと知りたいという人にはおすすめ。
+現場の兵士たちの気持ちがわかって、一年戦争に深みがでている。
+
+
+
+
+### 三国志 {#book-35}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4267014418/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51JB0NT820L._SL200_.jpg" alt="三国志　１ (潮漫画文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4267014418/?tag=tavi06-22" name="AmaQuicklink" target="_blank">三国志　１ (潮漫画文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">横山　光輝(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4267014418/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2022/11/22 読み中。全巻読破したら感想書く。
+
+
+### 沈黙のパレード {#book-36}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4163908714/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51XLDj9kvmL._SL200_.jpg" alt="沈黙のパレード" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4163908714/?tag=tavi06-22" name="AmaQuicklink" target="_blank">沈黙のパレード</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野 圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4163908714/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
+
+
+
+### 日本沈没 {#book-37}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07433FFQT/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51N8Fjl6vnL._SL200_.jpg" alt="日本沈没　決定版【文春e-Books】" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07433FFQT/?tag=tavi06-22" name="AmaQuicklink" target="_blank">日本沈没　決定版【文春e-Books】</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">小松 左京(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07433FFQT/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
 
 
 
