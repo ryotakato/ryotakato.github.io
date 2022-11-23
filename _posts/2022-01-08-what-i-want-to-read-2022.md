@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/11/22
+最終更新日：2022/11/23
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -746,7 +746,21 @@ SPドラマの村上虹郎がかなり良かったから、
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4163908714/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51XLDj9kvmL._SL200_.jpg" alt="沈黙のパレード" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4163908714/?tag=tavi06-22" name="AmaQuicklink" target="_blank">沈黙のパレード</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野 圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4163908714/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-読み中
+2022/11/23 読了
+
+ガリレオシリーズ。
+ちょうどこの前映画化されたばかり。
+
+
+非常に複雑なシナリオながら、うまくまとめたなと思う。
+小出しにされる情報がいい味だしてて、次の章も読みたいという気にさせる。
+
+最後までいったかと思ったら、さらなる秘密が隠されてあったのもよい感じ。
+
+湯川が「容疑者xの献身」のことを振り返るシーンや、
+今回の湯川らしくない行動の動機などがあって、中々良かったと思うが、
+僕の中では、まだ「容疑者xの献身」のほうが上かな。
+
 
 
 
