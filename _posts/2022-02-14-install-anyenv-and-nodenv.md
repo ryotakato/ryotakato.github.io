@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "anyenvとnodenvをインストール"
-tags : [Node.js, JavaScript]
+tags : [Node.js, JavaScript, 環境構築]
 date: 2022-02-14 20:14:20
 ---
 

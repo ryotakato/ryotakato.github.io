@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IntelliJ IDEA のインストール（aptじゃなくてsnapで）"
-tags : [IDE, Linux]
+tags : [IDE, Linux, 環境構築]
 date: 2020-12-17 10:17:44
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Groovyインストール MacportからGVMへの乗り換え"
-tags : [Groovy]
+tags : [Groovy, 環境構築]
 date: 2013-06-16 22:41:18
 ---
 

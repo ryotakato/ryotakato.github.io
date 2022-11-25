@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "rbenv で ruby の最新を使う"
-tags : [Ruby]
+tags : [Ruby, 環境構築]
 date: 2013-02-08 07:26:30
 ---
 

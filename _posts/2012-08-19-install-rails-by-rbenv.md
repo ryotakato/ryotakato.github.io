@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby on Rails インストール（rbenv使用）"
-tags : [Ruby, Ruby on Rails]
+tags : [Ruby, Ruby on Rails, 環境構築]
 date: 2012-08-19 15:01:23
 ---
 

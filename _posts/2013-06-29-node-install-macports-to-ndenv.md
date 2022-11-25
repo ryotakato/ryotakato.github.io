@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Node.jsインストール Macportからndenvへの乗り換え"
-tags : [Node.js, JavaScript]
+tags : [Node.js, JavaScript, 環境構築]
 date: 2013-06-29 11:46:20
 ---
 

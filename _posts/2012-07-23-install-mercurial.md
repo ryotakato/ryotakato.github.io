@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mercurialインストール＆初期設定"
-tags : [SCM, Mercurial]
+tags : [SCM, Mercurial, 環境構築]
 date: 2012-07-23 00:27:18
 ---
 
