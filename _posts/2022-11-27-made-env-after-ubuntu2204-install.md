@@ -248,6 +248,9 @@ $ sudo apt install vlc
 # Steam
 $ sudo apt install steam
 
+# ImageMagick
+$ sudo apt install imagemagick
+
 ```
 
 
