@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "F１Manager 2022 アルファタウリ その7 モナコGP"
-tags : [ゲーム]
+title: "F1 Manager 2022 アルファタウリ その7 モナコGP"
+tags : [ゲーム, F1Manager2022]
 date: 2022-11-11 11:11:44
 ---
 

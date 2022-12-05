@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "F１Manager 2022 アルファタウリ その3 オーストラリアGP"
-tags : [ゲーム]
+title: "F1 Manager 2022 アルファタウリ その3 オーストラリアGP"
+tags : [ゲーム, F1Manager2022]
 date: 2022-10-22 07:34:44
 ---
 

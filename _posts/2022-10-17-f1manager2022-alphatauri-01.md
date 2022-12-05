@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "F１Manager 2022 アルファタウリ その1 バーレーンGP"
-tags : [ゲーム]
+title: "F1 Manager 2022 アルファタウリ その1 バーレーンGP"
+tags : [ゲーム, F1Manager2022]
 date: 2022-10-17 08:55:44
 ---
 

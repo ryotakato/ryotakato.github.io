@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "F１Manager 2022 アルファタウリ その5 マイアミGP"
-tags : [ゲーム]
+title: "F1 Manager 2022 アルファタウリ その5 マイアミGP"
+tags : [ゲーム, F1Manager2022]
 date: 2022-11-03 19:49:44
 ---
 

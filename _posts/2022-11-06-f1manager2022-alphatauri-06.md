@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "F１Manager 2022 アルファタウリ その6 スペインGP"
-tags : [ゲーム]
+title: "F1 Manager 2022 アルファタウリ その6 スペインGP"
+tags : [ゲーム, F1Manager2022]
 date: 2022-11-06 06:18:44
 ---
 

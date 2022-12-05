@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "F１Manager 2022 アルファタウリ その4 エミリア・ロマーニャGP"
-tags : [ゲーム]
+title: "F1 Manager 2022 アルファタウリ その4 エミリア・ロマーニャGP"
+tags : [ゲーム, F1Manager2022]
 date: 2022-10-28 11:47:44
 ---
 
