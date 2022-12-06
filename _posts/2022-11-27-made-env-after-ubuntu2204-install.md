@@ -235,6 +235,33 @@ deno 1.28.0
 ```
 
 
+
+### プリンター準備
+
+プリンターは Brother DCP-J952N を使っている。
+年賀状の準備も近いので、使えるようにしておきたい。
+
+初期でも認識はするが適切なドライバーが入っていないので、印刷ができない。
+
+[ソフトウェアダウンロード &#124; DCP-J952N-B/W/ECO &#124; 日本 &#124; ブラザー](https://support.brother.co.jp/j/b/downloadlist.aspx?c=jp&lang=ja&prod=dcpj952n&os=128)
+
+ここから、プリンタードライバー　（Linux）の2つをダウンロードし、aptでいれる。
+LPRはいらないかもだけど、とりあえず念の為。
+
+
+```bash
+$ sudo apt install ~/Applications/dcpj952nlpr-3.0.0-1.i386.deb
+$ sudo apt install ~/Applicationsdcpj952ncupswrapper-3.0.0-1.i386.deb
+```
+
+これどcupsでプリンターが認識され、印刷ができるようになった。
+
+スキャンについては、昔書いた下記を参考に設定。
+
+[Tavi's Travelog - Ubuntuで、Brotherプリンターを使ってスキャンできるようにするまで](/2021/03/29/scanner-on-linux)
+
+
+
 ### その他いれたもの
 
 
@@ -250,6 +277,9 @@ $ sudo apt install steam
 
 # ImageMagick
 $ sudo apt install imagemagick
+
+# nmap
+$ sudo apt install nmap
 
 ```
 
