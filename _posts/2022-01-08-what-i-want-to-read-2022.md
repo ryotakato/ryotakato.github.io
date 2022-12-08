@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/11/23
+最終更新日：2022/12/08
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -61,6 +61,7 @@ date: 2022-01-08 09:51:44
 35. [三国志](#book-35)
 36. [沈黙のパレード](#book-36)
 37. [日本沈没](#book-37)
+38. [北天に楽土あり](#book-38)
 
 
 
@@ -770,6 +771,46 @@ SPドラマの村上虹郎がかなり良かったから、
 
 
 読み中
+
+
+
+### 北天に楽土あり {#book-38}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B076ZHH7X9/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51krO0GcKdL._SL200_.jpg" alt="北天に楽土あり　最上義光伝 (徳間文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B076ZHH7X9/?tag=tavi06-22" name="AmaQuicklink" target="_blank">北天に楽土あり　最上義光伝 (徳間文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">天野純希(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B076ZHH7X9/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/12/08 読了
+
+東北の戦国時代は、安東愛季や南部晴政など気になる武将が多いが、
+その中でも特に面白いなと思ったのが最上義光。
+
+武力、謀略、治政すべてに通じ、
+伊達家の属国に等しい最上家を一代で57万石まで押し上げた人物ということで、興味をもっていた。
+
+そのため本書を図書館で借りて読んでみたのだが、
+非常に面白い。
+
+1日で読んだが、中盤の庄内争奪からは手が止まらずに夜中まで起き続けて読破してしまった。
+
+最上義光だけではなく、伊達政宗や直江兼続、妹および伊達政宗の母の義姫などの目線で語られることもあり、
+元々詳しくなかった奥羽の歴史を知るという意味でも楽しかった。
+
+史実に合ってないものもあるというが、小説という以上どの作品でもある程度はあるものだし、全然オッケー。
+
+ただ、もっと最上義光の内面を書いてほしかった気がする。
+父の最上義守を追って家督を継いぎ、結果父子で争うことになったことや、
+連歌や物語の好きだった人物が、何を思って謀略の限りを尽くしたのかなど、
+もっと読みたかった部分はたくさんある。
+
+まあ、資料自体が少ないみたいなので、難しいのかもしれないが。
+
+この作者の他の作品では島津家を題材にしたりしているのでそっちも読んでみたいなと思う。
+
+
+
+
+
+
 
 
 
