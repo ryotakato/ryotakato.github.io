@@ -5,7 +5,7 @@ tags : [本]
 date: 2022-01-08 09:51:44
 ---
 
-最終更新日：2022/12/08
+最終更新日：2022/12/27
 
 読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -62,8 +62,8 @@ date: 2022-01-08 09:51:44
 36. [沈黙のパレード](#book-36)
 37. [日本沈没](#book-37)
 38. [北天に楽土あり](#book-38)
-
-
+39. [エンジニアが明かすF1の世界](#book-39)
+40. [斗星、北天にあり](#book-40)
 
 
 
@@ -807,6 +807,44 @@ SPドラマの村上虹郎がかなり良かったから、
 この作者の他の作品では島津家を題材にしたりしているのでそっちも読んでみたいなと思う。
 
 
+
+### エンジニアが明かすF1の世界 {#book-39}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0919BK8VY/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/5198JC1YcZL._SL200_.jpg" alt="エンジニアが明かすF1の世界" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0919BK8VY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">エンジニアが明かすF1の世界</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">小松 礼雄(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0919BK8VY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/12/25 読了
+
+去年には買っていたが、読むタイミングがなくて、そのままになってしまっていた。
+ちょうどF1Managerをやっていることもあり、読んでみることに。
+
+やっぱり現役エンジニアが記載しているだけあって、
+実例などを交えて説明しており、非常にわかりやすい。
+
+具体的にエンジニアやスタッフが何をしているのか、
+ドライバーの開発能力の良し悪しってどういうことなのかが理解できて良かったと思う。
+
+ゲームの世界とは違う部分が多くて、やっぱりF1の世界は楽しいなと思う。
+
+
+
+
+
+### 斗星、北天にあり {#book-40}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08W22B2LT/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51-T+4iQV3L._SL200_.jpg" alt="斗星、北天にあり 出羽の武将　安東愛季 (徳間文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08W22B2LT/?tag=tavi06-22" name="AmaQuicklink" target="_blank">斗星、北天にあり 出羽の武将　安東愛季 (徳間文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">鳴神響一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08W22B2LT/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2022/12/26 読了
+
+最上義光に続いて、安東愛季。
+どういう大名かもよく分からなかった状態から読み始めたが、
+一通りどういう人物だったのか、北出羽で何があったのかを知るには楽しめた。
+
+しかし、ちょっと物語としてはドラマ性が少なくて、淡々としている感じ。
+そのせいか、最後の章が駆け足すぎたように思う。
+北出羽の地図も載っていると良かったと思う。
 
 
 
