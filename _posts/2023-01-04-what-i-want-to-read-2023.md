@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/01/04
+最終更新日：2023/01/07
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -32,7 +32,7 @@ date: 2023-01-04 15:44:44
 5. [三国志](#book-5)
 6. [日本沈没](#book-6)
 7. [井伊直虎　女にこそあれ次郎法師](#book-7)
-
+8. [英語史で解きほぐす英語の誤解―納得して英語を学ぶために](#book-8)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -154,6 +154,35 @@ date: 2023-01-04 15:44:44
 
 今年の大河ドラマ「どうする家康」は、あまり期待はしていないが、
 ちょうど時代も地域も似通っており、上記の瀬名のエピソードなどはどう描かれるのかが気になるところではある。
+
+
+
+### 英語史で解きほぐす英語の誤解―納得して英語を学ぶために {#book-8}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4805727047/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41acvZkzrZL._SL200_.jpg" alt="英語史で解きほぐす英語の誤解―納得して英語を学ぶために (125ライブラリー)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4805727047/?tag=tavi06-22" name="AmaQuicklink" target="_blank">英語史で解きほぐす英語の誤解―納得して英語を学ぶために (125ライブラリー)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">堀田 隆一(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4805727047/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/01/06 読了
+
+
+以前も堀田隆一さんの英語史の本を読んだが、
+また別の本を借りて読んでみた。
+
+だいたいが以前と同じだが、
+英語と他言語の比較をちゃんとグラフや表を使っているので、説得力があるし、
+今後英語がどうなっていくのかの予測なども楽しかった。
+一度似た内容をざっと読んでいたせいか、３日で読めてしまった。
+
+
+
+
+
+
+
+
+
+
 
 
 
