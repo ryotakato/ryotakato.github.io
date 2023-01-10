@@ -24,6 +24,22 @@ $ sudo apt install ~/Applications/clamtk_6.14-1_all.deb
 もちろんインストール後にウィルスチェックと定義ファイルの自動更新をやった
 
 
+### NVIDIAドライバーインストール
+
+(2023/01/10 追記)
+NVIDIAのGPU GTX 1050tiを使っているが、
+今更ながら、ドライバーをインストールしていないことに気づいたので、いれておく。
+
+```bash
+# ドライバーがあるか調べる
+$ ubuntu-drivers devices
+
+
+# ドライバーインストール 終わったら再起動
+$ sudo ubuntu-drivers install
+
+```
+
 
 ### Chrome
 
@@ -280,6 +296,9 @@ $ sudo apt install imagemagick
 
 # nmap
 $ sudo apt install nmap
+
+# Minecraft (aptがないので、snapでいれる
+$ sudo snap install mc-installer
 
 ```
 
