@@ -277,6 +277,29 @@ $ sudo apt install ~/Applicationsdcpj952ncupswrapper-3.0.0-1.i386.deb
 [Tavi's Travelog - Ubuntuで、Brotherプリンターを使ってスキャンできるようにするまで](/2021/03/29/scanner-on-linux)
 
 
+### Unity Hub
+
+Unity Hubは、Ubuntu 20.04 LTSまでは普通に入れることできたけど、
+22.04 LTSではapt-keyが廃止されたことに伴い、そのままではダメとのこと。
+
+参考にしたのは下記 Linux Mint だけど元になっているのはUbuntuだから同じでいける。
+
+[Linux Mint 21にUnity Hubをインストールしようとしたらエラーが出たのでその対処法 &#124; パノメゴンの研究所](https://panomegon.com/linux-mint-21-unity-hub/)
+
+
+```bash
+
+$ sudo mkdir /usr/local/share/keyrings
+$ wget -qO - https://hub.unity3d.com/linux/keys/public | sudo gpg --dearmor -o /usr/local/share/keyrings/unityhub-archive-keyring.gpg
+$ sudo sh -c 'echo "deb [signed-by=/usr/local/share/keyrings/unityhub-archive-keyring.gpg] https://hub.unity3d.com/linux/repos/deb stable main" > /etc/apt/sources.list.d/unityhub.list'
+$ echo "deb http://old-releases.ubuntu.com/ubuntu impish-security main" | sudo tee /etc/apt/sources.list.d/impish-security.list
+$ sudo apt update
+$ sudo apt install libssl1.1
+$ sudo apt install unityhub
+
+```
+
+
 
 ### その他いれたもの
 
