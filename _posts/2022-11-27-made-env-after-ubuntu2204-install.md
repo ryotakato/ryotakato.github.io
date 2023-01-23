@@ -300,6 +300,16 @@ $ sudo apt install unityhub
 ```
 
 
+で、この後Unity Hub上でインストールしたUnity 2021.3.16f1なんだけど、
+TextMesh ProとかでEditorのInspector上で日本語入力しようとしてもできない。なんでだろう。
+Editor自体は英語のままだけど、日本語パックも入れているし、
+下記などを参考に、TextMesh Proで使う日本語フォントも入れているのに。
+
+[【Unity】TextMesh Proでダイナミックフォントを使用する一番簡単でハマらない手順（Font Asset Creatorを使わない） - LIGHT11](https://light11.hatenadiary.com/entry/2022/05/23/195156)
+
+とりあえず別で記載した日本語をコピペすればいけるので保留。
+
+
 
 ### その他いれたもの
 
