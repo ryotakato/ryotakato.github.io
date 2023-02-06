@@ -6,7 +6,7 @@ date: 2022-11-27 18:21:44
 ---
 
 [ここ](/2022/11/24/failed-to-update-ubuntu-2204) で書いた通り、Ubuntu 22.04 LTS をクリーンインストールしたので、
-その後やったことなどまとめ
+その後やったことなどまとめ（随時更新）
 
 ちなみに、Ubuntu 22.04 LTS では、GUIがWaylandになっているが、なかなか使いやすい。
 
@@ -308,6 +308,47 @@ Editor自体は英語のままだけど、日本語パックも入れている�
 [【Unity】TextMesh Proでダイナミックフォントを使用する一番簡単でハマらない手順（Font Asset Creatorを使わない） - LIGHT11](https://light11.hatenadiary.com/entry/2022/05/23/195156)
 
 とりあえず別で記載した日本語をコピペすればいけるので保留。
+
+
+
+### Docker
+
+
+Ubutuの公式aptのDockerは2015年リリースのやつになっていて、古すぎるのでDockerが出している公式リポジトリを追加する
+
+
+```bash
+
+# 必要なもののインストール
+$ sudo apt-get update 
+$ sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release
+
+# GPGキーの取得
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+
+# リポジトリ追加
+$ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+# パッケージ確認（ceつきじゃないと古いやつになる
+$ sudo apt info docker-ce 
+
+# インストール
+$ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+# docker-compose インストール
+$ sudo apt install docker-compose
+
+# dockerグループに自身を追加（your-userのところは書き換える
+$ sudo usermod -aG docker <your-user>
+
+# デーモン再起動
+$ sudo systemctl restart docker
+
+# 再ログイン
+
+```
+
+
 
 
 
