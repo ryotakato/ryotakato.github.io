@@ -338,13 +338,26 @@ $ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plug
 # docker-compose インストール
 $ sudo apt install docker-compose
 
-# dockerグループに自身を追加（your-userのところは書き換える
+```
+
+ここまででインストールは終わりだが、
+このままだと一般ユーザーだと権限エラーで動かない。
+いちいちsudoつけてもいいが、面倒だし、個人PCなら権限周りが多少ゆるくてもいいだろうと思い、下記の対策をする。
+
+
+```bash
+
+
+# dockerグループに自身を追加（your-userのところは書き換える whoamiで自動で取ってもいい
 $ sudo usermod -aG docker <your-user>
+
+# dockerグループに/var/run/docker.sockへの書き込みを許可
+$ sudo  chgrp docker /var/run/docker.sock
 
 # デーモン再起動
 $ sudo systemctl restart docker
 
-# 再ログイン
+# 再ログインではダメだったので再起動
 
 ```
 
