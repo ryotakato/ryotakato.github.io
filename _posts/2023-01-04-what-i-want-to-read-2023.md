@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/01/26
+最終更新日：2023/02/09
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -34,6 +34,15 @@ date: 2023-01-04 15:44:44
 7. [井伊直虎　女にこそあれ次郎法師](#book-7)
 8. [英語史で解きほぐす英語の誤解―納得して英語を学ぶために](#book-8)
 9. [覇道の槍](#book-9)
+10. [星を継ぐもの](#book-10)
+11. [ガニメデの優しい巨人](#book-11)
+12. [巨人たちの星](#book-12)
+13. [内なる宇宙 上](#book-13)
+14. [内なる宇宙 下](#book-14)
+15. [PIRATES OF CARIBBEAN:THE CURSE OF THE BLACK PEARL](#book-15)
+16. [ジャック・スパロウの冒険 1 嵐がやってくる!](#book-16)
+
+
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -234,25 +243,118 @@ date: 2023-01-04 15:44:44
 
 
 
+### 星を継ぐもの
+
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00PGNZFD8/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Uag9ZPNiL._SL200_.jpg" alt="星を継ぐもの 巨人たちの星シリーズ (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00PGNZFD8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">星を継ぐもの 巨人たちの星シリーズ (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 池 央耿(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00PGNZFD8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/01/29 読了
+
+言わずとしれたSFの名作。
+今まで何度となく読んでいるが、そういえばこのリストには書いてなくて、
+今回このジャイスターシリーズを読み返しているので、書いておく。
+
+とはいうが、今更この名作に感想が必要はないと思う。
+多少古臭さが感じられるかもしれないが、
+SFミステリー、それも宇宙の謎に迫る展開は本当に秀逸。
+主人公のハントが、様々な分野のエキスパートの間で情報を整理しつつ、
+少しづつ謎を明らかにする過程もテンポがよく、手が止まらない。
+こういう知的ゲーム的なSFミステリーは最高だね。
+
+J・P・ホーガンの作品は、Kindleで読めるものはほぼすべて読んでいるが、
+やはり、この作品がトップだな。
+「造物主の掟」のライフメーカーシリーズも結構好き。
 
 
 
 
 
+### ガニメデの優しい巨人
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00PGNZFGA/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51PUAsBDUIL._SL200_.jpg" alt="ガニメデの優しい巨人 巨人たちの星シリーズ (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00PGNZFGA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ガニメデの優しい巨人 巨人たちの星シリーズ (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 池 央耿(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00PGNZFGA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/01/31 読了
+
+ジャイスターシリーズ第2弾
+この本から少し冒険要素が入ってくるが、
+それでも前作と同じワクワクを感じられる。
+異星人とのファーストコンタクトものとしては、
+前日談（前作のこと）がしっかりしていたせいか、非常に楽しめた。
+また、コンピュータのゾラックがいい味出しているよね。
+
+そして、最後には前作を超える謎が明らかになるのもニクい演出だと思う。
 
 
 
+### 巨人たちの星
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00PGNZFFG/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/518PomcuLPL._SL200_.jpg" alt="巨人たちの星 巨人たちの星シリーズ (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00PGNZFFG/?tag=tavi06-22" name="AmaQuicklink" target="_blank">巨人たちの星 巨人たちの星シリーズ (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 池 央耿(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00PGNZFFG/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2023/02/04 読了
+
+ジャイスターシリーズ第3弾
+どうしても三部作として決着をつけないといけないせいで、
+前作、前々作のような謎を解いていくということは少なくて、勧善懲悪モノになっている。
+まあ、もちろん面白いんだけど、その次の「内なる宇宙」が残念な出来なせいで、
+その原因が本作にあるんじゃないかという気がして、申し訳ないね。
+とりあえず、一度読んだ「内なる宇宙」をもう一度読み直してみるつもり。
 
 
 
+### 内なる宇宙 上
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00PGNZFFQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61AlGaY+A1L._SL200_.jpg" alt="内なる宇宙 上 巨人たちの星シリーズ (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00PGNZFFQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">内なる宇宙 上 巨人たちの星シリーズ (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 池 央耿(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00PGNZFFQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+（読み中）
+
+
+### 内なる宇宙 下
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00PGNZFBA/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61CExXuWeaL._SL200_.jpg" alt="内なる宇宙 下 巨人たちの星シリーズ (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00PGNZFBA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">内なる宇宙 下 巨人たちの星シリーズ (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 池 央耿(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00PGNZFBA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+（読み中）
 
 
 
+### PIRATES OF CARIBBEAN:THE CURSE OF THE BLACK PEARL
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/1408289474/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Lzu8zFAZL._SL200_.jpg" alt="Penguin Readers: Level 2 PIRATES OF CARIBBEAN:THE CURSE OF THE BLACK PEARL (MP3 PACK) (Penguin Readers (Graded Readers))" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/1408289474/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Penguin Readers: Level 2 PIRATES OF CARIBBEAN:THE CURSE OF THE BLACK PEARL (MP3 PACK) (Penguin Readers (Graded Readers))</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">PEARSON(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/1408289474/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2023/02/07 読了
+
+金曜ロードショーでパイレーツオブカリビアンがやってたので、
+英語版で読もうかなと思って図書館で借りたら、
+Penguin Readers: Level 2 だった。
+今はPearson Readersというみたい。
+
+だから、内容は簡単であっさり読めた。
+そのせいで、エリザベスの持ってたメダリオンが海に落ちて、それによりバルボッサたちが来たところとか、
+初めてウィルとジャックが出会って戦うシーンでのジャックがウィルに言った言葉とかがカットされていて、
+全体的に味気ないものになっている。
+まあ仕方ないよね。
 
 
+### ジャック・スパロウの冒険 1 嵐がやってくる!
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062135396/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51FBJQERVCL._SL200_.jpg" alt="パイレーツ・オブ・カリビアン ジャック・スパロウの冒険 1 嵐がやってくる!" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062135396/?tag=tavi06-22" name="AmaQuicklink" target="_blank">パイレーツ・オブ・カリビアン ジャック・スパロウの冒険 1 嵐がやってくる!</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">キッド,R.(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062135396/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/02/08 読了
+
+上と同じで図書館で。
+読んでみたら、子供向けの内容なのね。
+ジャックの十代の頃の話で、どうやって今のジャックになったかを書いているシリーズみたい。
+とりあえず最初の冒険としては悪くない出来ではないかと思った。
+ほどよく冒険感があるし、戦いもジャックの本領である機転を効かせて勝つってところが良い。
+あっさり読めたから、一応続きも読むつもり。
 
 
 
