@@ -42,6 +42,7 @@ date: 2023-01-04 15:44:44
 15. [PIRATES OF CARIBBEAN:THE CURSE OF THE BLACK PEARL](#book-15)
 16. [ジャック・スパロウの冒険 1 嵐がやってくる!](#book-16)
 17. [プロテウス・オペレーション](#book-17)
+18. [ジャック・スパロウの冒険 2 セイレーンの歌](#book-18)
 
 
 
@@ -419,8 +420,22 @@ SFっていうのはこうでなくちゃって思わせるよね。
 出たらすぐ買うのに。
 
 
+### ジャック・スパロウの冒険 2 セイレーンの歌
 
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062135388/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51795GPE5SL._SL200_.jpg" alt="パイレーツ・オブ・カリビアン ジャック・スパロウの冒険 2 セイレーンの歌" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062135388/?tag=tavi06-22" name="AmaQuicklink" target="_blank">パイレーツ・オブ・カリビアン ジャック・スパロウの冒険 2 セイレーンの歌</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">キッド,R.(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062135388/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2023/02/14 読了
+
+とりあえず2巻読んだけど、すでにあまり面白くなくなってきた。
+せっかく1巻でクルーが揃って冒険って感じなのに、
+今作はほとんどクルーは活躍せずに、ジャックに終始している。
+中盤がテンポ悪いんだよなー。
+
+最後の伏線が今後どうなるのかってのは気になるが、
+逆にいえば、伏線を張ためだけに書かれた本のような気がする。
 
 
 
