@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/02/09
+最終更新日：2023/02/14
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -41,7 +41,7 @@ date: 2023-01-04 15:44:44
 14. [内なる宇宙 下](#book-14)
 15. [PIRATES OF CARIBBEAN:THE CURSE OF THE BLACK PEARL](#book-15)
 16. [ジャック・スパロウの冒険 1 嵐がやってくる!](#book-16)
-
+17. [プロテウス・オペレーション](#book-17)
 
 
 
@@ -355,6 +355,69 @@ Penguin Readers: Level 2 だった。
 とりあえず最初の冒険としては悪くない出来ではないかと思った。
 ほどよく冒険感があるし、戦いもジャックの本領である機転を効かせて勝つってところが良い。
 あっさり読めたから、一応続きも読むつもり。
+
+
+
+
+
+### プロテウス・オペレーション
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4150117659/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51zj5bFz6qL._SL200_.jpg" alt="プロテウス・オペレーション (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4150117659/?tag=tavi06-22" name="AmaQuicklink" target="_blank">プロテウス・オペレーション (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・P. ホーガン(著), Hogan,James P.(原名), 黎, 小隅(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4150117659/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/02/14 読了
+
+めちゃくちゃ面白かった。
+やっぱりホーガンは違うなと思わせる。
+
+時間旅行モノはSFの定番であるから、読む方も目が肥えている。
+なので、普通に時間旅行しただけでは全然おもしろくない。
+
+そこで本作では、それに歴史改変モノを組み合わせ、
+史実の第二次世界大戦を上手く描いている。
+
+何より面白いと思ったのが、プロテウス世界と物語が進行している世界の事実の描写が巧みなこと。
+これにより、ちょっとしたズレが起きていることが分かるのだが、
+それが詳細に書かれているので、
+必ずしも第二次世界大戦期のイギリス、アメリカ、ドイツを知らなくても十分楽しめる内容となっている。
+（だからこそ600ページ超えの大作であるのだろうけど。）
+
+また、物語の構成も、徐々に色々なことが明らかになっていくのが、
+星を継ぐものの手法を思わせて、非常にワクワクする。
+最後の300ページは手が止まらなくて、6時間ぶっ通しで読んでしまった。
+
+登場人物が多いので、最初はいちいち登場人物一覧を見返しながら読んでいたが、
+クロードやハリーのキャラクターが良いので問題なし。
+そして、アインシュタインやチャーチルなど、実在の人物の登場のさせ方も上手く、
+歴史を多少かじっていると、ニヤリとすることが多い。
+
+物語の後半になって、時間旅行モノでよくある並行世界の考え方が出てくるが、
+これが、物語のキャラクターが徐々に気づいて考えていくという流れになっているのも良いなと思う。
+おそらくこの本が書かれた1985年当時は、そこまでまだ一般に並行世界の考え方が浸透していなかっただろうから、
+ホーガンはキャラクターの目を通して気づかせることで、読者の理解を促したのではないかと思う。
+
+よくある並行世界モノでは、わりとそこらへんがスパッとカットされていることがあって、
+それよりよっぽどリアルな雰囲気を感じられるのがいいなと思った。
+
+そして、最後のクライマックスに向けて、ハリー側とクロード側での物語が同時進行して、息もつけないのだが、
+その二つの物語が繋がったときの嬉しさは何物にも代えがたい。
+
+SFっていうのはこうでなくちゃって思わせるよね。
+
+
+この本では、西側世界を善として描いているからどうしても主人公側が正しいように描いているが、
+実際の歴史がそんな単純なものではないことは勿論承知しているが、
+それはそれとしてこれは小説とした上で、それを分かった上で読むのが楽しい。
+ハッピーエンドで終わっているのもね。
+
+
+
+本作、ホーガンの中でも初期のほうだが、やっぱりホーガンは初期が一番面白いな。
+
+惜しむらくは、Kindleで出ていないこと。
+だから、今回は図書館で借りた。
+出たらすぐ買うのに。
+
 
 
 
