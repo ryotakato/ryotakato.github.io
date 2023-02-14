@@ -65,6 +65,9 @@ $ sudo apt update
 $ sudo apt install git
 $ git version
 git version 2.38.1
+
+# 初期ブランチ名をmainに設定
+$ git config --global init.defaultBranch main
 ```
 
 ちなみに、Githubのssh keyはssh-keygenで再度作成して登録し直しておいた。
