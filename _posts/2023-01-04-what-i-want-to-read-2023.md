@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/02/14
+最終更新日：2023/02/28
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -43,6 +43,10 @@ date: 2023-01-04 15:44:44
 16. [ジャック・スパロウの冒険 1 嵐がやってくる!](#book-16)
 17. [プロテウス・オペレーション](#book-17)
 18. [ジャック・スパロウの冒険 2 セイレーンの歌](#book-18)
+19. [じんかん](#book-19)
+20. [断絶への航海](#book-20)
+21. [ジャック・スパロウの冒険 3 海賊競争](#book-21)
+22. [ジャック・スパロウの冒険 4 コルテスの剣](#book-22)
 
 
 
@@ -312,7 +316,10 @@ J・P・ホーガンの作品は、Kindleで読めるものはほぼすべて読
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00PGNZFFQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61AlGaY+A1L._SL200_.jpg" alt="内なる宇宙 上 巨人たちの星シリーズ (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00PGNZFFQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">内なる宇宙 上 巨人たちの星シリーズ (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 池 央耿(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00PGNZFFQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-（読み中）
+2023/02/11 読了
+
+感想は下巻と一緒に。
+
 
 
 ### 内なる宇宙 下
@@ -320,7 +327,29 @@ J・P・ホーガンの作品は、Kindleで読めるものはほぼすべて読
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00PGNZFBA/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61CExXuWeaL._SL200_.jpg" alt="内なる宇宙 下 巨人たちの星シリーズ (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00PGNZFBA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">内なる宇宙 下 巨人たちの星シリーズ (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 池 央耿(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00PGNZFBA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-（読み中）
+2023/02/17 読了
+
+
+さて、星を継ぐものシリーズで、あまり評価していない本作を再読。
+
+改めて読んでみると、言うほど悪くはない。
+科学的要素もふんだんにあるし、かと言って、ずっと説明でつまらないってこともない。
+アクション要素もあるし、謎解きもあるから、普通に楽しめる。
+
+以前読んだときはしっかり理解できてなかったけど、
+コンピュータの素子の中に宇宙ができるということがどういうことかを掴めると結構面白さが増すと思う。
+素子の動きがその宇宙でのルールに対応しているところなんかは結構面白い。
+ここからさらに色々考えることができそうなくらいいいアイディアだと思う。
+
+ただ、惜しむらくはクライマックスが弱いところかな。
+クライマックスというか、要所要所で大事なところをもっとドラマチックに描いてほしいんだよね。
+ちょっと淡々と進みすぎていたり、簡単にクリアできてしまったり。
+そして、さすがハント先生って部分もほとんど皆無なのがちょっとなと思う。
+あとヒロインをリン・ガーラントから変えてしまったのも。
+
+さらにこの続きのMission to Minervaがあって、5万年前に送られたジェヴレンの指導者たちの話があるらしいから、
+すごい楽しみなんだけど、翻訳はされていないのよね。
+英語を読めばいいじゃないかとも思うが、この作品の英語は専門知識が多すぎてついていける気がしないのがなー。どうしようかなー。
 
 
 
@@ -438,7 +467,63 @@ SFっていうのはこうでなくちゃって思わせるよね。
 逆にいえば、伏線を張ためだけに書かれた本のような気がする。
 
 
+### じんかん
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B088R8V7DF/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/512IT76wGLL._SL200_.jpg" alt="じんかん" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B088R8V7DF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">じんかん</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">今村翔吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B088R8V7DF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2023/02/25 読了
+
+非常に面白かった。
+
+戦国時代の中でも三大梟雄に数えられる、松永久秀の物語。
+一般に言われている悪人像とは異なった解釈で、
+松永久秀の一生を描いたものとなっている。
+
+これ、僕は覇道の槍を読んでいたから、
+人物や時代の流れがしっかり入っている状況で読めたのは良かった。
+元長の人物像も面白かったしね。
+
+1章が終わるところで、そーきたかーっていう驚き要素もあって、そこからぐいぐい読んだ感じ。
+やっぱり直木賞作家だけあって、読ませる力はスゴイな。
+また、主人公の内面に迫る描写も、覇道の槍の天野さんよりしっかり描かれているので、引き込まれてしまう。
+
+ちょっと気になったのは、主人公をカッコよく描いたせいで、
+細川高国もカッコよくなってしまったところ。
+主に中盤あたりの二人の会話のせいだと思うんだけど。
+まあ、細川高国をどうしても悪にしないといけないってわけではないんだけど、
+もうちょっと俗っぽくしてもあの会話は成り立ったように思える。
+
+最近の歴史小説ではかなり面白いほうだったので、他作品も読むかも。
+
+
+
+
+
+
+
+### 断絶への航海
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4150115044/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51YPCZ97V2L._SL200_.jpg" alt="断絶への航海 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4150115044/?tag=tavi06-22" name="AmaQuicklink" target="_blank">断絶への航海 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・P. ホーガン(著), Hogan,James P.(原名), 黎, 小隅(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4150115044/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
+
+
+
+### ジャック・スパロウの冒険 3 海賊競争
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062135892/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51MVF7FY3CL._SL200_.jpg" alt="パイレーツ・オブ・カリビアン ジャック・スパロウの冒険3 海賊競争" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062135892/?tag=tavi06-22" name="AmaQuicklink" target="_blank">パイレーツ・オブ・カリビアン ジャック・スパロウの冒険3 海賊競争</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">キッド,R.(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062135892/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+読み中
+
+
+
+### ジャック・スパロウの冒険 4 コルテスの剣
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062136783/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ZM6Z0CR8L._SL200_.jpg" alt="パイレーツ・オブ・カリビアン ジャック・スパロウの冒険4 コルテスの剣" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062136783/?tag=tavi06-22" name="AmaQuicklink" target="_blank">パイレーツ・オブ・カリビアン ジャック・スパロウの冒険4 コルテスの剣</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">キッド R.(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062136783/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
 
 
