@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/02/28
+最終更新日：2023/03/04
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -45,8 +45,6 @@ date: 2023-01-04 15:44:44
 18. [ジャック・スパロウの冒険 2 セイレーンの歌](#book-18)
 19. [じんかん](#book-19)
 20. [断絶への航海](#book-20)
-21. [ジャック・スパロウの冒険 3 海賊競争](#book-21)
-22. [ジャック・スパロウの冒険 4 コルテスの剣](#book-22)
 
 
 
@@ -466,6 +464,8 @@ SFっていうのはこうでなくちゃって思わせるよね。
 最後の伏線が今後どうなるのかってのは気になるが、
 逆にいえば、伏線を張ためだけに書かれた本のような気がする。
 
+ちょっと続き読む気力なくした感じ。
+
 
 ### じんかん
 
@@ -507,23 +507,30 @@ SFっていうのはこうでなくちゃって思わせるよね。
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4150115044/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51YPCZ97V2L._SL200_.jpg" alt="断絶への航海 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4150115044/?tag=tavi06-22" name="AmaQuicklink" target="_blank">断絶への航海 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・P. ホーガン(著), Hogan,James P.(原名), 黎, 小隅(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4150115044/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-読み中
+2023/03/03 読了
+
+またまたホーガン。この本も面白いねー。
+ホーガンは設定が上手くて、さらにそれを上手く活かす力があるよね。
+
+本書のケイロン人社会や、ジャイスターシリーズのガニメアン社会、
+またライフメーカーシリーズに出てくる異星人の社会などを読んでいると気づくが、
+ホーガンは、必ずその社会を描くときに、その前提条件となる生物学的な進化の部分をおろそかにしていない。
+こういう進化をしてきた生物だから、こういう社会になるということが、ちゃんと考え抜いてある。
+これはハードSF好きとしては大事なポイントだね。
+ここが適当だと、深みがないし、話の広がりも生まれないと思う。
+
+ということでホーガン好きなら楽しめる一冊でした。
 
 
 
-### ジャック・スパロウの冒険 3 海賊競争
-
-<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062135892/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51MVF7FY3CL._SL200_.jpg" alt="パイレーツ・オブ・カリビアン ジャック・スパロウの冒険3 海賊競争" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062135892/?tag=tavi06-22" name="AmaQuicklink" target="_blank">パイレーツ・オブ・カリビアン ジャック・スパロウの冒険3 海賊競争</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">キッド,R.(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062135892/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
-
-読み中
 
 
 
-### ジャック・スパロウの冒険 4 コルテスの剣
-
-<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062136783/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ZM6Z0CR8L._SL200_.jpg" alt="パイレーツ・オブ・カリビアン ジャック・スパロウの冒険4 コルテスの剣" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062136783/?tag=tavi06-22" name="AmaQuicklink" target="_blank">パイレーツ・オブ・カリビアン ジャック・スパロウの冒険4 コルテスの剣</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">キッド R.(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062136783/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-読み中
+
+
+
+
 
 
