@@ -390,6 +390,9 @@ $ sudo apt install nmap
 # Minecraft (aptがないので、snapでいれる
 $ sudo snap install mc-installer
 
+# yt-dlp (バイナリ直接置くのは面倒だったので、snapでいれる
+$ sudo snap install yt-dlp
+
 ```
 
 
