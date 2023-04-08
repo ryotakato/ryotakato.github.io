@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/03/04
+最終更新日：2023/04/08
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -45,6 +45,11 @@ date: 2023-01-04 15:44:44
 18. [ジャック・スパロウの冒険 2 セイレーンの歌](#book-18)
 19. [じんかん](#book-19)
 20. [断絶への航海](#book-20)
+21. [未踏の蒼穹](#book-21)
+22. [ペナンブラ氏の24時間書店](#book-22)
+23. [はじまりの24時間書店](#book-23)
+24. [チンギス紀　一　火眼](#book-24)
+25. [チンギス紀　二　鳴動](#book-25)
 
 
 
@@ -524,7 +529,138 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 
 
+### 未踏の蒼穹
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09N3MVC3J/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41BzZyrmcFL._SL200_.jpg" alt="未踏の蒼穹 (創元SF文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09N3MVC3J/?tag=tavi06-22" name="AmaQuicklink" target="_blank">未踏の蒼穹 (創元SF文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 内田 昌之(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09N3MVC3J/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/04/08 読了
+
+またまたホーガンだけど、正直今回は期待はずれ。
+たぶん晩年になって、再び星を継ぐものの感じを別視点から書きたかったのだろうけど、
+なんだろうなー。
+設定は悪くないし、物語もしっかりしている。
+ただ、情報の出し方が上手くないのかな。
+
+例えば、今回は金星人達が主人公で、テラ人（地球人）が滅んだ後に地球を探索するところから始まるけど、
+まずこの時点で、テラ人が金星人の祖先なんじゃないかと予想がつく。
+なぜなら最初から金星人の感覚や体がテラ人と近すぎるからね。
+
+物語の中では、主人公にタイムスケールが合わないとかなんとか、テラ人は金星人の祖先ではないって意見が出てくるけど、
+だったら、最初から、現代からどれくらいの時間が経っているのかとか、
+どうしても祖先ではないという根拠をきっちり提示してくれると良かった。
+その予想が払拭されないまま、あれよあれよと物語が進むけど、
+謎が大した謎ではないのに、それを主人公達が不思議がっているのを読まされるのは、滑稽なんだよなー。
+最後にさもすごいこと発見したって感じで言ってるけど、なんでそんなことが分からなかったのってツッコミを入れたくなる。
+
+きっと背景にはしっかり設定が作ってあるんだろうけど、どうもその設定の出し方、活かし方が微妙なんだろうね。
+
+あと、各登場人物がやっていることなどが最後に繋がっていく流れが弱い。
+星を継ぐもの風にしたいなら、もっと意外なところから発見っていう感じがほしい。
+
+そして、今回の悪役のジェニンが非常にダサい。
+主義は分かるが、頭悪いだろなって感じで、これだったらわざわざ悪役出さなくても良かったんじゃないって思う。
+星を継ぐものではそういう悪役がいなくても十分面白かった。
+で、そのジャイスターシリーズの3番目巨人たちの星以降では悪役を出してきて、ちょっと面白さが半減した。
+でも結果的にそれは地球人の気質を説明する役もなっていたから別に良かったけど、
+本書のジェニンはそういう役割を与えられることもなく、ただダサい悪役で終わってしまった。
+これが残念だなー。
+
+うーん、ホーガンでハズレを引くとは思ってなかっただけに、がっくり。
+最後まで読んだけど、面白くなくて時間かかったわー。
+
+
+
+
+
+
+### ペナンブラ氏の24時間書店
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01NA08I4E/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61ZrGSAWd7L._SL200_.jpg" alt="ペナンブラ氏の24時間書店 (創元推理文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01NA08I4E/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ペナンブラ氏の24時間書店 (創元推理文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ロビン・スローン(著), 島村 浩子(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01NA08I4E/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/03/15 読了
+
+元々、図書館の中高生向けの本として紹介されていたので、
+子ども向けかなって思っていたのだけど、
+本好きな人にとっては面白いって評判もあったので、読んでみた。
+
+読んでみると、GoogleとかPythonとかHadoopとか出てきて、
+本好き＋IT好きの、ちょうど僕のような人向けの本だったので、非常に楽しく読めた。
+
+ただ、最後のオチが弱いかな。
+オチ自体は悪くないけど、それの明かし方にもっと工夫をすればよかったと思う。
+
+この本読んでから、ゲリッツズーン体ってどんな書体なんだろうって検索したら、
+完全に著者の創作だったのね。
+本当にありそうな説明だったから、完全にあると思いこんでいた。
+本当にあったとしたらどんな書体だったんだろうな。
+ローマン体を参考にしたみたいだから、それを鋭くした感じかな。
+ペナンブラ氏の昔の話である、はじまりの24時間書店も次に借りて読んでみる予定。
+
+
+
+### はじまりの24時間書店
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08RCPCSCV/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51FOqJ-HhGL._SL200_.jpg" alt="はじまりの24時間書店" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08RCPCSCV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">はじまりの24時間書店</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ロビン・スローン(著), 島村 浩子(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08RCPCSCV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
+
+
+
+### チンギス紀　一　火眼
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07HWGVTT5/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Ylr7NEBpL._SL200_.jpg" alt="チンギス紀　一　火眼 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07HWGVTT5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　一　火眼 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07HWGVTT5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/03/22 読了
+
+
+北方謙三といえば、水滸伝シリーズは面白いよね。
+続く、楊令伝、岳飛伝も全て読んでいる。
+元々横山光輝の水滸伝が好きなこともあって、今でも年に一回は読み返したくなる。
+
+で、その北方謙三の新しいシリーズ、チンギス紀がもうそろそろ終わりかけているらしい。
+今まで知らなかったけど、ちょうど図書館にあるし、読んでみようと思って手に取った。
+
+まず第一巻なので、人物がどんな感じかってのが分かる感じだけど、それでも結構面白い。
+ここからどういう展開を経て、中国大陸を統一するのかってのが気になるね。
+
+でも、武の達人の出し方がちょっと雑かなって思った。
+キャト族とジャムカとそれぞれ2人出てくるんだけど、どっちも放浪してたら居着いた感じで、
+そんなこと似せなくてもいいよって感じ。
+
+あまり史実が残ってないからわからないのかな。
+まあ、とりあえずこのシリーズは全部読んでみたい。
+
+
+
+
+
+
+### チンギス紀　二　鳴動
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07HWHKXHC/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Vnl+0pYnL._SL200_.jpg" alt="チンギス紀　二　鳴動 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07HWHKXHC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　二　鳴動 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07HWHKXHC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/03/28 読了
+
+続き。
+この巻はテムジンが戻ってきて、人を集めるところと、
+それによって、モンゴル全体が少しづつ戦いに向かっていく感じの巻。
+これからのための動き出しって感じ。
+
+水滸伝でもあったが、
+一つの勢力を作るには様々な技能をもった人が必要だっていうことをちゃんと取り上げていて、
+簡単に人が集まってくるようなことはないなというのを思わせていくれる。
+
+また、この巻でテムジンもジャムカも戦いに一度負けるんだけど、
+簡単に勝てるわけじゃないっていうのも良いなと思う。
+
+続きが楽しみ。
 
 
 
