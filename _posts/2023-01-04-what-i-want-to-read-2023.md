@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/04/08
+最終更新日：2023/04/16
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -50,6 +50,8 @@ date: 2023-01-04 15:44:44
 23. [はじまりの24時間書店](#book-23)
 24. [チンギス紀　一　火眼](#book-24)
 25. [チンギス紀　二　鳴動](#book-25)
+26. [チンギス紀　三　虹暈](#book-26)
+27. [チンギス紀　四　遠雷](#book-27)
 
 
 
@@ -607,8 +609,17 @@ SFっていうのはこうでなくちゃって思わせるよね。
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08RCPCSCV/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51FOqJ-HhGL._SL200_.jpg" alt="はじまりの24時間書店" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08RCPCSCV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">はじまりの24時間書店</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ロビン・スローン(著), 島村 浩子(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08RCPCSCV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-読み中
+2023/04/14 読了
 
+ペナンブラ氏の若い時の話。
+「ペナンブラ氏の24時間書店」が結構ボリュームがあったから、
+同じくらいのを想像してたけど、
+単なるスピンオフって感じで、量が全然なかった。
+
+別に面白くないわけじゃないけど、
+ゲリッツズーン体に関する謎に絡めてくるのかなって思ってたから、
+そうじゃなくて、単に失われた本の捜索劇ってだけなので、
+ペナンブラ氏の若い時がどうだったかってのを知るって感じかな。
 
 
 ### チンギス紀　一　火眼
@@ -664,9 +675,37 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 
 
+### チンギス紀　三　虹暈
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07PZ7LVQ4/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51h8+fXevfL._SL200_.jpg" alt="チンギス紀　三　虹暈 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07PZ7LVQ4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　三　虹暈 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07PZ7LVQ4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2023/04/12 読了
+
+
+第三作も面白かった。
+玄翁という魅力的なキャラクターも出てきて、面白くなっていっている。
+これ、北方水滸伝のキャラクターの誰かだと思うんだよなー。
+史進かな？岳飛伝の最後のほうで死んじゃったんだっけ？覚えていないなー。また読み返さないと。
+でも史進だと時間軸が合わない気もする。
+
+タイチウト族との戦いが結構長くなるかと思ってたけど、
+その一つとの戦いがあっさりと終わったので、意外。
+
+でも、戦いの様子を後でボオルチュとかダリルに言わせるのはどうなのかな。
+何かもっと戦に関わっていた人が話してほしい感じ。
+
+とりあえず次も楽しみ。
 
 
 
 
+### チンギス紀　四　遠雷
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07VJH9PXL/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51W70GQQxqL._SL200_.jpg" alt="チンギス紀　四　遠雷 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07VJH9PXL/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　四　遠雷 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07VJH9PXL/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
 
 
