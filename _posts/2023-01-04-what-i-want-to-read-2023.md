@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/04/30
+最終更新日：2023/05/17
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -53,6 +53,7 @@ date: 2023-01-04 15:44:44
 26. [チンギス紀　三　虹暈](#book-26)
 27. [チンギス紀　四　遠雷](#book-27)
 28. [チンギス紀　五　絶影](#book-28)
+29. [チンギス紀　六　断金](#book-29)
 
 
 
@@ -723,7 +724,32 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B081V7N979/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/5141NwU+uLL._SL200_.jpg" alt="チンギス紀　五　絶影 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B081V7N979/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　五　絶影 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B081V7N979/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2023/05/12 読了
+
+玄翁死す！
+この戦いは良かったなー。
+そして、玄翁が誰かもわかったし。
+そうだよね、年代的に考えたら、この人しかいないよね。
+雰囲気が史進っぽかったから、勘違いしてた。
+
+とにかくこの巻で一区切りついた感じがする。
+
+
+### チンギス紀　六　断金
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B086273FMV/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516YMid8qyL._SL200_.jpg" alt="チンギス紀　六　断金 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B086273FMV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　六　断金 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B086273FMV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
 読み中
+
+
+
+
+
+
+
+
+
+
 
 
 
