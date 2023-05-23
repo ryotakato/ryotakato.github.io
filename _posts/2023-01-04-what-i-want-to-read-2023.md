@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/05/17
+最終更新日：2023/05/23
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -54,7 +54,7 @@ date: 2023-01-04 15:44:44
 27. [チンギス紀　四　遠雷](#book-27)
 28. [チンギス紀　五　絶影](#book-28)
 29. [チンギス紀　六　断金](#book-29)
-
+30. [チンギス紀　七　虎落](#book-30)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -739,17 +739,26 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B086273FMV/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516YMid8qyL._SL200_.jpg" alt="チンギス紀　六　断金 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B086273FMV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　六　断金 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B086273FMV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+
+2023/05/19 読了
+
+タイトルの意味は、金国を2つに割るのではなくて、
+金国によって草原が2つに割れるという意味だった。
+
+ついにこの巻からジャムカがテムジンの敵になった。
+いつか来るだろうとは思っていたが、こんなにあっさりと来るとは。
+しかもいきなり戦って、テムジン軍は負けてるし。（まあこれには理由があるのだが）
+
+今後も目が離せない！
+
+
+
+### チンギス紀　七　虎落
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08CKPZYJ7/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ufYmTqKUL._SL200_.jpg" alt="チンギス紀　七　虎落 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08CKPZYJ7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　七　虎落 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08CKPZYJ7/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
 読み中
-
-
-
-
-
-
-
-
-
-
 
 
 
