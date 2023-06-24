@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/06/22
+最終更新日：2023/06/24
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -806,16 +806,29 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08Z2Y1ZYW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51NjRRnoMaL._SL200_.jpg" alt="チンギス紀　九　日輪 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08Z2Y1ZYW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　九　日輪 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08Z2Y1ZYW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2023/06/24 読了
+
+うすうす感じていたが、ジャムカの最期がこんなにあっさり来るなんて。
+寂しいような、これで一区切りついたような。
+
+この巻では、「我が名はチンギス」というテムジンがチンギス・カンを名乗る章があるけど、
+僕の中では、1,2巻前ぐらいからテムジンがだんだんと変わっていったような気がしていたんだよね。
+
+たぶん、ジャムカ、タルグダイ、アインガの三者との決戦を制してからだな。
+そこから覚醒していったんだろうなと、今なら思う。
+だから、もうどこまで見ているのかは全然わからない。
+金国はすぐにでも攻めそうだけど、そっから先はどのタイミングでいくのか。
 
 
-読み中
+
+
 
 
 ### チンギス紀　十　星芒
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09985KPQ8/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51eRuSRmWuS._SL200_.jpg" alt="チンギス紀　十　星芒 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09985KPQ8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十　星芒 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09985KPQ8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-未読
+読み中
 
 
 
