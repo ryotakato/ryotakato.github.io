@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/06/24
+最終更新日：2023/07/09
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -57,14 +57,15 @@ date: 2023-01-04 15:44:44
 30. [チンギス紀　七　虎落](#book-30)
 31. [チンギス紀　八　杳冥](#book-31)
 32. [チンギス紀　九　日輪](#book-32)
-33. [チンギス紀　十　星芒](#book-32)
-34. [チンギス紀　十一　黙示](#book-32)
-35. [チンギス紀　十二　不羈](#book-32)
-36. [チンギス紀　十三　陽炎](#book-32)
-37. [チンギス紀　十四　萬里](#book-32)
-38. [チンギス紀　十五　子午](#book-32)
-39. [チンギス紀　十六　蒼氓](#book-32)
-
+33. [チンギス紀　十　星芒](#book-33)
+34. [チンギス紀　十一　黙示](#book-34)
+35. [チンギス紀　十二　不羈](#book-35)
+36. [チンギス紀　十三　陽炎](#book-36)
+37. [チンギス紀　十四　萬里](#book-37)
+38. [チンギス紀　十五　子午](#book-38)
+39. [チンギス紀　十六　蒼氓](#book-39)
+40. [あなたの人生の物語](#book-40)
+41. [英語感覚をみがく―表現とコミュニケーション](#book-41)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -828,8 +829,15 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09985KPQ8/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51eRuSRmWuS._SL200_.jpg" alt="チンギス紀　十　星芒 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09985KPQ8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十　星芒 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09985KPQ8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-読み中
+2023/07/08 読了
 
+
+ホラズム・シャー国が出てきて、付属の地図もかなり広がった。
+金国との戦のために、歩兵、工作兵が出てきたけど、
+あっさり揃いすぎな感がある。
+まあ、あんだけモンゴルを統一していたら、すぐに人材は見つかるのかもだけど。
+
+マルガーシがどうなっていくのかが今後の気になるところ。
 
 
 ### チンギス紀　十一　黙示
@@ -873,6 +881,31 @@ SFっていうのはこうでなくちゃって思わせるよね。
 未読
 
 
+
+### あなたの人生の物語
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00O2O7JEA/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51CqKbKl7xL._SL200_.jpg" alt="あなたの人生の物語" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00O2O7JEA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">あなたの人生の物語</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">テッド チャン(著), 浅倉久志(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00O2O7JEA/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2023/06/18 読了
+
+以前買って読んでいたのを再読。
+やっぱり映画「メッセージ」の原作がいい雰囲気出しているよね。
+映画もかなり好きだけど、原作の静かな感じも好き。
+
+同じ作者の「息吹」も読んでみたいんだよね。
+
+
+
+### 英語感覚をみがく―表現とコミュニケーション
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/400026222X/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/412SACQPQQL._SL200_.jpg" alt="英語感覚をみがく―表現とコミュニケーション (岩波高校生セミナー 12)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/400026222X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">英語感覚をみがく―表現とコミュニケーション (岩波高校生セミナー 12)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">マーク・ピーターセン(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/400026222X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2023/06/28 読了
+
+「日本人の英語」で有名なマーク・ピーターセンが夏休みに高校生向けに講義をやったのをまとめたという本。
+映画を元にした説明とかはかなり面白かったな。
+このレベルを苦なく聞き取れるようになるのはいつになることやら。
 
 
 
