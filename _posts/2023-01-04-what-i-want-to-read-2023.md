@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/07/09
+最終更新日：2023/08/02
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -66,6 +66,7 @@ date: 2023-01-04 15:44:44
 39. [チンギス紀　十六　蒼氓](#book-39)
 40. [あなたの人生の物語](#book-40)
 41. [英語感覚をみがく―表現とコミュニケーション](#book-41)
+42. [うみべのまち 佐々木マキのマンガ1967-81](#book-42)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -906,6 +907,43 @@ SFっていうのはこうでなくちゃって思わせるよね。
 「日本人の英語」で有名なマーク・ピーターセンが夏休みに高校生向けに講義をやったのをまとめたという本。
 映画を元にした説明とかはかなり面白かったな。
 このレベルを苦なく聞き取れるようになるのはいつになることやら。
+
+
+### うみべのまち 佐々木マキのマンガ1967-81
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/477832143X/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51dIIbD91jL._SL200_.jpg" alt="うみべのまち 佐々木マキのマンガ1967-81" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/477832143X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">うみべのまち 佐々木マキのマンガ1967-81</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">佐々木 マキ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/477832143X/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2023/07/30 読了
+
+
+絵本は結構好きで、子供とよく読んでいたが、
+この人がそもそも漫画家だって知ったのは最近だったので、図書館で借りてみた。
+
+読了とは書いているが、これは本当に「読んだ」と言っていいのか。
+それぐらい中身を理解した気がしない。
+
+そもそもコマとコマが繋がっていない漫画だっていうのは知っていたし、
+絵本読んでいてもかなり変わったお話が多いので、覚悟はしていたが、それにしても訳がわからない。
+
+でも、強烈に惹きつけられるものは感じた。
+あのマンガの神様こと手塚治虫をして、狂人と言わしめたのは伊達ではない。
+
+このマンガを理解するには一生かかるだろうと思う。
+というか、「理解」ではなく感じるものなのかもしれない。
+
+ちなみにほぼ日に佐々木マキさんのインタビューが載っているが、これ見ていると結構普通のおじさんなんだよな。
+
+[佐々木マキさんの心には おなかをすかせたおおかみが 住んでいて‥‥！？ &#124; ほぼ日刊イトイ新聞](https://www.1101.com/n/s/maki_sasaki)
+
+
+
+
+
+
+
+
+
+
 
 
 

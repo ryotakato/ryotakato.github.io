@@ -28,7 +28,7 @@ $ sudo apt install ppsspp
 これで入るバージョンは、2023/07/31時点の最新版である、1.15.4 だった
 
 参考にしたのはここ
-[Linux Mint 20.x : PSP エミュ「PPSSPP」のインストール方法 | 221B Baker Street](http://baker-street.jugem.jp/?eid=134)
+[Linux Mint 20.x : PSP エミュ「PPSSPP」のインストール方法 &#124; 221B Baker Street](http://baker-street.jugem.jp/?eid=134)
 
 
 
@@ -38,7 +38,7 @@ $ sudo apt install ppsspp
 
 何個か工程があるので、参考にしたのはここ
 
-[PSPのゲームを吸い出してエミュレータで動かすまで。完全マニュアル｜GameCenter WASABI](https://note.com/arcade/n/n7e166c1cd5bc)
+[PSPのゲームを吸い出してエミュレータで動かすまで。完全マニュアル &#124; GameCenter WASABI](https://note.com/arcade/n/n7e166c1cd5bc)
 
 
 
