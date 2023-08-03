@@ -44,6 +44,7 @@ Stretch Goalが追いつかれて、きっと開発側はてんやわんやし�
 2025/04に発売予定だから、かなり先のことなのだけど、非常に楽しみにしている。
 
 
+
 そして、今回のことがあったので、
 パタポン2を引っ張り出してプレイしているけど、めちゃ楽しい。
 前やっていたときはEasyでずっとやっていたけど、
@@ -51,6 +52,14 @@ Stretch Goalが追いつかれて、きっと開発側はてんやわんやし�
 Hardとか無理ゲーじゃないかな。
 
 
+追記：忘れていたので、KickStarterのページを載せておく
+
+[Ratatan by Ratata Arts — Kickstarter](https://www.kickstarter.com/projects/ratata-arts/ratatan?lang=ja)
+
+
+このページに、音楽のサンプルがあるが、その中でも、
+「PIRATE'S OF THE PARADDEAN THEME」がかなり良い。
+日本語だと、バラビアンって言っているが、これ、パタポン2のどっかの音楽にもパラビアンって言ってるところがあって、嬉しくなってしまった。
 
 
 
