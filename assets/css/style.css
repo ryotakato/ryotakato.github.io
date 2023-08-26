@@ -149,7 +149,8 @@ input.err { background-color: orange; }
 
 blockquote {
     position: relative;
-    padding: 30px 15px 8px 15px;
+    width: fit-content;
+    padding: 50px 20px 10px 20px;
     box-sizing: border-box;
     font-style: italic;
     background: #efefef;
