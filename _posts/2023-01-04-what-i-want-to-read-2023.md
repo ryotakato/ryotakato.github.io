@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/08/02
+最終更新日：2023/10/04
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -67,6 +67,8 @@ date: 2023-01-04 15:44:44
 40. [あなたの人生の物語](#book-40)
 41. [英語感覚をみがく―表現とコミュニケーション](#book-41)
 42. [うみべのまち 佐々木マキのマンガ1967-81](#book-42)
+43. [鵼の碑](#book-43)
+44. [英語耳](#book-44)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -934,6 +936,76 @@ SFっていうのはこうでなくちゃって思わせるよね。
 ちなみにほぼ日に佐々木マキさんのインタビューが載っているが、これ見ていると結構普通のおじさんなんだよな。
 
 [佐々木マキさんの心には おなかをすかせたおおかみが 住んでいて‥‥！？ &#124; ほぼ日刊イトイ新聞](https://www.1101.com/n/s/maki_sasaki)
+
+
+
+### 鵼の碑
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0CG5853SR/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51Ktqdi0l9L._SL200_.jpg" alt="鵼の碑 【電子百鬼夜行】" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0CG5853SR/?tag=tavi06-22" name="AmaQuicklink" target="_blank">鵼の碑 【電子百鬼夜行】</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">京極夏彦(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0CG5853SR/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/09/27 読了
+
+17年待った。
+何度Googleで検索したかが分からないぐらい待ち焦がれた。
+その「鵼の碑」がようやく読めた。
+
+嬉しすぎて、ちゃんと英語の試験が終わってからにしようかと思ったが、
+休みにキャンプにいった際に読み始めてから手が止まらなくなってしまった。
+
+
+感想としては、鵺というよく分からない妖怪をよくこの物語に落とし込めたなと思った。
+鵺という、元々は声だけしかなかった妖怪が、後で姿が生み出されたように、
+様々な人々の想像、妄想が、ありもしない過去をどんどんと作っていく感じが、まさに鵺だなと。
+
+そして、鵺が様々な動物の継ぎ接ぎで語られたように、
+各登場人物が関わる物語が、少しづつ繋がって、朧げながら一つの事件が見えてくるような気がするんだけど、
+実際はそんな妖怪つまり事件はないっていう構成が面白さを際立たせている。
+
+欲をいうと、
+いつもの百鬼夜行シリーズならもっと序盤のほうから京極堂の語りのページがあって、
+その作品のメイン妖怪に関して、色々と講釈があるんだけど、
+今回はそれはなく、久住やら緑川やらが鵺について考えるだけになっている。
+そこが惜しいが、京極堂が先に説明してしまうと、結末が予想できたり、登場人物の動きが変わってしまうからなのかなと想像。
+
+そして、やっぱり登場人物が良いな。
+京極堂、榎木津、関口、木場などは毎度おなじみにしても、
+緑川や郷島など、一面だけでは見れない人間性の深みがある。
+
+ちなみに、ぬえという文字は、鵼と鵺の2字あるが、本作品ではそこも微妙に使い分けている。
+
+次の「幽谷響（やまびこ）の家」も予定されているみたいだし、まだまだ出してほしい。
+
+
+### 英語耳
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09285H1PX/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41FM7Q2FdzS._SL200_.jpg" alt="【音声ダウンロード付き】改訂３版　英語耳　発音ができるとリスニングができる" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09285H1PX/?tag=tavi06-22" name="AmaQuicklink" target="_blank">【音声ダウンロード付き】改訂３版　英語耳　発音ができるとリスニングができる</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">松澤 喜好(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09285H1PX/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2023/09/20 読了
+
+発音およびリスニングに関する本としては評判が高いので、読んでみた。
+ずっと発音の勉強は避けていたが、ようやくここに来て真剣に取り組んだが、
+やっぱり日本人は音だけ聴いて真似するってのは無理だね。
+本書のように口の形とかをきっちり覚えていかないと。
+特にrの発音で、舌を巻かなくてもいいやり方があったのは僕にとってラッキーだった。
+
+発音記号は覚えなくてもいいって記載をネットでよく見かけるが、
+日本人が母国語の漢字を覚えるときにルビが必要なように、
+発音記号はちゃんと覚えたほうが勉強の効率がいいと思う。
+そりゃ、ネイティブの人は発音記号なんて存在を知らない人も多いだろうが、
+日本人が、発音記号を覚えずに同じように音だけ聞いて学ぶのは時間がかかり過ぎる。
+発音記号を覚えなくていいって言ってるのは、英会話学校とかが多くてそれはポジショントークだろうなと思う。
+（発音記号なんて覚えなくてウチに通いなさいよって。それは穿ちすぎ？）
+
+まあ、とりあえず本書は今まで発音をおろそかにしていた人にオススメ。
+
+
+
+
+
+
+
+
 
 
 
