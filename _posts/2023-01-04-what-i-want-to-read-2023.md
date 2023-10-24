@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/10/04
+最終更新日：2023/10/24
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -69,6 +69,7 @@ date: 2023-01-04 15:44:44
 42. [うみべのまち 佐々木マキのマンガ1967-81](#book-42)
 43. [鵼の碑](#book-43)
 44. [英語耳](#book-44)
+45. [もものかんづめ](#book-45)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -1001,8 +1002,19 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 
 
+### もものかんづめ
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07JGSL9V5/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41f-n4AmmzL._SL200_.jpg" alt="もものかんづめ (集英社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07JGSL9V5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">もものかんづめ (集英社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">さくらももこ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07JGSL9V5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2023/10/23 読了
+
+ちびまる子ちゃんのさくらももこの初エッセイ。
+学生時代、作文の採点で清少納言の再来と評されたらしいので、読んでみたが、
+確かに面白い。
+
+ほんと、着飾らない言葉で紡がれていながら、
+それでいて、例えが絶妙。
+気軽に読めたので、この次のエッセイもどんどん読んでみようかなと思った。
 
 
 
