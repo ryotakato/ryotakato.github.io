@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/10/24
+最終更新日：2023/11/04
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -70,6 +70,7 @@ date: 2023-01-04 15:44:44
 43. [鵼の碑](#book-43)
 44. [英語耳](#book-44)
 45. [もものかんづめ](#book-45)
+46. [白と黒のとびら](#book-46)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -1015,6 +1016,57 @@ SFっていうのはこうでなくちゃって思わせるよね。
 ほんと、着飾らない言葉で紡がれていながら、
 それでいて、例えが絶妙。
 気軽に読めたので、この次のエッセイもどんどん読んでみようかなと思った。
+
+
+
+### 白と黒のとびら
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07BGVKW86/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ABFjPR8IL._SL200_.jpg" alt="白と黒のとびら" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07BGVKW86/?tag=tavi06-22" name="AmaQuicklink" target="_blank">白と黒のとびら</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">川添愛(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07BGVKW86/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2023/11/03 読了
+
+図書館でふっと見かけたのでパラッと読んでみたら、
+面白かったので、そのまま借りたらわずか一日で読んでしまった。
+さあ、皆もこれを読んで、是非とも第八古代ルル語の省きと延ばしの呪文を練習しよう。
+
+さて、
+話としては、オートマトンからチューリングマシンまでを物語としているのだが、
+そのストーリーが、魔術師の弟子が自然と学んでいく構成がかなり雰囲気出ていて全然飽きない。
+かと言って、オートマトンの説明が雑なわけではなく、ちゃんと考えれば分かるぐらい平易である。
+
+世界観の作り方がうまいなと思った。
+特に呪文の本質を言葉（ここでは形式言語のこと）にしたこと。
+そして、古代ルル語や古代クフ語など現実にはない言語とした上で、
+遺跡や塔、妖精などの様々なアーティファクトを用意して物語としてまとめたのが非常に上手い。
+
+そして出てくる登場人物が、この本の本質を邪魔しない。
+昨今の過激な人物設定は、最初のインパクトには使えるが、本が進んでくると結構ノイズになりやすいので、それがない分、自然に読めた。
+
+ちょっとメタ的な言い方になっているので、別の観点から言うと、
+登場人物が皆優しく、それでいて根気強く教えてくれるので、
+最後のハッピーエンドを余計なこと考えずに楽しめる。
+
+
+一点だけ言うなら、妖精や小人が遺跡などからどうやってパワーを得ていてなぜそれが言語戦争になったのかの説明が弱いところかな。
+そういうもんって感じで語られていて、ちょっと無理矢理感があった。
+
+
+続編の精霊の箱もすぐ借りて読む予定。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
