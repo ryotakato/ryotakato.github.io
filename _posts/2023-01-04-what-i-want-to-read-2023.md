@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/11/06
+最終更新日：2023/11/11
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -72,6 +72,13 @@ date: 2023-01-04 15:44:44
 45. [英語耳](#book-45)
 46. [もものかんづめ](#book-46)
 47. [白と黒のとびら](#book-47)
+48. [精霊の箱 上](#book-48)
+49. [精霊の箱 下](#book-49)
+50. [造物主(ライフメーカー)の掟](#book-50)
+51. [造物主(ライフメーカー)の選択](#book-51)
+
+
+
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -1066,6 +1073,133 @@ SFっていうのはこうでなくちゃって思わせるよね。
 続編の精霊の箱もすぐ借りて読む予定。
 
 
+### 精霊の箱 上 {#book-48}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07BGRLHW9/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51eFRq1-hKL._SL200_.jpg" alt="精霊の箱 上" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07BGRLHW9/?tag=tavi06-22" name="AmaQuicklink" target="_blank">精霊の箱 上</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">川添愛(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07BGRLHW9/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+（読み中）
+
+
+### 精霊の箱 下 {#book-49}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07BH1TWKH/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51E+FH9nxQL._SL200_.jpg" alt="精霊の箱 下" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07BH1TWKH/?tag=tavi06-22" name="AmaQuicklink" target="_blank">精霊の箱 下</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">川添愛(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07BH1TWKH/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+未読
+
+
+### 造物主(ライフメーカー)の掟 {#book-50}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01D1R4V9E/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51YYy3-RZeL._SL200_.jpg" alt="造物主(ライフメーカー)の掟 (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01D1R4V9E/?tag=tavi06-22" name="AmaQuicklink" target="_blank">造物主(ライフメーカー)の掟 (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 小隅 黎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01D1R4V9E/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2023/11/09 読了
+
+2016年には読んでいるけど、久々に再読。
+J・P・ホーガンといえば「星を継ぐもの」と、誰もが口を揃えて言うし、僕もそれに異論はないけど、
+このライフメーカーシリーズもかなり気に入っている。
+主人公のザンベンドルフが心霊術師（超能力者）というのは、科学者が主人公が多いホーガン作品の中では異色とも言える。
+実際、それでこのシリーズがちょっと好きじゃないって思っている人もいるだろね。
+
+でも、よくよく読んでみると、主人公は確かに超能力者を振る舞っているし、それで名声を得ているが、
+自分が超能力を持ってたり心霊術を使っているとは言っておらず、
+あくまで人とは違う能力をもっているとしか言っていない。
+（まあ、パフォーマンスのやり方が明らかに超能力っぽいから絶対勘違いされるが。）
+しかも、ザンベンドルフ自身は、自分が超能力ではなく奇術であることを知っていて、
+それをどう見せれば大衆がついてくるかということに心を砕いている。
+だから、どっちかというと心理学に長けている感じかな。
+また、そのチームスタッフが優秀なので、人には思いもよらないことができる。
+
+で、そういう主人公が土星の衛星タイタンに行って、機械人（ロビーイング）と接触し、彼らの社会を守るために力を尽くすというのが大筋なんだけど、
+ここでは、なぜホーガンがこの作品を書いて、なぜザンベンドルフを主人公に据えたかを書こうと思う。
+
+「断絶への航海」の感想のときにも書いたけど、
+ホーガンは、異星人の社会を書くときに必ずその生物の進化過程を描く。
+本作はそれが最も強く書かれたのではないかと思われる。
+機械人という、いわゆる知性をもったロボットの社会というのはそれほど突飛なアイディアではないけれど、
+しかし、その機械人たちが自分たちの種族の出自を知らないというのは珍しい。
+また、そこに至る進化の過程が、物語始まってすぐ描かれるものだから、すぐに物語に引き込まれる。
+
+そして物語が進んでいくと分かるが、
+機械人たちの世界（衛星タイタン）は、
+岩は氷、植物や動物といった「生命」という言葉が指すものはすべて機械、家などは有機物を育てて作るという、地球とはちょうど正反対の世界。
+それなのに、世界観はまるで中世ヨーロッパのように宗教や迷信に彩られているという。
+想像するのも大変な種族が、結果人間と同じ社会を構築しているというのが面白い。
+ここがホーガンのすごいところで、安易に全然違う社会にしなかったところ。
+他の作品では、地球と違う社会を数多く書いているので、
+この作品では、種族は全く違っても社会は同じにしたことで、それまでとは違った展開が可能になっている。
+また、中世ヨーロッパという、ちょっと想像しやすい社会を選んだことで、読み手が入っていきやすいようにしている。
+読み手側としては、有機物と機械が逆な世界のせいでそういう文章が出る度に結構混乱するので、社会は普通にしてくれて非常に助かっている。
+
+そんな中世ヨーロッパ社会なので、宗教家や王が権力を握っており、
+一般の機械人は盲目的にそれを信じている。
+大地は丸いとかを言った機械人は弾圧されてしまうような世界だ。
+ちなみにこの宗教は、機械人たちを想像したとされている造物主を崇める宗教（ライフメーカー信仰）で、地球でいうところのキリスト教だね。
+
+そこに地球人が現れるのだが、地球人の思惑もまた一枚岩ではなく、
+機械人を奴隷化し、タイタンの世界を地球のための生産工場にするつもりの一派と、
+主人公のザンベンドルフたちが属する、機械人をそんな風に扱わず、ちゃんと理性をもった人々として扱い、支援していこうという一派の対立となる。
+
+前者の一派は主にタイタンに派遣された人達の中の主導者的な立場の人達。
+機械人なんてどうせ機械で本当の知性などないのだから、地球のために利用しようという考えで、
+対してザンベンドルフ達は、最初にタイタンに降り立って機械人たちと交流を交わしたせいか、その目に知性の光を感じ、
+この種族に世界の本当の姿など様々なことを教えて、独立した種族として歩んでいってほしいと思うわけだ。
+（もちろん機械人側の中でそういうことを望んでいた人たちの希望であったからというのがあるが）
+
+ここが一つ目の、人々の心理を読む奇術師を主人公に据えた理由で、
+これが例えば科学者とかを主人公にすると、機械人をただの機械として見るようになってしまう。
+そうじゃなくて、常に心理を気にしている職業だからこそ、
+機械とはいえ、その動作や文言に地球人臭い心理を感じ取れるというわけだ。
+（別に科学者をメインに据えてそういうストーリーにもできなくはないが、そこまで無理して科学者にする必要もないと思う）
+
+そしてホーガンがこの話を書いた理由がここにあり、
+例え姿形がどのようなものであっても、知性は宿る可能性があるし、それを尊重していかなければならない、ということなのだろうと思う。
+
+
+そんなこんなで地球人内での対立と、機械人内での対立（権力者側と改革者側）がだんだんとリンクしていくわけであるが、
+ザンベンドルフ側が、ひょんなことから山の上で一人の機械人グルーアクと会うわけだ。
+グルーアクはそれまで敬虔なライフメーカー信仰者だったのだが、
+地球人たちと出会うことで、天啓を受けたと思い、非暴力不服従の新しい宗教の指導者に改宗してしまう。
+これは、地球人たちがヘリコプターや飛行機など、自分達が産み出した機械を駆使しているために、
+機械人達にとってみれば、ライフメーカーと変わりがないと思ったからだ。
+（機械人には飛行機がドラゴンに見える、など、この対比もホーガンがうまく利用しているなーと思う。）
+地球人でいう、天使が降り立ってお告げを授けるみたいな感じ。
+奇術師が主人公だから、こういう「演出」はお手の物。
+
+また、そのお告げの際には、お互いの種族の言葉の翻訳機がまだ試作品だったこともあり、
+簡単な言葉でしか機械人に伝えられないという状況になっているわけだ。
+そのため、なるべく簡易な言葉のみで伝えようとすると、
+「汝、隣人を愛せよ」みたいな、色々解釈の幅があるお告げになってしまう。
+この部分はきっと、神や天使が地球人にお告げを行ったのが実はこういうことだったかもね、というホーガンによるちょっとしたジョークなんじゃないかと思う。
+
+そして、グルーアクが他の機械人たちを次々と改宗させ、
+大きなうねりとなって、既存の権力者たちを失脚させようとするのだが、
+機械人を奴隷にしたい地球人一派は、それを邪魔することで、
+権力者たちがグルーアクを捕らえるように仕向ける。
+捕らえたグルーアクを異端として公開処刑（崖から酸の窯に落とす）しようとしたところで、
+ザンベンドルフ達が、空から飛行機（ドラゴン）に乗って現れ、すんでのところでグルーアクを助けるという演出を行うわけだ。
+それを見た機械人の民衆は、奇跡を目のあたりにしたとして一気に改宗し、権力者達を引きずり下ろしてしまう。
+
+結果として、機械人達は自分たちで独立した不羈の民として生きていくことを決断。
+見事ザンベンドルフたちが勝利し、奴隷を望んでいた地球人たちは決定的な証拠が見つかって、地球側から罷免されるという結末で終わる。
+
+ザンベンドルフを主人公に据えた二つ目の理由は、この最後のクライマックスの演出のためだね。
+グルーアクを助けに行くにあたって、実は危険かもということで反対意見もあるのだが、
+知性があり、自分たちが導いた存在をそのままにはできないという、人間としての理性に則った判断も主人公っぽくて熱い展開。
+
+
+結論として、この物語は、
+ホーガンが書きたかった機械人たちの世界を一番際立たせるものとして、
+心霊術師ザンベンドルフが主人公に選ばれたというわけだ。
+よくある職業を主人公にしなかったことで、結果としてウィットに飛んだキャラクターになったと思う。
+
+
+さて、長くなったが、最後に本書のタイトル「造物主(ライフメーカー)の掟」について。
+本書にライフメーカー自体は出てこないが、
+ザンベンドルフたちが山の上でグルーアクに語ったお告げを指して掟と言っているわけだ。
+また、原題は「Code of the Lifemaker」で、
+Codeは、おそらく掟の意味以外に、ライフメーカーたちのプログラム＝その結果生まれた機械人たちという意味もあるのではないかと思われる。
+
+続編の「造物主(ライフメーカー)の選択」も面白いので、また読んだら書こうと思う。
 
 
 
@@ -1077,13 +1211,12 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 
 
+### 造物主(ライフメーカー)の選択 {#book-51}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01D4NM2R8/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51b6qU58mbL._SL200_.jpg" alt="造物主(ライフメーカー)の選択 (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01D4NM2R8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">造物主(ライフメーカー)の選択 (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 小隅 黎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01D4NM2R8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-
-
-
-
-
+未読
 
 
 
