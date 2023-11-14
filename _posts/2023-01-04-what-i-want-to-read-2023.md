@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/11/11
+最終更新日：2023/11/13
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -1078,7 +1078,15 @@ SFっていうのはこうでなくちゃって思わせるよね。
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07BGRLHW9/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51eFRq1-hKL._SL200_.jpg" alt="精霊の箱 上" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07BGRLHW9/?tag=tavi06-22" name="AmaQuicklink" target="_blank">精霊の箱 上</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">川添愛(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07BGRLHW9/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-（読み中）
+2023/11/13 読了
+
+もうガレットが魔術師になった後の話かと思っていたが、まだ魔術師見習いだった。
+でも前作の「白と黒のとびら」よりストーリーに重きが置かれているように思う。
+もちろん、だからと言ってオートマトンやそれに関する呪文が疎かになっているわけではなく、
+そこは2進数などが出てきて、コンピュータ系の僕としては色々楽しめている。
+
+謎が多いので、ストーリーの感想は下巻と一緒に書く。
+
 
 
 ### 精霊の箱 下 {#book-49}
