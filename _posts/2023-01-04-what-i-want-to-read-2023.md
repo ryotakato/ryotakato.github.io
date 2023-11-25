@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/11/13
+最終更新日：2023/11/25
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -857,7 +857,15 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09M8V59CJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51bRKSjzLeL._SL200_.jpg" alt="チンギス紀　十一　黙示 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09M8V59CJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十一　黙示 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09M8V59CJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-未読
+2023/11/24 読了
+
+ちょっと読むの止めていたので、改めて再開。
+
+金国戦がメインで、テムジンがようやく梁山湖にきた。
+また、西側のお話が少しづつ出てきて、今後の布石と思わせることが多い。
+
+ちょっと時間の流れが早くなってきた気がする。
+
 
 
 
@@ -1224,7 +1232,23 @@ Codeは、おそらく掟の意味以外に、ライフメーカーたちのプ�
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01D4NM2R8/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51b6qU58mbL._SL200_.jpg" alt="造物主(ライフメーカー)の選択 (創元ＳＦ文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01D4NM2R8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">造物主(ライフメーカー)の選択 (創元ＳＦ文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 小隅 黎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01D4NM2R8/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-未読
+2023/11/18 読了
+
+
+さて、続編。これも再読。
+
+この話の一番好きなところは、
+機械人の起源となる異星人（ボリジャン）と、そのコンピュータであるジニアス5の存在。
+ボリジャンの進化の過程と、その社会性である、他人を蹴落とすことにチャレンジ精神を感じる種族であるという特徴が良かったなー。
+
+面白いんだけど、お話としては前作のほうが好き。
+なぜなら、最後のほうでジニアス5をザンベンドルフ側が味方につけてボリジャン達に対抗するのだが、
+そのやり方がちょっとツッコミどころありすぎだからだ。（そして、問題を解決してからはジニアス5が味方になった理由を忘れてしまったというオチも興ざめ。）
+元々ホーガンは続編書くつもりなかったらしいしね。
+
+そして笑ったのは、グルーアクが川下り（タイタンの川なので、ベルトコンベアのこと）するところで、
+地球人側に電波で話しかけたら、「ただいま留守にしております」という自動音声が流れるところ。
+
 
 
 
