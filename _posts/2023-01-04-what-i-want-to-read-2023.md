@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/11/25
+最終更新日：2023/11/28
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -1101,7 +1101,47 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07BH1TWKH/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51E+FH9nxQL._SL200_.jpg" alt="精霊の箱 下" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07BH1TWKH/?tag=tavi06-22" name="AmaQuicklink" target="_blank">精霊の箱 下</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">川添愛(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07BH1TWKH/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-未読
+2023/11/27 読了
+
+面白かった！
+
+前作よりもかなり魔術要素がいっぱい出てきて、かなり楽しい。
+そして陰謀もなるほどと思わせるものだったし。
+
+下巻は結構早い段階から主人公のガレットが辛そうで、読み進めるのが大変だったが、
+良いところで師匠のアルドゥインが出てきたりして、手が止まらず、2日で読み切ってしまった。
+
+上巻から2つの物語が交互に出てくる構成で、
+こういう構成はなかなか当たり外れがあるのだが、
+下巻を読むと、それが敵の外部と内部（厳密には内部ではないが）からの物語となっていて、
+なぜこの構成だったのかというのがよく分かるようになっている。
+
+徐々にコンピュータのメタファーが出てくるので、
+だんだん僕らの知ってるコンピュータに近くなっていくのが面白い。
+
+また、最後のほうでは暗号理論が出てくるだが、
+共通鍵暗号と公開鍵暗号が出てきたときは思わずニヤリとしたね。
+
+どうしてもこういう本の性質上、登場人物がちょっと説明しすぎになるのが気になるが、
+それでも、それを敵が焦燥の中で自分を落ち着かせようとしているという描写で書いたりしていたので、
+そこまでクドい印象はなかった。
+
+そして、この物語で一番いいところが、
+ガレットが大事なところでは悩みながらもいつも正しい判断（文中でいう、「間違っている」判断を絶対に選ばない）をちゃんと選ぶところ。
+それが自分にとって辛い選択でも逃げずに選んでいる。
+必ずしもこの主人公は才能があるわけではない（実際よく捕まっている）が、
+この判断の良さがガレットを主人公足らしめていると思う。
+
+
+エピローグを読むと、えー！その間のガレットの物語がまだ読みたいっていう気になるが、
+今のところ続編はないので、ここで終わりな気がする。
+
+この作者の他作品も読んでみたいな。
+
+
+
+
+
 
 
 ### 造物主(ライフメーカー)の掟 {#book-50}
