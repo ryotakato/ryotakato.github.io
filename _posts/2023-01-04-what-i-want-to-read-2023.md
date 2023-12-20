@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/11/28
+最終更新日：2023/12/12
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -873,7 +873,23 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09W617NHQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/5168kJMxjIL._SL200_.jpg" alt="チンギス紀　十二　不羈 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09W617NHQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十二　不羈 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09W617NHQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-未読
+2023/12/07 読了
+
+この巻まで読んできて、思ったんだけど、
+チンギス紀って、水滸伝と違って、最初が絶望的な状況じゃないから、
+あまりどの戦いも負けるかもっていう切迫感が感じられないんだよね。
+チンギスが統一するんでしょって結末を知ってしまっているというのもあるけど、
+なんだかんだで勝てるんでしょっていう。
+
+もちろんこの巻ではダイルとヤクという初期から活躍してきた2人が亡くなるわけだが、
+それも死に場所を探しての結果だった気がする。
+
+チンギスの各軍が手痛い失敗をするとか、そういうことがここ数巻ないのが原因かな。
+金国戦もその前の下準備が長かったのにあっさり決着ついた感じだし。
+
+そういえば、今巻でタルグダイが結構あっさり死んでしまったのが結構びっくりだった。
+もっと生かすような気がしていたからなー。
+
 
 
 ### チンギス紀　十三　陽炎 {#book-36}
