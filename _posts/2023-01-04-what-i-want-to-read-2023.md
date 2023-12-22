@@ -5,7 +5,7 @@ tags : [本]
 date: 2023-01-04 15:44:44
 ---
 
-最終更新日：2023/12/12
+最終更新日：2023/12/23
 
 毎年恒例、読みたい本を記載しておく。
 リストは随時更新するので、読んだ本リストにもなるかな。
@@ -76,6 +76,7 @@ date: 2023-01-04 15:44:44
 49. [精霊の箱 下](#book-49)
 50. [造物主(ライフメーカー)の掟](#book-50)
 51. [造物主(ライフメーカー)の選択](#book-51)
+52. [数の女王](#book-52)
 
 
 
@@ -896,7 +897,22 @@ SFっていうのはこうでなくちゃって思わせるよね。
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0B51DLMRW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51a6RrJiK9L._SL200_.jpg" alt="チンギス紀　十三　陽炎 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0B51DLMRW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十三　陽炎 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0B51DLMRW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-未読
+2023/12/23 読了
+
+ホラズムとの戦の前って感じ。
+話もマルガーシの話が多かったし。
+
+でも、ホラズム国が強いって感じを急に出してきたけど、
+大して将軍がいるわけでもないのに、急にそういうこと言われても？となってしまう。
+マルガーシがいる隊も300騎しかいないわけで、
+だいたいマルガーシ自身が戦の経験がないのにモンゴル国の将軍たちと対等に戦えてしまったら、たぶん白ける。
+
+でも、モンゴル国の使者達を惨殺して、挑発したあたりは興味深かったな。
+開戦の機を掴むために、あえてそうしたってあたり。
+
+テムゲの失敗によりボロクルがあっさりと死んでしまったのもいただけない。
+水滸伝の致死軍の暗闘を見ているせいか、ちょっと簡単に書きすぎている気がしている。
+
 
 
 ### チンギス紀　十四　萬里 {#book-37}
@@ -1304,6 +1320,34 @@ Codeは、おそらく掟の意味以外に、ライフメーカーたちのプ�
 
 そして笑ったのは、グルーアクが川下り（タイタンの川なので、ベルトコンベアのこと）するところで、
 地球人側に電波で話しかけたら、「ただいま留守にしております」という自動音声が流れるところ。
+
+
+
+
+
+### 数の女王 {#book-52}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07YV7PS7B/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51OCqEbU+eL._SL200_.jpg" alt="数の女王" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07YV7PS7B/?tag=tavi06-22" name="AmaQuicklink" target="_blank">数の女王</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">川添愛(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07YV7PS7B/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2023/12/18 読了
+
+お話としては、同じ著書の白と黒の冒険や精霊の箱のほうが複雑で楽しかったかな。
+でも、数学の中の数の面白さをうまくお話に落とし込んだと思う。
+
+特に良かったのは、巡回数や素数を求める式あたりかな。
+この話のように面白さを紹介されるともっと調べてみたくなる。
+
+そして、この著者の他作品もそうだけど、
+ちゃんと主人公の心の強さを描いているのがいいところだと思う。
+ただ数学のことだけに終始するのではなく、人間的な強さや葛藤を描いているので、感情移入ができる。
+
+今後も機会があったら他の著書を読んでみようと思う。
+
+
+
+
+
 
 
 
