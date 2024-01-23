@@ -89,7 +89,7 @@ HTML Living Standard
 
 詳しい経緯は下記参照。
 
-[どうしてHTML5が廃止されたのか | フューチャー技術ブログ](https://future-architect.github.io/articles/20210621a/)
+[どうしてHTML5が廃止されたのか &#124; フューチャー技術ブログ](https://future-architect.github.io/articles/20210621a/)
 
 
 
