@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "flathubでGodot Engineのインストール"
-tags : [Linux, 環境構築]
+tags : [Linux, 環境構築, Godot]
 date: 2024-01-26 06:41:44
 ---
 
