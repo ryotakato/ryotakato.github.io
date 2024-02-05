@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/01/23
+最終更新日：2024/02/06
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -36,6 +36,7 @@ date: 2024-01-23 19:53:44
 6. [チンギス紀　十六　蒼氓](#book-6)
 7. [チンギス紀　十七　天地](#book-7)
 8. [働きたくないイタチと言葉がわかるロボット 人工知能から考える「人と言葉」](#book-8)
+9. [ノッポさんの「小さい人」となかよくできるかな？～ノッポ流　人生の極意～](#book-9)
 
 
 
@@ -130,14 +131,32 @@ date: 2024-01-23 19:53:44
 
 
 
+### ノッポさんの「小さい人」となかよくできるかな？～ノッポ流　人生の極意～ {#book-9}
 
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B01N9BUUJX/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/511gcQZt9tL._SL200_.jpg" alt="ノッポさんの「小さい人」となかよくできるかな？～ノッポ流　人生の極意～" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B01N9BUUJX/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ノッポさんの「小さい人」となかよくできるかな？～ノッポ流　人生の極意～</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">高見のっぽ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B01N9BUUJX/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2024/02/05 読了
 
+この前、NHKのサラメシでノッポさんが取り上げられていて、
+興味をもったので、読んでみた。
 
+僕が子供の頃はもうすでにワクワクさんだったから、
+世代ではないけど、再放送などを何度か見てたから、もちろん知ってた。
+だけど、どういう考えを持っていたとか、どういうことをしていたとかはあまり知らなかった。
 
+本書を読んで、少しそれがわかったような気がする。
+一つ一つのことは、よくよく聞くとそこまで特別なことを言ってるわけじゃないけど、
+「できるかな」で20年以上子供と向き合ってきたから言える言葉、
+そして、自身なりの美学、信念があって人生を歩んできたから言える言葉、
+だと思うと、感慨深い。
+自伝も次に読んでみるつもり。
 
+生前、
+「僕は、風のように逝くからさ」
+と口にしていたそうだ。
+こういうことをさらっと言えると、カッコいいなと思った。
 
 
 
