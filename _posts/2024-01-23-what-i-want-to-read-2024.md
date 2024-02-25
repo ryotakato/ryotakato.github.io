@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/02/16
+最終更新日：2024/02/26
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -38,7 +38,7 @@ date: 2024-01-23 19:53:44
 8. [働きたくないイタチと言葉がわかるロボット 人工知能から考える「人と言葉」](#book-8)
 9. [ノッポさんの「小さい人」となかよくできるかな？～ノッポ流　人生の極意～](#book-9)
 10. [夕暮れもとぼけて見れば朝まだき――ノッポさん自伝](#book-10)
-
+11. [三谷幸喜のありふれた生活 (17)『未曾有の出来事』](#book-11)
 
 
 
@@ -172,6 +172,26 @@ date: 2024-01-23 19:53:44
 「ノッポさん」になる前の高見映さんの姿などが見られた。
 上記の本より、こっちのほうが面白かったな。
 特にディズニーランドのくだりなんかは最高。
+
+
+
+
+### 三谷幸喜のありふれた生活 (17)『未曾有の出来事』 {#book-11}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4022518766/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41baQv1iu6L._SL200_.jpg" alt="三谷幸喜のありふれた生活 (17)『未曾有の出来事』" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4022518766/?tag=tavi06-22" name="AmaQuicklink" target="_blank">三谷幸喜のありふれた生活 (17)『未曾有の出来事』</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">三谷 幸喜(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4022518766/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/02/22 読了
+
+三谷幸喜は結構好きな脚本家で、「ラヂオの時間」や「12人の優しい日本人」などの映画は大好き。
+最近だと大河ドラマ「鎌倉殿の13人」も面白かったし、
+今は、DVD借りて妻と「真田丸」見てる。
+そんな脚本家のエッセイ集で、存在はずっと知ってたけど、読んだことはなかった。
+
+読んで見ると、とても気軽に読める上に、
+内容が面白いので、飽きない。
+このシリーズ、遡って読んで見ようかと思う。
+
 
 
 
