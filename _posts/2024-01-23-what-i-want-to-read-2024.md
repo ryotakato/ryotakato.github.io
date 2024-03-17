@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/02/26
+最終更新日：2024/03/17
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -39,7 +39,7 @@ date: 2024-01-23 19:53:44
 9. [ノッポさんの「小さい人」となかよくできるかな？～ノッポ流　人生の極意～](#book-9)
 10. [夕暮れもとぼけて見れば朝まだき――ノッポさん自伝](#book-10)
 11. [三谷幸喜のありふれた生活 (17)『未曾有の出来事』](#book-11)
-
+12. [ことばハンター](#book-12)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -197,13 +197,23 @@ date: 2024-01-23 19:53:44
 
 
 
+### ことばハンター {#book-12}
 
 
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4591160726/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ojtnd6gOL._SL200_.jpg" alt="ことばハンター (ポプラ社ノンフィクション)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4591160726/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ことばハンター (ポプラ社ノンフィクション)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">飯間 浩明(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4591160726/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2024/03/03 読了
 
+何気なく図書館で見かけて借りてみた。
+舟を編むの映画は結構好きだったから、楽しく読めたが、
+どっちかというとティーンエイジャー向けに、どういう仕事かを簡単に説明しているような本だった。
 
+ただ、これを読んで、三省堂の国語辞典に興味が湧いたのも事実。
+
+そして、数年に一回改定される国語辞典の更新ペースが時代にあっていない気がして、
+ちょっと心配になってしまった。
 
 
 
