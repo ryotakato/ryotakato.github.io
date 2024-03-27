@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/03/17
+最終更新日：2024/03/28
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -40,6 +40,7 @@ date: 2024-01-23 19:53:44
 10. [夕暮れもとぼけて見れば朝まだき――ノッポさん自伝](#book-10)
 11. [三谷幸喜のありふれた生活 (17)『未曾有の出来事』](#book-11)
 12. [ことばハンター](#book-12)
+13. [三谷幸喜のありふれた生活 (16)『予測不能』](#book-13)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -214,6 +215,37 @@ date: 2024-01-23 19:53:44
 
 そして、数年に一回改定される国語辞典の更新ペースが時代にあっていない気がして、
 ちょっと心配になってしまった。
+
+
+
+
+### 三谷幸喜のありふれた生活 (16)『予測不能』 {#book-13}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4022516852/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51HjIvu5FYS._SL200_.jpg" alt="三谷幸喜のありふれた生活 (16) 『予測不能』" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4022516852/?tag=tavi06-22" name="AmaQuicklink" target="_blank">三谷幸喜のありふれた生活 (16) 『予測不能』</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">三谷幸喜(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4022516852/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/03/23 読了
+
+
+三谷幸喜のありふれた生活シリーズ、この前読んだやつの前作。
+このシリーズの挿絵を書いていた和田誠さんが亡くなってしまって、
+その後の発行だったから、三谷幸喜本人が表紙を描いているが、
+確かに和田誠さんの絵に似ている。
+ずっと模写していたというだけある。
+
+内容は前読んだのと同じく、一つ一つのエッセイが軽く読めるから、気楽に楽しめる。
+舞台の裏側の話を色々と書いてくれるから、
+その舞台を是非見たいと思うんだけど、映像化されてないんだよね。
+
+三谷幸喜の舞台といえば、「巌流島」をビデオで見たことがあって、
+それがかなり面白かったな。
+最近は「ショウ・マスト・ゴー・オン」を配信で見た。
+これも安定の面白さ。
+大河ドラマも面白いけど、やっぱり舞台の人なんだなー。
+
+
+
 
 
 
