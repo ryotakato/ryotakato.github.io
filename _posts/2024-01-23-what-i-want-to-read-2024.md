@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/03/28
+最終更新日：2024/04/08
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -41,6 +41,7 @@ date: 2024-01-23 19:53:44
 11. [三谷幸喜のありふれた生活 (17)『未曾有の出来事』](#book-11)
 12. [ことばハンター](#book-12)
 13. [三谷幸喜のありふれた生活 (16)『予測不能』](#book-13)
+14. [虹をつかむ男](#book-14)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -246,8 +247,28 @@ date: 2024-01-23 19:53:44
 
 
 
+### 虹をつかむ男 {#book-14}
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4151200762/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41zp2CZnQtL._SL200_.jpg" alt="虹をつかむ男 (ハヤカワepi文庫 サ 1-1)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4151200762/?tag=tavi06-22" name="AmaQuicklink" target="_blank">虹をつかむ男 (ハヤカワepi文庫 サ 1-1)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・サーバー(著), 鳴海 四郎(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4151200762/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2024/04/06 読了
+
+ベン・スティラー監督・主演の映画「LIFE!」は、僕の大好きな映画の一つだが、
+その原作が載っている本がこれ。
+といっても短編集で、
+原作の「虹をつかむ男」は数十ページしかない、超短編。
+
+映画とは違って、全然冒険しないけども、
+主人公の造形が同じってぐらい。
+
+なので、それより他の話のほうが面白かったかな。
+
+「世界最大の英雄」や、「ツグミの巣ごもり」、「ウィルマおばさんの勘定」、「一種の天才」
+なんかは気軽に楽しく読めた。
+他はちょっと分からない作品も多いけど、
+作者のセンスが独特で面白いなと思う。
+
+また短編集があったら読んでみようかな。
 
 
 
