@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/04/08
+最終更新日：2024/04/17
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -75,7 +75,18 @@ date: 2024-01-23 19:53:44
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0BKGQYXSZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/515V9H3awoL._SL200_.jpg" alt="チンギス紀　十四　萬里 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0BKGQYXSZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十四　萬里 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0BKGQYXSZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-未読
+2024/04/17 読了
+
+読み終わるまで長かったー。
+図書館で借りて読んでいるけど、
+合計3回ぐらいこの本借りてる。
+
+正直飽きてきていたので、全然ページが進まないんだよね。
+キャラクターとしてはテムジンの長子のジョチが最近好きになってきたんだけど、
+戦いが全然面白くない。
+やっぱり、ホラズムが強い感じ全然ないのに、モンゴル帝国と戦えてしまっているのがモヤモヤっとするポイントなんだよな。
+
+とりあえず飽きてはいるけど、夏ぐらいまでには全部読む予定。
 
 
 ### チンギス紀　十五　子午 {#book-5}
