@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/04/17
+最終更新日：2024/04/28
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -42,6 +42,7 @@ date: 2024-01-23 19:53:44
 12. [ことばハンター](#book-12)
 13. [三谷幸喜のありふれた生活 (16)『予測不能』](#book-13)
 14. [虹をつかむ男](#book-14)
+15. [舟を編む](#book-15)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -280,6 +281,40 @@ date: 2024-01-23 19:53:44
 作者のセンスが独特で面白いなと思う。
 
 また短編集があったら読んでみようかな。
+
+
+
+### 舟を編む {#book-15}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00U8P4ZJ4/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51BgXaA3ZYL._SL200_.jpg" alt="舟を編む (光文社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00U8P4ZJ4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">舟を編む (光文社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">三浦 しをん(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00U8P4ZJ4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/04/27 読了
+
+映画が好きで何度か見ているんだけど、
+今さらながら原作を読んでなかったので、Kindleで買って読んでみた。
+
+話の筋はしっかり覚えているので、
+映画との差異が結構面白く読めた。
+細かい差異はあれど、基本的に人物も原作に沿っていたので、それは高評価。
+
+主人公の馬締が、最初から全く話せないってわけではなく、
+ちゃんと言うところは言う役だったのが意外。
+あと、西岡目線の話もあったりして、内面を描いていたので、それも好きかな。
+
+最後のほうの、松本先生が亡くなるシーンの、「まにあわなかったよ」というセリフは、
+映画でも特に印象に残るシーンだから、それがしっかり原作でもあったのは良かったな。
+
+わずか一晩で読み切ってしまった。
+
+さて、このGWは何を読もうかな。
+
+
+
+
+
+
+
 
 
 
