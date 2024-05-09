@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/04/28
+最終更新日：2024/05/10
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -43,6 +43,8 @@ date: 2024-01-23 19:53:44
 13. [三谷幸喜のありふれた生活 (16)『予測不能』](#book-13)
 14. [虹をつかむ男](#book-14)
 15. [舟を編む](#book-15)
+16. [オリエント急行の殺人](#book-16)
+17. [アクロイド殺し](#book-17)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -311,7 +313,39 @@ date: 2024-01-23 19:53:44
 
 
 
+### オリエント急行の殺人 {#book-16}
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B009DEMNUY/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516JESz+53L._SL200_.jpg" alt="オリエント急行の殺人 (クリスティー文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B009DEMNUY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">オリエント急行の殺人 (クリスティー文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アガサ・クリスティー(著), 山本 やよい(著), 山本 やよい(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B009DEMNUY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/05/01 読了
+
+今年のGWはミステリーでいくことにした。
+本作は4年ほど前に読んでいるので、再読というかたち。
+2017年の映画があったので読んだのだが、だいだいの話の筋と結末は覚えていたものの、
+細かいところは結構忘れているところも多く、
+実はここがヒントだったのかーっていう感じで読めたので、とても楽しかった。
+三谷幸喜が2015年にドラマ化しているので、それも見てみたい。
+
+
+
+
+
+### アクロイド殺し {#book-17}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B009DEMCHI/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/419jIOHltcL._SL200_.jpg" alt="アクロイド殺し (クリスティー文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B009DEMCHI/?tag=tavi06-22" name="AmaQuicklink" target="_blank">アクロイド殺し (クリスティー文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アガサ・クリスティー(著), 羽田 詩津子(著), 詩津子, 羽田(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B009DEMCHI/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/05/06 読了
+
+アガサ・クリスティーの2作目はこれまた有名なアクロイド殺し。
+これについては全く知らない状態ではあったんだけど、
+この作品がフェアかアンフェアかということはファンの間では有名らしく、
+そういうことが有名になるってことは、もしかしたら・・・って思いながら読んでいた。
+
+流石にミステリーのネタバレは書かない派なので、
+これ以上は言えないけど、確かに一度は読んでおくべきかと思う。
+
+エルキュール・ポアロが出てくる作品はこの先も読んでいこうと思う。
 
 
 
