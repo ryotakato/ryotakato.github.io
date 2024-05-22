@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/05/10
+最終更新日：2024/05/23
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -45,6 +45,7 @@ date: 2024-01-23 19:53:44
 15. [舟を編む](#book-15)
 16. [オリエント急行の殺人](#book-16)
 17. [アクロイド殺し](#book-17)
+18. [そして誰もいなくなった](#book-18)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -92,11 +93,20 @@ date: 2024-01-23 19:53:44
 とりあえず飽きてはいるけど、夏ぐらいまでには全部読む予定。
 
 
+
 ### チンギス紀　十五　子午 {#book-5}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0BY846GPQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51-+VQcqhyL._SL200_.jpg" alt="チンギス紀　十五　子午 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0BY846GPQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十五　子午 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0BY846GPQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-未読
+2024/05/20 読了
+
+ようやく戦いが本格化してきて、少し面白くなったかな。
+でも、やっぱりホラズムが何故強いのかがよくわからない。
+ただ、テムジンの息子たちが不甲斐ないだけに見えてしまう。
+
+とりあえず次も続けて読む。
+
+
 
 ### チンギス紀　十六　蒼氓 {#book-6}
 
@@ -346,6 +356,36 @@ date: 2024-01-23 19:53:44
 これ以上は言えないけど、確かに一度は読んでおくべきかと思う。
 
 エルキュール・ポアロが出てくる作品はこの先も読んでいこうと思う。
+
+
+
+
+### そして誰もいなくなった {#book-18}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4151310800/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51i-+bvW8fL._SL200_.jpg" alt="そして誰もいなくなった (ハヤカワ文庫―クリスティー文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4151310800/?tag=tavi06-22" name="AmaQuicklink" target="_blank">そして誰もいなくなった (ハヤカワ文庫―クリスティー文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アガサ・クリスティー(著), 青木久惠(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4151310800/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+
+2024/05/19 読了
+
+アガサ・クリスティの3作目は、ポアロではないが、
+有名な、そして誰もいなくなった
+十角館の殺人とか、この形式のミステリー小説は色々あるが、
+その原点と言えるもの。
+
+面白かった！
+最初は登場人物多いかなって思ったけど、
+テンポがいいし、だいたいの人物がキャラクターがたっているから、そこまで気にならない。
+そして、最後のオチが、なるほど！って感じ。
+
+本作を読んだ後に下記リンク先を読んだけど、
+そこでさらになるほどって感じ。
+ネタバレしたくない人は絶対に開いてはいけない。
+
+[https://daisuke-nakamura.hatenablog.com/entry/2021/12/02/112710](https://daisuke-nakamura.hatenablog.com/entry/2021/12/02/112710)
+
+
+本作の犯人当てを、オチを読まずに推理できるかどうかがちょっと考察してみたいところ。
 
 
 
