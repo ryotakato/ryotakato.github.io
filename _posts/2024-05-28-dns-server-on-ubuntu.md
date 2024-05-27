@@ -95,6 +95,12 @@ $ sudo systemctl restart systemd-resolved
 で再起動。
 
 
+参考
+[resolved.conf](https://www.freedesktop.org/software/systemd/man/latest/resolved.conf.html)
+[Debianでルーターを構築 #IPv6 - Qiita](https://qiita.com/m-m-n/items/0fa1bc14ed6584295adc#dns%E3%81%AE%E8%A8%AD%E5%AE%9A)
+
+
+
 ### Minecraftのためにドメインを設定
 
 Minecraftの統合版の特集サーバと呼ばれるもののドメインを、
