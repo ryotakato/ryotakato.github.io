@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/05/23
+最終更新日：2024/05/30
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -46,6 +46,8 @@ date: 2024-01-23 19:53:44
 16. [オリエント急行の殺人](#book-16)
 17. [アクロイド殺し](#book-17)
 18. [そして誰もいなくなった](#book-18)
+19. [幸村を討て](#book-19)
+20. [南部は沈まず](#book-20)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -113,7 +115,25 @@ date: 2024-01-23 19:53:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0CCP27JSZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51-GY7BitZL._SL200_.jpg" alt="チンギス紀　十六　蒼氓 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0CCP27JSZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十六　蒼氓 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0CCP27JSZ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-未読
+2024/05/28 読了
+
+ホラズムとの戦いが最終局面。
+戦い自体は面白くなったけど、
+なんか無理矢理まとめてきた感がある。
+今まで、敵であれ、味方であれ、漢が死ぬときは結構主観で書いていたような気がしたのに、
+ホラズムの帝のところ以外は、あっさり死んだ描写があるだけ。
+ウダラルとか、もう少し書いてあげてもいいのに。
+テムジン主観のパート、結構いらないところ多いと思うんだけどなー。
+そのページ数をもっと別の人に割いてほしかった。
+
+ジョチが病気というのは辛い。
+一番悩んで苦労していたポジションだけに、
+これからしっかりとした将軍になるかと思ったのに、
+まさかもう戦場に立てないとは。。。
+
+次で最後だけど、どうやらこれまでとは全然違う展開が待ってるらしい。
+
+
 
 
 ### チンギス紀　十七　天地 {#book-7}
@@ -389,8 +409,23 @@ date: 2024-01-23 19:53:44
 
 
 
+### 幸村を討て {#book-19}
 
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09XV34ZQJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51oLMshHZqL._SL200_.jpg" alt="幸村を討て" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09XV34ZQJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">幸村を討て</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">今村翔吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09XV34ZQJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
+
+
+
+### 南部は沈まず {#book-20}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4532168252/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51CGOT5P2nL._SL200_.jpg" alt="南部は沈まず" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4532168252/?tag=tavi06-22" name="AmaQuicklink" target="_blank">南部は沈まず</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">近衛 龍春(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4532168252/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
 
 
 
