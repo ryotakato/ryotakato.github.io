@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/05/30
+最終更新日：2024/06/05
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -415,7 +415,35 @@ date: 2024-01-23 19:53:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09XV34ZQJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51oLMshHZqL._SL200_.jpg" alt="幸村を討て" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09XV34ZQJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">幸村を討て</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">今村翔吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09XV34ZQJ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-読み中
+2024/06/05 読了
+
+面白かった。
+この人の作品は「じんかん」に続いて2作目だけど、読ませるなーと思う。
+
+ちょうど大河ドラマの「真田丸」を見終わったので、
+真田に関する小説を読みたいなと思ったのがきっかけ。
+
+家康の疑惑から始まり、
+各章ごとの登場人物が語っていく中で、
+少しずつ謎が明かされていくのだが、
+各章の主人公の思いや考えが面白くて、
+まるでオムニバス形式のを読んでいたら、一本につながっていたみたいな感じ。
+
+謎自体はそこまで突飛なものではないものの、
+最後の章の、信之VS家康(+正信)のところが面白くて、
+そしてまとまっていたので、読後感が非常に良い。
+タイトルにもちゃんと意味があったのも素晴らしい。
+
+
+ただ、真田丸を見た後のせいで、
+家康は内野聖陽、正信は近藤正臣、信之は大泉洋で脳内再生されてしまった。
+前者2人は合ってるけど、絶対この小説では信之はもっとカッコいいはずなんだけど、
+どうしても真面目な大泉洋になってしまう。
+
+この著者はきっと真田丸を見て、自分ならこう描くっていう思いがあったのだろうと思う。
+本当にかすかだけど、なんとなく真田丸意識なところがあったし。
+
+
 
 
 
