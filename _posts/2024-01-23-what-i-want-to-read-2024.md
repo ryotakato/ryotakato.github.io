@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/06/05
+最終更新日：2024/06/23
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -140,8 +140,21 @@ date: 2024-01-23 19:53:44
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0CCP4G9Y1/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61gX3+MPtAL._SL200_.jpg" alt="チンギス紀　十七　天地 (集英社文芸単行本)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0CCP4G9Y1/?tag=tavi06-22" name="AmaQuicklink" target="_blank">チンギス紀　十七　天地 (集英社文芸単行本)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">北方謙三(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0CCP4G9Y1/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2024/06/20 読了
 
-未読
+全部読み切った。
+水滸伝から始まって、長かったなーと思う。
+
+
+さて、最終巻はというと、
+正直結局マルガーシかという感じで、
+しかも、テムジンは絶対負けないだろうという感じがでてしまっているので、
+何か蛇足感。
+ホラズムで終わっても良かった感じ。
+まあ、別にホラズム戦も楽しかった感じではないが。
+
+チンギス紀は、ジャムカと草原の覇権を争ったところまでが面白くて、
+残りは微妙な評価とせざるをえない。
 
 
 
