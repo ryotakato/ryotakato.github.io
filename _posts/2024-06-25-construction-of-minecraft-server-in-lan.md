@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntuで家庭内LANにMinecraftサーバを立ててSwitchからつなぐ"
 tags : [Linux, 環境構築, ゲーム]
-date: 2024-06-25 07:38:44
+date: 2024-06-25 08:18:44
 ---
 
 
