@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/06/23
+最終更新日：2024/07/05
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -48,6 +48,7 @@ date: 2024-01-23 19:53:44
 18. [そして誰もいなくなった](#book-18)
 19. [幸村を討て](#book-19)
 20. [南部は沈まず](#book-20)
+21. [傷のあるリンゴ](#book-21)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -466,7 +467,69 @@ date: 2024-01-23 19:53:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4532168252/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51CGOT5P2nL._SL200_.jpg" alt="南部は沈まず" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4532168252/?tag=tavi06-22" name="AmaQuicklink" target="_blank">南部は沈まず</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">近衛 龍春(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4532168252/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
+2024/06/30 読了
+
+東北の武将はどれも興味あるけど、
+南部晴政に関した小説がないなーってことで、
+南部家自体の作品である本作を読むことに。
+
+どっちかというと、南部晴政ではなく、
+その次代とさらにその次代である、
+南部信直、利直親子の次代の話が多い。
+時代としては、1569年〜大阪の陣の少し後まで。
+
+上下二段組の装丁で、かつ、400ページ以上あるから、
+実際には800ページ弱の分量なので、読むのに時間がかかる。
+そして、正直最初は信直と晴政の確執の話になるので、面白さに欠けて、
+これ読み切れるかなって思ってた。
+
+だけど、信直の代になって、
+そして、信長や秀吉などの名前が出てくるようになると、
+知っている出来事が出てくるので、
+それがどういう風に南部家および陸奥地方に影響を及ぼしてくるのかが分かって、
+ああ、こういう風に繋がっていたのかと学ぶことが多くて、楽しくなってきた。
+
+しかも、中央の権力争いの渦中にいた人ではなく、
+地方の、もっというと、本州の最北端の弱小大名から見た視点なので、
+実際これが全国の大名の本音なんだろうなって描写が多くて、僕の戦国時代観がかなり広がった気がした。
+
+南部信直、利直は暗愚ではないし、それどころかむしろ英邁だと思うけど、
+いかんせん、陸奥という土地の辛さに苦しめられることが多かったので、
+南部家というのは中々力を蓄えて外に向かうってことができなかったんだろうなと思う。
+
+ただ、結構ラッキーなことも多く、
+日本で唯一検地が終わっていないのに、石田三成の定めた十万石でずっと許されてたり、（本当は倍以上あったらしい）
+惣無事令違反で、通常ならば何らかの仕置があるはずなのに、伊達を抑えるために特別に許されたりしている。
+
+そして、最後のほうで2度に渡って起きる地震と津波の被害から、なんとか立ち直ろうとする姿を見ると、
+東日本大震災で被害を受けた東北の応援のためにこの小説を書いたのだろうなと思って、いい本だなと思った。
+
+
+最後に載ってた参考文献の量が半端なくて、かなり細かく調べたことが伺える。
+もちろん、まとまっていたものがなかったので、数を当たらないと情報が集まらないということだったんだろうけど、
+それにしてもかなりの量。
+
+この著者の名前は今までもちらちら見てたけど読んだことなかったので、
+これからもちょっとずつ読んでいけるといいなと思った。
+
+
+### 傷のあるリンゴ {#book-21}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00J7EEMFE/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41jNucPGDzL._SL200_.jpg" alt="傷のあるリンゴ" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00J7EEMFE/?tag=tavi06-22" name="AmaQuicklink" target="_blank">傷のあるリンゴ</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">外山滋比古(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00J7EEMFE/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
 読み中
+
+
+
+
+
+
+
+
+
+
+
 
 
 
