@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/07/05
+最終更新日：2024/07/13
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -67,6 +67,9 @@ date: 2024-01-23 19:53:44
 
 2021年からの継続
 途中から全然すすんでない
+
+
+
 
 
 
@@ -518,9 +521,14 @@ date: 2024-01-23 19:53:44
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00J7EEMFE/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41jNucPGDzL._SL200_.jpg" alt="傷のあるリンゴ" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00J7EEMFE/?tag=tavi06-22" name="AmaQuicklink" target="_blank">傷のあるリンゴ</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">外山滋比古(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00J7EEMFE/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
 
-読み中
+2024/07/08 読了
 
+「思考の整理学」の外山さんの著書なので読んでみた。
+まあ、外山さん独特の思考なのはいつもどおりなのだけど、
+エッセーという形なので、その真髄に触れるような読み物ではなく、
+さらっと読んで、なるほどなーって読む感じのもの。
 
+まあまあ面白かった。
 
 
 
