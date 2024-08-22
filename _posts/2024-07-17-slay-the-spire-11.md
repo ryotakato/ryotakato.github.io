@@ -5,7 +5,7 @@ tags : [ゲーム, Slay the Spire]
 date: 2024-07-17 06:38:44
 ---
 
-![slaythespire_11_01]({{ BASE_PATH }}/images/2024/07/18/slaythespire_11_01.png)
+![slaythespire_11_01]({{ BASE_PATH }}/images/2024/07/17/slaythespire_11_01.png)
 
 アイアンクラッドで、A20Hをクリアしたぞ！！！！！
 めっちゃ嬉しい。
@@ -17,7 +17,7 @@ date: 2024-07-17 06:38:44
 
 
 
-![slaythespire_11_02]({{ BASE_PATH }}/images/2024/07/18/slaythespire_11_02.png)
+![slaythespire_11_02]({{ BASE_PATH }}/images/2024/07/17/slaythespire_11_02.png)
 
 理想的な廃棄軸！
 セカンドウィンドと、やせ我慢2枚という鉄板構成に、
