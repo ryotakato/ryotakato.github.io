@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/07/15
+最終更新日：2024/09/09
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -49,6 +49,16 @@ date: 2024-01-23 19:53:44
 19. [幸村を討て](#book-19)
 20. [南部は沈まず](#book-20)
 21. [傷のあるリンゴ](#book-21)
+22. [波のうえの魔術師](#book-22)
+23. [笑わない数学](#book-23)
+24. [フラッシュ・ボーイズ　10億分の1秒の男たち](#book-24)
+25. [暗号舞踏人の謎](#book-25)
+26. [ゲームウォーズ（上）](#book-26)
+27. [ゲームウォーズ（下）](#book-27)
+28. [われらはレギオン1　ＡＩ探査機集合体](#book-28)
+29. [われらはレギオン２　アザーズとの遭遇](#book-29)
+30. [われらはレギオン３　太陽系最終大戦](#book-30)
+31. [陰陽師 玉兎ノ巻](#book-31)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -545,11 +555,124 @@ date: 2024-01-23 19:53:44
 
 
 
+### 波のうえの魔術師 {#book-22}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B009DECYQW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41keoRNYWuL._SL200_.jpg" alt="波のうえの魔術師 (文春文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B009DECYQW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">波のうえの魔術師 (文春文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">石田 衣良(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B009DECYQW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/07/19 読了
+
+文庫で何度も読んだが、この度電子書籍を買った。
+IWGPも面白いけど、テーマが重くなりがちなので、
+この作品のようにさらっと読めるのも好き。
+
+
+### 笑わない数学 {#book-23}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0CP23GNX2/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41ocLTmoohL._SL200_.jpg" alt="笑わない数学" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0CP23GNX2/?tag=tavi06-22" name="AmaQuicklink" target="_blank">笑わない数学</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">NHK「笑わない数学」制作班(編集)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0CP23GNX2/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/07/21 読了
+
+NHKの笑わない数学が面白くて好きだったんだけど、
+その書籍が出ていたので、読んでみた。
+基本的には番組でやっていたことの復習みたいな感じだが、
+番組作成の大変さが伝わってきて面白かった。
+
+第3シリーズもやってほしいけど、どうかな。
 
 
 
+### フラッシュ・ボーイズ　10億分の1秒の男たち {#book-24}
 
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07W13FP8T/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51AtmG343KL._SL200_.jpg" alt="フラッシュ・ボーイズ　10億分の1秒の男たち (文春文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07W13FP8T/?tag=tavi06-22" name="AmaQuicklink" target="_blank">フラッシュ・ボーイズ　10億分の1秒の男たち (文春文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">マイケル・ルイス(著), 渡会圭子(翻訳), 東江一紀(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07W13FP8T/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/07/27 読了
+
+マイケル・ルイスの作品は面白いので、マネーボールなど色々と読んでいるが、
+これは途中で止まっていた。
+しかし、また最初から読み返してみると面白い。
+特にブラッド・カツヤマとそのチームの精神がとても良い。
+
+
+
+### 暗号舞踏人の謎 {#book-25}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B009B0SYJO/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51CyGYFmCyL._SL200_.jpg" alt="暗号舞踏人の謎" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B009B0SYJO/?tag=tavi06-22" name="AmaQuicklink" target="_blank">暗号舞踏人の謎</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アーサー・コナン ドイル(著), 三上 於菟吉(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B009B0SYJO/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/08/02 読了
+
+ホームズの有名な作品。Kindleで0円だったので、いつかダウンロードしていたのを今更読んでみた。
+子どもの頃に「踊る人形」の名前の本を読んでいたけど、
+こんな話だっけなと思って読んでいた。
+
+でも、タイトルは「踊る人形」のほうがいいと思う。
+
+
+### ゲームウォーズ（上） {#book-26}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00OZ63SCW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61cBvnOZ9yL._SL200_.jpg" alt="ゲームウォーズ（上） (SB文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00OZ63SCW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ゲームウォーズ（上） (SB文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アーネスト・クライン(著), 池田 真紀子(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00OZ63SCW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/08/05 読了
+
+下巻とともに。
+
+
+
+### ゲームウォーズ（下） {#book-27}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00OZ63S8Q/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/5138-HZx6NL._SL200_.jpg" alt="ゲームウォーズ（下） (SB文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00OZ63S8Q/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ゲームウォーズ（下） (SB文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アーネスト・クライン(著), 池田 真紀子(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00OZ63S8Q/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/08/05 読了
+
+何度も読んだ。
+レディ・プレイヤー1 の映画も好きだけど、
+この小説のほうが好き。
+元ネタが分からないものも多いけど、それでも文句なしに楽しめる。
+
+### われらはレギオン1　ＡＩ探査機集合体 {#book-28}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07CLSYLNF/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51t8rtRdAsL._SL200_.jpg" alt="われらはレギオン1　ＡＩ探査機集合体 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07CLSYLNF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">われらはレギオン1　ＡＩ探査機集合体 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">デニス E テイラー(著), 金子 浩(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07CLSYLNF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/08/11 読了
+
+全部まとめて。
+
+
+
+### われらはレギオン２　アザーズとの遭遇 {#book-29}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07FB8WHWB/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ZeS1agyXL._SL200_.jpg" alt="われらはレギオン２　アザーズとの遭遇 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07FB8WHWB/?tag=tavi06-22" name="AmaQuicklink" target="_blank">われらはレギオン２　アザーズとの遭遇 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">デニス E テイラー(著), 金子 浩(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07FB8WHWB/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/08/15 読了
+
+全部まとめて。
+
+### われらはレギオン３　太陽系最終大戦 {#book-30}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B07J2JB9KC/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51DYa+uWKvL._SL200_.jpg" alt="われらはレギオン３　太陽系最終大戦 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B07J2JB9KC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">われらはレギオン３　太陽系最終大戦 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">デニス E テイラー(著), 金子 浩(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B07J2JB9KC/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/08/18 読了
+
+言う事ないほど面白いシリーズ。
+これも何度も読んでいるので、わざわざ書くことない。
+
+
+
+### 陰陽師 玉兎ノ巻 {#book-31}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4163905189/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41qeqt-zAiL._SL200_.jpg" alt="陰陽師 玉兎ノ巻" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4163905189/?tag=tavi06-22" name="AmaQuicklink" target="_blank">陰陽師 玉兎ノ巻</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">夢枕 獏(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4163905189/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/08/30 読了
+
+久々に陰陽師シリーズ
+まさかクライストチャーチの図書館に置いてあると思わなくて、思わず借りてしまった。
+やっぱりこの雰囲気はいいなー。
 
 
 
