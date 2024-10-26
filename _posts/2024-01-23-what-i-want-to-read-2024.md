@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/09/09
+最終更新日：2024/10/26
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -59,6 +59,12 @@ date: 2024-01-23 19:53:44
 29. [われらはレギオン２　アザーズとの遭遇](#book-29)
 30. [われらはレギオン３　太陽系最終大戦](#book-30)
 31. [陰陽師 玉兎ノ巻](#book-31)
+32. [Minecraft: Night of the Bats (Woodsword Chronicles #2)](#book-32)
+33. [Who Moved My Cheese?](#book-33)
+34. [The Songs of Distant Earth](#book-34)
+35. [子どもを伸ばす言葉 実は否定している言葉](#book-35)
+36. [犯罪心理学者が教える子どもを呪う言葉・救う言葉](#book-36)
+37. [Forests of Silence (Deltora Quest)](#book-37)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -673,6 +679,118 @@ NHKの笑わない数学が面白くて好きだったんだけど、
 久々に陰陽師シリーズ
 まさかクライストチャーチの図書館に置いてあると思わなくて、思わず借りてしまった。
 やっぱりこの雰囲気はいいなー。
+
+
+
+### Minecraft: Night of the Bats (Woodsword Chronicles #2) {#book-32}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08F3C24Y5/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516OTDtrcoL._SL200_.jpg" alt="Minecraft: Night of the Bats (Woodsword Chronicles #2): Book 2 in the first official Minecraft gaming fiction series – perfect for getting kids aged 7, 8, 9 & 10 into reading! (English Edition)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08F3C24Y5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Minecraft: Night of the Bats (Woodsword Chronicles #2): Book 2 in the first official Minecraft gaming fiction series – perfect for getting kids aged 7, 8, 9 & 10 into reading! (English Edition)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">Mojang AB(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08F3C24Y5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/09/11 読了
+
+クライストチャーチの図書館にあったので。
+日本にいたとき、子どもに日本語版をプレゼントしてあげたんだけど、
+内容を全部読んでいなかったので、英語の勉強がてら読んでみた。
+まあ、これぐらいの児童書なら全然読める。
+多少分からない単語があってもとりあえず先に進むこと優先。
+それに元々のシリーズを知っているから、だいたい書いてあること想像つくし。
+
+
+
+### Who Moved My Cheese? {#book-33}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B004CR6AM4/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51oe4MOB9fL._SL200_.jpg" alt="Who Moved My Cheese?: An A-Mazing Way to Deal with Change in Your Work and in Your Life (English Edition)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B004CR6AM4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Who Moved My Cheese?: An A-Mazing Way to Deal with Change in Your Work and in Your Life (English Edition)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">Johnson, Spencer(著), Kenneth Blanchard(はしがき)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B004CR6AM4/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/09/18 読了
+
+「チーズはどこへ消えた？」は有名な本で、
+僕も大学生のときに読んだことがあるのだけど、
+その時は大して内容がない本だなっていう評価だった。
+
+だけど、今になって再読（英語だけど）してみると、
+かなり共感できるし、一つ一つが大事なことだなっていうのに改めて気付かされた。
+きっと大学生ではあまりピンとこなかったことが、
+大人になって色々な体験をすることで身近に感じられるようになったからだと思う。
+
+ちなみに英語はかなり容易で、すらすら読めた。
+hem and haw という言葉を始めて知った。
+
+
+### The Songs of Distant Earth {#book-34}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/0194791866/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/5154l4It5hL._SL200_.jpg" alt="Oxford Bookworms Library 4 Songs of Distant Earth 3rd" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/0194791866/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Oxford Bookworms Library 4 Songs of Distant Earth 3rd</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">Clarke, Arthur(著), Bassett, Jennifer(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/0194791866/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/10/17 読了
+
+学校の授業で、何か本を借りて読み、それについてクラスメイトと話しましょうってタイミングがあったので、
+よく知っている、アーサー・C・クラークにした。
+だけど、短編集なので、いちいち登場人物や設定が変わるので、結構キツい。
+少しづつ読み始めたら面白かったけど、
+細かい部分を読み飛ばしているせいで、オチがわからず再度読んだりしたので、大変だった。
+
+これでもまだ非英語話者のためのレベルに落とした英語で書かれているはずなのになー。
+
+
+
+### 子どもを伸ばす言葉 実は否定している言葉 {#book-35}
+
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0BVR123LQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51MVsCRl6SL._SL200_.jpg" alt="子どもを伸ばす言葉 実は否定している言葉【「考える子どもに導く７つのステップ〜小学校までに親にできること」DL特典付き】" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0BVR123LQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">子どもを伸ばす言葉 実は否定している言葉【「考える子どもに導く７つのステップ〜小学校までに親にできること」DL特典付き】</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">天野ひかり(著), とげとげ。(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0BVR123LQ/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/10/19 読了
+
+クライストチャーチ図書館にあったので。
+
+最初は、OKマンガの通りに行くわけないじゃんって思ったけど、
+そもそもこのNGとOKマンガはその通りにしなさいって意味ではなく、
+親の対応の仕方で子どもがどう思っているのかを理解するために、極端な例を出しているものだと思えば、
+著者が各単元で言いたいことが理解できるようになった。
+
+育児系の本は、そのとおりにしないといけないっていう意識で読み出すとツラいけど、
+そうじゃなくて、意図を読み取れるようになると学べることが多い。
+
+
+
+
+### 犯罪心理学者が教える子どもを呪う言葉・救う言葉 {#book-36}
+
+2024/10/21 読了
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0B38WPR6F/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51PgrQAL5jL._SL200_.jpg" alt="犯罪心理学者が教える子どもを呪う言葉・救う言葉 (SB新書)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0B38WPR6F/?tag=tavi06-22" name="AmaQuicklink" target="_blank">犯罪心理学者が教える子どもを呪う言葉・救う言葉 (SB新書)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">出口 保行(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0B38WPR6F/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+有名な出口先生の本。
+実際僕はこの人は「全力! 脱力タイムズ」でしか知らないから、面白い学者さんだなっていうぐらいしか知らなかったけど、
+この本を読んで、文章は分かりやすいし、実体験を元にしているから説得力もあって、すごい人なんだなと思った。
+
+どんどん読み進めることができたし、かつ極端な例なので、こちらも対岸の火事ぐらいの感じで気軽に読めるのもいい。
+（もちろん、これで学んだことを子どもに活かす必要はあるが。）
+
+続きの本もあるみたいなので読んでみたい。
+
+
+
+### Forests of Silence (Deltora Quest) {#book-37}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/0756975360/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/31X3Uhz9pQL._SL200_.jpg" alt="Forests of Silence (Deltora Quest (Pb))" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/0756975360/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Forests of Silence (Deltora Quest (Pb))</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail"></div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/0756975360/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/10/26 読了
+
+言わずと知れた、デルトラクエストシリーズの第一巻。
+マイクラが読めたので、他に面白そうな児童書に手を出してみようと思った。
+デルトラクエストは子どもの頃から名前は聞いていたが、読んだことはなかったので、これを機に。
+
+最初は英語が結構難しく、いけるかなって思っていたけど、進んでみると文脈がわかるもので、
+どんどん読み進めることができた。
+子供向けの児童書ならどういう展開になるか、どういう言葉が交わされそうかは予測可能なので、
+それも大きいかな。
+
+にしても物語の半分ほどが導入部分だったのは驚いた。
+指輪物語もそうだけど、海外の人ってそういう傾向にあるのかね。
+
+
+
 
 
 
