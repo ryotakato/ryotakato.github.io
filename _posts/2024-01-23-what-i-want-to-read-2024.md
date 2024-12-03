@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/10/26
+最終更新日：2024/12/03
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -65,6 +65,16 @@ date: 2024-01-23 19:53:44
 35. [子どもを伸ばす言葉 実は否定している言葉](#book-35)
 36. [犯罪心理学者が教える子どもを呪う言葉・救う言葉](#book-36)
 37. [Forests of Silence (Deltora Quest)](#book-37)
+38. [透明な螺旋](#book-38)
+39. [アルルカンと道化師](#book-39)
+40. [合本　半沢直樹](#book-40)
+41. [むかし僕が死んだ家](#book-41)
+42. [不祥事](#book-42)
+43. [花咲舞が黙ってない](#book-43)
+44. [プロジェクト・ヘイル・メアリー　上](#book-44)
+45. [プロジェクト・ヘイル・メアリー　下](#book-45)
+46. [宇宙への序曲](#book-46)
+47. [英語独習法](#book-47)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -790,8 +800,144 @@ hem and haw という言葉を始めて知った。
 指輪物語もそうだけど、海外の人ってそういう傾向にあるのかね。
 
 
+### 透明な螺旋 {#book-38}
 
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4163914242/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41Gj1MYkAtL._SL200_.jpg" alt="透明な螺旋" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4163914242/?tag=tavi06-22" name="AmaQuicklink" target="_blank">透明な螺旋</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野 圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4163914242/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/11/07 読了
+
+ずっと読みたかったのだけど、ようやくクライストチャーチの図書館で借りられた。
+ミステリー部分はシリーズの他の作品には負けるけど、
+それでも登場人物の描写や、湯川の家族など、
+色々と面白い点は多いと思う。
+
+早く映画化されないかなー。
+
+
+
+### アルルカンと道化師 {#book-39}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0CG57XDG5/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51CeJC-iLFL._SL200_.jpg" alt="半沢直樹　アルルカンと道化師 (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0CG57XDG5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">半沢直樹　アルルカンと道化師 (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">池井戸潤(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0CG57XDG5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/11/10 読了
+
+
+半沢直樹の5作目。
+クライストチャーチ図書館で見つけたので読んでみた。
+半沢直樹の最初の1作よりさらに前の話ということなのだが、
+微妙に1作目と違う点があるのが気になるけど、まあ書いた順も違うし、それは仕方ない。
+とりあえず、話の面白さは変わっていないので、そこは安心。
+
+
+### 合本　半沢直樹 {#book-40}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B075F48NRF/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61WBsoZMQeL._SL200_.jpg" alt="合本　半沢直樹【文春e-Books】" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B075F48NRF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">合本　半沢直樹【文春e-Books】</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">池井戸 潤(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B075F48NRF/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/11/13 読了
+
+半沢直樹を再読。
+この本は1〜4作目までが全部入っているので便利。
+久々にドラマ見たくなってきたけど、どこも配信していないんだよなー。
+
+
+
+### むかし僕が死んだ家 {#book-41}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4062635070/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/61In28NHpuL._SL200_.jpg" alt="むかし僕が死んだ家 (講談社文庫 ひ 17-16)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4062635070/?tag=tavi06-22" name="AmaQuicklink" target="_blank">むかし僕が死んだ家 (講談社文庫 ひ 17-16)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">東野 圭吾(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4062635070/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/11/14 読了
+
+ネタバレというか、前情報なしに読みたかった。
+だけど、透明な螺旋を読んだ後にネットを調べていたらこれがヒットしたので、仕方ない。
+ここではこれ以上言わない。
+とにかく面白かった。前情報を知っていただけに、なおさら。
+
+
+### 不祥事 {#book-42}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B00IP4O31K/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/513lm4ZqQfL._SL200_.jpg" alt="新装版　不祥事 (講談社文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B00IP4O31K/?tag=tavi06-22" name="AmaQuicklink" target="_blank">新装版　不祥事 (講談社文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">池井戸潤(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B00IP4O31K/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/11/18 読了
+
+半沢直樹を読んだので、花咲舞にも手を出してみた。
+まあ、面白いけど、短編のつながりなので、重量では半沢直樹に負けるかな。
+
+
+### 花咲舞が黙ってない {#book-43}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0752JWRBW/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/519Ua7IoSJL._SL200_.jpg" alt="花咲舞が黙ってない (中公文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0752JWRBW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">花咲舞が黙ってない (中公文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">池井戸潤(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0752JWRBW/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/11/29 読了
+
+2作目。
+ここで半沢直樹が出てきたときには驚いたけど、
+なるほど、銀行合併前の設定なのね。
+最後の話あたりは結構面白かった。
+
+
+
+### プロジェクト・ヘイル・メアリー　上 {#book-44}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09NBZLC7J/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/41l0NwfJDDL._SL200_.jpg" alt="プロジェクト・ヘイル・メアリー　上" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09NBZLC7J/?tag=tavi06-22" name="AmaQuicklink" target="_blank">プロジェクト・ヘイル・メアリー　上</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アンディ ウィアー(著), 小野田 和子(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09NBZLC7J/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+2024/11/19 読了
+
+
+感想は下巻と一緒に。
+
+
+### プロジェクト・ヘイル・メアリー　下 {#book-45}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B09NBZ4Z3S/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/412N17w45GL._SL200_.jpg" alt="プロジェクト・ヘイル・メアリー　下" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B09NBZ4Z3S/?tag=tavi06-22" name="AmaQuicklink" target="_blank">プロジェクト・ヘイル・メアリー　下</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アンディ ウィアー(著), 小野田 和子(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B09NBZ4Z3S/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/11/20 読了
+
+
+「火星の人」のアンディ・ウィアーの作品だから、
+面白くないわけないんだけど、
+ずっと買ったまま積ん読していた作品。
+SF読みたくて、ああそういえばまだ読んでいないなと思って、読み始めたら面白いのなんのって。
+なんで読まずに置いておいたんだろう。
+
+これ映画化が2026年らしい。主役はライアン・ゴズリング。早く観たい。
+
+
+
+### 宇宙への序曲 {#book-46}
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B015SSE07M/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51ktClfeVDL._SL200_.jpg" alt="宇宙への序曲〔新訳版〕 (ハヤカワ文庫SF)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B015SSE07M/?tag=tavi06-22" name="AmaQuicklink" target="_blank">宇宙への序曲〔新訳版〕 (ハヤカワ文庫SF)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">アーサー C クラーク(著), 中村 融(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B015SSE07M/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/11/29 読了
+
+派手さはないんだけど、クラークならではの作品って感じで、渋い。
+そしてこれが驚くのが1951年の作品ということ。
+つまり、当時はまだアポロが月に行っていないのだ。
+
+それなのに、全然古びてないし、
+描写がリアル。
+
+歴史学者が見た視点というのもいいね。
+確かにすでにSFとしては古典の部類に入るかもしれないが、読んでおいて良かった。
+
+
+
+### 英語独習法 {#book-47}
+
+
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08WC9CKQY/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/31ZTGZl6zLL._SL200_.jpg" alt="英語独習法 (岩波新書)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08WC9CKQY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">英語独習法 (岩波新書)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">今井 むつみ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08WC9CKQY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+
+読み中
 
 
 
