@@ -5,7 +5,7 @@ tags : [本]
 date: 2024-01-23 19:53:44
 ---
 
-最終更新日：2024/12/03
+最終更新日：2024/12/22
 
 毎年恒例、読みたい本を記載しておく。
 今年は忙しくて遅くなった。
@@ -64,7 +64,7 @@ date: 2024-01-23 19:53:44
 34. [The Songs of Distant Earth](#book-34)
 35. [子どもを伸ばす言葉 実は否定している言葉](#book-35)
 36. [犯罪心理学者が教える子どもを呪う言葉・救う言葉](#book-36)
-37. [Forests of Silence (Deltora Quest)](#book-37)
+37. [Forests of Silence (Deltora Quest 1)](#book-37)
 38. [透明な螺旋](#book-38)
 39. [アルルカンと道化師](#book-39)
 40. [合本　半沢直樹](#book-40)
@@ -75,6 +75,9 @@ date: 2024-01-23 19:53:44
 45. [プロジェクト・ヘイル・メアリー　下](#book-45)
 46. [宇宙への序曲](#book-46)
 47. [英語独習法](#book-47)
+48. [アイラブみー　じぶんをたいせつにするえほん](#book-48)
+49. [The Lake of Tears (Deltora Quest 2)](#book-49)
+50. [ミネルヴァ計画 巨人たちの星シリーズ](#book-50)
 
 
 ### 高性能紙飛行機: その設計・製作・飛行技術のすべて {#book-1}
@@ -780,7 +783,7 @@ hem and haw という言葉を始めて知った。
 
 
 
-### Forests of Silence (Deltora Quest) {#book-37}
+### Forests of Silence (Deltora Quest 1) {#book-37}
 
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/0756975360/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/31X3Uhz9pQL._SL200_.jpg" alt="Forests of Silence (Deltora Quest (Pb))" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/0756975360/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Forests of Silence (Deltora Quest (Pb))</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail"></div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/0756975360/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
@@ -932,12 +935,120 @@ SF読みたくて、ああそういえばまだ読んでいないなと思って
 
 ### 英語独習法 {#book-47}
 
-
-
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B08WC9CKQY/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/31ZTGZl6zLL._SL200_.jpg" alt="英語独習法 (岩波新書)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B08WC9CKQY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">英語独習法 (岩波新書)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">今井 むつみ(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B08WC9CKQY/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
+2024/12/12 読了
 
-読み中
+クライストチャーチ図書館に置いてあった。
+ちょうど英語のクラスが終わって一段落したところだったので、手にとってみたら、
+確かに、英語の学習で必要と思われる「スキーマ」について書かれていて、
+自分に何が足りないのかが明確になった気がする。
+特に最近は英語の先生に、あなたの英語はUnnaturalねって言われていて、
+語彙の選び方や言い回しに気をつけないといけないなと思っていたのだけど、
+それがどうやって身につければよいのかが分からなかったので、
+コーパスを使って自分なりの語彙の差異を身につけていくのは良いと思った。
+
+最後の練習問題は、動詞の使い分けは結構分かったんだけど、前置詞が全然ダメ。
+確かに自分でも弱いところだと思うんだよね。
+
+この人の本はまた読んでみようかなと思った。
+
+
+
+### アイラブみー　じぶんをたいせつにするえほん {#book-48}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0C2Y4BJPN/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/519-iVnK0SL._SL200_.jpg" alt="アイラブみー　じぶんをたいせつにするえほん" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0C2Y4BJPN/?tag=tavi06-22" name="AmaQuicklink" target="_blank">アイラブみー　じぶんをたいせつにするえほん</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">オバック(著), たけむらたけし(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0C2Y4BJPN/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/12/19 読了
+
+普段子どもと一緒に読んでいる絵本はここには書かないが、
+これは親のためのなる本だと思うので、書いておく。
+
+元々NHKの番組はずっと見てて、
+満島ひかりの1人50役以上はすごいなと思って見ていたんだけど、
+ニュージーランドに来てから見れてなかった。
+
+
+で、図書館でこの本を見つけて、借りてみた。
+内容は番組の第一回と同じだけど、
+各先生方のコメントが書いてある分、この内容の伝えたいことがよく分かった。
+
+どうやって子どもに伝えればよいのか難しいことを書いてくれているので、非常にためになった。
+
+
+### The Lake of Tears (Deltora Quest 2) {#book-49}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/1741697530/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51XMff+bsDL._SL200_.jpg" alt="The Lake of Tears (Deltora Quest 1)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/1741697530/?tag=tavi06-22" name="AmaQuicklink" target="_blank">The Lake of Tears (Deltora Quest 1)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail"></div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/1741697530/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/12/20 読了
+
+
+デルトラクエスト2巻目
+
+英語の試験対策で全然読んでない時期があったので、
+ここ最近一気に読んだが、
+結構スラスラ読めるようになってきた。
+もちろん分からない単語はあるが、それは飛ばしても物語の流れにはそこまで不自由しない。
+面白いので、この続きもすでに借りてある。
+
+
+
+### ミネルヴァ計画 巨人たちの星シリーズ {#book-50}
+
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0DJS5PTK5/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516W8M13UlL._SL200_.jpg" alt="ミネルヴァ計画 巨人たちの星シリーズ (創元SF文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0DJS5PTK5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">ミネルヴァ計画 巨人たちの星シリーズ (創元SF文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">ジェイムズ・Ｐ・ホーガン(著), 内田 昌之(翻訳)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0DJS5PTK5/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
+2024/12/21 読了
+
+長年待った、ジャイスターシリーズの最終巻。
+シリーズ3作目の巨人たちの星の最後でブローヒリオたちが5万年前のミネルヴァに行ってしまった謎を主軸に置いている。
+しかし単なるタイムトラベルものではなく、
+シリーズ4作目の内なる宇宙でも取り上げたような別世界を取り入れてきた。
+言ってしまえば、多元宇宙のパラレルワールドであるので、最近だとそこまで目新しい点ではないが、2004年に書かれたそうだ。
+
+ただ、今までのシリーズとちょっと違うなと思ったのは、
+特に前半の、ミルドレッドとフレウム・ショウムの会話などで象徴されるように、
+人間という種族の成熟という点が強調されている気がした。
+色々とひどいことが起きる現代だが、その中を生きる人達に向けての、
+著者のJ・P・ホーガンなりに伝えたい内容であったのではないか。
+これがある時点で読む価値があると思う。
+
+ちなみに、後半は疾走感たっぷりなので、飽きることなく読み進められるが、
+前半の多元宇宙の研究あたりは内容が難し過ぎるきらいがある。
+ここらへんは、第一作の少しずつ謎が明らかにされていく流れのほうが良かった気がする。
+
+基本的に楽しめた作品なのだが、
+一個だけ引っかかるのが、
+ある一つの多元宇宙に干渉して、その世界の未来を変更したとしても、
+それ以外の多元宇宙では何も変わっていないという点が最後まで解決していない点だ。
+もちろん途中でダンチェッカーおよびハントが指摘しているが、
+その時点では他に優先することがあって、答えが出ないまま進んでいくので、
+ラストに何らかの答えを期待したのだが、それは書かれていなかった。
+
+まあ、元々存在しない未来が作れるかどうかという、いわば実験の一つという位置づけであるというスタンスであるということが、
+ほんのりと匂わせているのだが、ちょっとそれだけでは弱いなと思う。
+それなら何故主人公たちがあんなにも必死に多元宇宙へ行くのかということの説明になっていない気がしてしまうんだよね。
+なんというか、別の多元宇宙に行って、そこで冒険活劇をするという結末ありきで書かれた感が強いというか。
+別に波乱万丈である必要はないと思うんだよね、このシリーズは。
+
+
+というわけで、星を継ぐものから続くシリーズ、ようやく完結。
+最後に多少の不満はあったにせよ、
+このシリーズが読めて本当に良かった。
+2024年は良い小説で締めることができた。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
