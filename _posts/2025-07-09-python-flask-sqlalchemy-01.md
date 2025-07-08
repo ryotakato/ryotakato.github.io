@@ -37,5 +37,17 @@ Flask-Sqlalchemyは、FlaskからSQLAlchemyを簡単に使えるライブラリ�
 
 
 
+なお、デザイン的なものは、Bootstrapを使って楽をする。
+Flaskには、Bootstrapと連携するための色んなライブラリがあるが、
+正直どれがメンテナンスされているか不明なのと、
+どうせCSSとJSなので、CDNから自前で持ってくるほうが依存関係がないのでよいと思う。
+
+ということで、
+Bootstrapの公式サイトから、CDNのURLを持ってきて、それをtemplateに組み込む。
+なお、現時点ではBootstrapは5.3.7だった。
+
+[Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
+
+
 一旦ここまで。
 
