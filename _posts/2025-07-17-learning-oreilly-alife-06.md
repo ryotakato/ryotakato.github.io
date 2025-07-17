@@ -30,7 +30,7 @@ date: 2025-07-17 16:49:44
 動いた後はフェロモンを分泌するから、軌跡が分かりやすい。
 最初はどの世代の個体も円を描くような動きをする。
 
-![learning_oreilly_alife_06_01]({{ BASE_PATH }}/images/2025/07/17/learning_oreilly_alife_06_01.gif)
+![learning_oreilly_alife_06_01]({{ BASE_PATH }}/images/2025/07/17/learning_oreilly_alife_06_01.png)
 
 
 しかし、時間が進んでくるにつれ、
@@ -39,14 +39,14 @@ date: 2025-07-17 16:49:44
 
 
 
-![learning_oreilly_alife_06_02]({{ BASE_PATH }}/images/2025/07/17/learning_oreilly_alife_06_02.gif)
+![learning_oreilly_alife_06_02]({{ BASE_PATH }}/images/2025/07/17/learning_oreilly_alife_06_02.png)
 
 
 
 そしてさらに進むと、赤と緑がお互いに追いかけている感じが出てくる。
 
 
-![learning_oreilly_alife_06_03]({{ BASE_PATH }}/images/2025/07/17/learning_oreilly_alife_06_03.gif)
+![learning_oreilly_alife_06_03]({{ BASE_PATH }}/images/2025/07/17/learning_oreilly_alife_06_03.png)
 
 
 
