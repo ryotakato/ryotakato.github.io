@@ -122,7 +122,18 @@ $ jupyter lab
 ```
 
 
-初期設定は、テーマを変えたり色々。
+
+### 初期設定
+
+初期設定は、テーマを変えたり行番号表示したり色々と、ブラウザ上からできた。
+
+だけど、ホームディレクトリの場所の変え方だけできなかったので、一度落として、下記を実行。
+
+```bash
+$ jupyter lab --generate-config
+# 開いて編集 (c.ServerApp.notebook_dir = ''のところをコメント活かして修正する)
+$ nvim ~/.jupyter/jupyter_lab_config.py
+```
 
 
 
