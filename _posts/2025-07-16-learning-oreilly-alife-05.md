@@ -6,7 +6,7 @@ date: 2025-07-16 14:12:44
 ---
 
 
-今回は第5章「個体の動きが進化する」
+今回は第6章「個体の動きが進化する」
 一番楽しみにしていた章なのだが、正直がっかり。
 プログラム自体は悪くないんだけど、
 説明が足りてなさすぎる。
@@ -20,10 +20,6 @@ date: 2025-07-16 14:12:44
 
 ```bash
 $ pip install pillow keras tensorflow
-$ pip install vispy
-$ pip install PyQt5
-$ pip install pyglet
-$ pip install pymunk
 ```
 
 なお、2025年07月時点では、上記のようにインストールすると下記になった。
@@ -122,12 +118,12 @@ wrapt                   1.17.2
 
 まず第1世代で最も餌を食べた個体を、3000フレーム動かした結果。
 
-![learning_oreilly_alife_05_01]({{ BASE_PATH }}/images/2025/07/16/learning_oreilly_alife_05_01.gif)
+![learning_oreilly_alife_05_01]({{ BASE_PATH }}/images/2025/07/16/learning_oreilly_alife_05_01.png)
 
 
 次に第25世代で最も餌を食べた個体を、3000フレーム動かした結果。
 
-![learning_oreilly_alife_05_02]({{ BASE_PATH }}/images/2025/07/16/learning_oreilly_alife_05_02.gif)
+![learning_oreilly_alife_05_02]({{ BASE_PATH }}/images/2025/07/16/learning_oreilly_alife_05_02.png)
 
 
 線になっているのが食べた跡。
