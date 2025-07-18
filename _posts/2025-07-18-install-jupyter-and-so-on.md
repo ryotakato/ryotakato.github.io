@@ -136,6 +136,64 @@ $ nvim ~/.jupyter/jupyter_lab_config.py
 ```
 
 
+### 拡張機能
+
+Extension Managerから、下記3つをインストール。
+コード整形は本当は入れたくなかったけど、Pythonの基準を学ぶのにいいかと思って。
+特に他の人と協業することになったら必要になるし。
+
+変数表示
+lckr_jupyterlab_variableinspector
+
+Vim風キーバインド
+jupyterlab-vim
+
+コード整形
+jupyterlab-code-formatter
+
+
+コード整形は、どのコード整形ツールを使うかだが、とりあえず標準と言われる、black と isort にする。
+これはpipで入れないといけないので、下記。
+
+
+```bash
+$ pip install black isort
+```
+
+
+でも、そうか、こうやってglobalなpythonのpipにライブラリを入れないといけないのがちょっと微妙なのか。
+まあ、これがいよいよ問題になるならjupyterlab専用のvenv作るかな。
+
+コード整形の設定方法は下記を参照
+[Jupyter Labの必須拡張機能](https://chemipynexus.com/jupyter-lab-extension/)
+
+
+### その他
+
+普段遣いのブラウザはChromeなので、
+JupyterLabを開くと自動的にChromeで開くのだが、
+そうするとタブの1つとして開くので、Command+TAB (WindowsでいうAlt+TAB)で切り替えられないのが不便。
+Chromeで調べつつWarpなどのコンソールソフトも開きつつなので、上記で切り替えられるのが大事。
+デスクトップアプリのJupyterLabAppというのもあるらしいが、
+これはAnaconda環境なども一気にインストールするらしく、そういうのがほしいわけじゃない。
+ということで、Vivaldiを導入して、別ブラウザとして開くようにする。
+このためだけに別ブラウザいれるのはシャクだが。
+
+```bash
+# BrewでVivaldiインストール
+$ brew install --cask vivaldi
+```
+
+設定
+
+```bash
+$ nvim ~/.jupyter/jupyter_lab_config.py
+# 下記に編集(なお、Vivaldi側の設定で閉じたタブを自動で復活させないようにしておいた)
+c.ServerApp.browser = 'open -a /Applications/Vivaldi.app %s'
+```
+
+
+ひとまずこれでだいたいの環境は整えた。
 
 
 
