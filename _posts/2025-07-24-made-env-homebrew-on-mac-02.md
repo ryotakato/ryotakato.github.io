@@ -1,0 +1,250 @@
+---
+layout: post
+title: "Mac M4 にて環境構築(Homebrewなど)"
+tags : [Mac, 環境構築]
+date: 2025-07-24 22:53:44
+---
+
+[前回](/2025/01/05/made-env-homebrew-on-mac)の環境構築の記事を書いたのは1月だが、
+新しい学校へ行く関係でMacBook Airの2025モデル(CPUはM4)を買ったので、
+再度環境構築。
+前から少し変わっているところも多い。
+
+
+
+### 環境情報
+
+まずは環境情報。
+MacBookAir の、2025 M4 
+
+```bash
+$ sw_vers
+ProductName:		macOS
+ProductVersion:		15.5
+BuildVersion:		24F74
+```
+
+
+### Homebrewインストール
+
+
+
+インストール方法は前と同じくpkgでいく
+
+先に下記でmacのCLIを追加
+```bash
+$ xcode-select --install
+```
+
+pkgを下記からダウンロードしてインストール
+[Release 4.5.11 · Homebrew/brew](https://github.com/Homebrew/brew/releases/tag/4.5.11)
+
+
+インストールの最後に、PATHの追加が出る。
+Apple M4なので、.bash_profileに下記を追加する。
+なお、僕はインタラクティブシェルはzshではなく未だにbash派
+
+```
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
+
+
+
+```bash
+$ brew --version
+Homebrew 4.5.11
+```
+
+
+
+
+### 各種アプリケーションインストール
+
+僕が必要とする基本的なところ。
+
+```bash
+# Mac App Store
+$ brew install mas
+
+# NeoVim
+$ brew install neovim
+
+# Git
+$ brew install git
+
+# Warp
+$ brew install --cask warp
+
+```
+
+なお、Gitは、下記のSSHの設定もやった。(もちろん、メールアドレスやユーザー名の設定も)
+
+[新しい SSH キーを生成して ssh-agent に追加する - GitHub Docs](https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+ちゃんとパスフレーズも設定して、キーチェインに登録済み
+前のMacと同じSSHキーは使わず、改めて登録
+流れはこんな感じ
+
+
+```bash
+# SSHキーの作成 ファイルはid_ed25519_githubとしておく
+$ ssh-keygen -t ed25519 -C "メールアドレス"
+
+# クリップボードにコピーしてGithubのサイトでSSHキーの公開鍵を登録
+$ cat ~/.ssh/id_ed25519_github.pub | pbcopy
+
+# ssh-agentの起動
+$ eval "$(ssh-agent -s)"
+
+# Macのキーチェインに登録
+$ ssh-add --apple-use-keychain ~/.ssh/id_ed25519_github
+
+# 試し
+$ ssh -T git@github.com
+```
+
+
+
+WarpでテーマをWombatにするために、
+Githubから取得
+
+```bash
+$ mkdir -p $HOME/.warp
+$ cd $HOME/.warp/
+$ git clone https://github.com/warpdotdev/themes.git
+
+```
+WarpのSettingsからWombatに変更
+
+
+今回のMacは英語版なんだけど、
+日本語入力は必要なのでいれていく。
+ここ、前はbrewでできなかったけど、今回はできた。
+
+
+
+```bash
+# Rossetta 2 にしておく
+$ softwareupdate --install-rosetta
+
+# Google日本語入力をいれる
+$ brew install --cask google-japanese-ime
+```
+
+一応ここで再起動しておく。
+
+
+次にasdfなんだけど、0.16で大きく変わったので、初期設定が少し変わっている。
+
+```bash
+# asdfの前提ライブラリ
+$ brew install coreutils curl
+
+# asdf
+$ brew install asdf
+
+# asdfのための設定
+# .bash_profileに下記を記載
+export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
+# .bashrcに下記を記載
+. <(asdf completion bash)
+```
+
+
+次はPythonと、neovimのための設定だが、
+[Ubuntu 22.04 LTS のクリーンインストール後にした環境構築](/2022/11/27/made-env-after-ubuntu2204-install)
+の、
+「Pythonインストールと、NeoVim用のPythonをvenvで準備」と同じ。
+ただし、変わっているところも多いので、改めて。
+
+まず、asdfでpythonのインストール
+
+```bash
+# python
+$ asdf plugin add python
+$ asdf install python 3.13.5
+$ asdf set -u python 3.13.5
+$ asdf reshim
+```
+
+次にnvimで使う仮想環境の用意
+
+```bash
+# ディレクトリ作成
+$ mkdir ~/nvim_python3 
+$ cd ~/nvim_python3/
+
+# venv準備して、pynvimをいれる
+$ python -m venv .venv
+$ source .venv/bin/activate
+$ pip install --upgrade pip
+$ pip install pynvim
+$ deactivate 
+```
+
+上記環境へのパスはinit.vimに記載していて、
+自分の設定ファイル系をまとめたリポジトリである、
+[ryotakato/dotfiles](https://github.com/ryotakato/dotfiles)
+をgit cloneして、
+~/.config/nvimが上記内のneovimディレクトリを指すようにシンボリックリンクを作成
+
+前と同じくim-select.nvimというプラグイン使っているのだが、
+このプラグインに必要なbinaryがim-selectからmacismに変わってたのでインストール
+
+```bash
+$ brew tap laishulu/homebrew
+$ brew install macism
+```
+
+
+
+
+
+
+asdfでは、nvimでも使うdenoや、Minecraftのためのjava(Amazon Corretto)もいれる。
+ちなみに、asdfでJavaをいれる場合、JAVA_HOMEを設定するのが良いみたいだが、
+今回僕はminecraftでしかJava使わないと思うので、一旦設定なしでいく。
+必要になったら追加しよう。
+
+```bash
+# deno
+$ asdf plugin add deno
+$ asdf install deno latest
+$ asdf set -u deno latest
+$ asdf reshim
+
+# Java
+$ asdf plugin add java
+$ asdf install java corretto-24.0.2.12.1
+$ asdf set -u java corretto-24.0.2.12.1
+$ asdf reshim
+```
+
+
+
+その他いれたもの。
+KindleとかはAppStoreから直接落としたからここでは書かない。
+
+```bash
+# ImageMagick
+$ brew install imagemagick
+
+# Zoom
+$ brew install zoom
+
+# Minecraft Launcher
+$ brew install --cask minecraft
+```
+
+
+英語版Macで日本語入力に入力ソースを切り替えるときって、
+デフォルトだとfnキー(地球儀マーク)を押すことで切り替えるんだけど、
+今まで英数キーを使っていたから、この位置使いづらいな。
+他のキー(Caps Lockとか)に変えるようかな。
+
+
+
+
+
+
+
