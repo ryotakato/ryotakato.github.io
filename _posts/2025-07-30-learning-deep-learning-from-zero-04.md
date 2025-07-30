@@ -5,6 +5,25 @@ tags : [Python, Deep Learning]
 date: 2025-07-30 11:47:44
 ---
 
+<style type="text/css">
+<!--
+table {
+  border-collapse:collapse;
+  border:1px solid black;
+}
+table th {
+  border:1px solid white;
+}
+
+table td {
+  border:1px solid black;
+  padding-left:10px;
+}
+
+-->
+</style>
+
+
 今回は第6章「学習に関するテクニック」
 
 ソースは下記
