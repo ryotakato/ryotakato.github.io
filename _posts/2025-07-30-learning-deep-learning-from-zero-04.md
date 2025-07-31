@@ -12,12 +12,13 @@ table {
   border:1px solid black;
 }
 table th {
-  border:1px solid white;
+  border:1px solid black;
+  padding-left:5px;
 }
 
 table td {
   border:1px solid black;
-  padding-left:10px;
+  padding-left:5px;
 }
 
 -->
@@ -53,7 +54,7 @@ Batch Normalizationとかの仕組みは分かるが実装は自分でできな�
 
 
 | # | 手法 | 訓練時正答率 | テスト時正答率 |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | ---- | ---- |
 | 1 | 5章+SGD | 92.09% | 92.24% |
 | 2 | 5章+AdaGrad | 95.80% | 95.54% |
 | 3 | 6章+AdaGrad | 95.51% | 95.28% |
