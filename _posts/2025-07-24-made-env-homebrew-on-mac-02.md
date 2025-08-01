@@ -62,20 +62,12 @@ Homebrew 4.5.11
 
 僕が必要とする基本的なところ。
 
-```bash
-# Mac App Store
-$ brew install mas
 
-# NeoVim
-$ brew install neovim
+#### Git
 
-# Git
+'''bash
 $ brew install git
-
-# Warp
-$ brew install --cask warp
-
-```
+'''
 
 なお、Gitは、下記のSSHの設定もやった。(もちろん、メールアドレスやユーザー名の設定も)
 
@@ -104,6 +96,11 @@ $ ssh -T git@github.com
 ```
 
 
+#### Warp
+
+'''bash
+$ brew install --cask warp
+```
 
 WarpでテーマをWombatにするために、
 Githubから取得
@@ -134,6 +131,9 @@ $ brew install --cask google-japanese-ime
 一応ここで再起動しておく。
 
 
+
+#### asdf
+
 次にasdfなんだけど、0.16で大きく変わったので、初期設定が少し変わっている。
 
 ```bash
@@ -151,7 +151,9 @@ export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 ```
 
 
-次はPythonと、neovimのための設定だが、
+#### Python
+
+次はPython
 [Ubuntu 22.04 LTS のクリーンインストール後にした環境構築](/2022/11/27/made-env-after-ubuntu2204-install)
 の、
 「Pythonインストールと、NeoVim用のPythonをvenvで準備」と同じ。
@@ -167,7 +169,18 @@ $ asdf set -u python 3.13.5
 $ asdf reshim
 ```
 
-次にnvimで使う仮想環境の用意
+#### NeoVim
+
+まずはインストール
+
+'''bash
+# NeoVim
+$ brew install neovim
+'''
+
+
+
+次にnvimで使うPython仮想環境の用意
 
 ```bash
 # ディレクトリ作成
@@ -197,7 +210,7 @@ $ brew install macism
 ```
 
 
-
+#### その他プログラミング言語環境
 
 
 
@@ -222,10 +235,48 @@ $ asdf reshim
 
 
 
-その他いれたもの。
+#### MySQL
+
+授業で必要になるみたいなので。
+
+
+
+'''bash
+# インストール
+$ brew install mysql
+
+
+# バージョン確認
+$ mysql --version
+mysql  Ver 9.3.0 for macos15.2 on arm64 (Homebrew)
+
+# プロセス起動
+$ brew services start mysql
+==> Successfully started `mysql` (label: homebrew.mxcl.mysql)
+
+# 接続確認(quit;で抜ける)
+$ mysql -u root
+
+
+# プロセス停止
+$ brew services stop mysql
+Stopping `mysql`... (might take a while)
+==> Successfully stopped `mysql` (label: homebrew.mxcl.mysql)
+
+'''
+
+本当はrootのパスワード変えたり、ユーザー作ったりしたほうがいいんだけど、一旦後回し
+
+
+
+
+#### その他いれたもの。
 KindleとかはAppStoreから直接落としたからここでは書かない。
 
 ```bash
+# Mac App Store
+$ brew install mas
+
 # ImageMagick
 $ brew install imagemagick
 
