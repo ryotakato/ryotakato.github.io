@@ -266,7 +266,41 @@ Stopping `mysql`... (might take a while)
 '''
 
 本当はrootのパスワード変えたり、ユーザー作ったりしたほうがいいんだけど、一旦後回し
+-> やった。
 
+'''bash
+# ログイン
+$ mysql -u root
+
+# rootユーザーのパスワード変更
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'ここに新規パスワード';
+
+# testユーザー作成
+mysql> CREATE USER 'test'@'localhost' IDENTIFIED BY 'ここにパスワード';
+
+
+# 即時反映させる
+mysql> flush privileges;
+
+# 一度抜ける
+mysql> quit;
+
+
+# 再度ログイン(パスワードでログインできたらOK)
+$ mysql -u root -p
+'''
+
+
+
+
+
+MySQL Workbentchも必要なのでインストール
+
+'''bash
+# インストール
+$ brew install --cask mysqlworkbench
+
+'''
 
 
 
