@@ -65,9 +65,9 @@ Homebrew 4.5.11
 
 #### Git
 
-'''bash
+```bash
 $ brew install git
-'''
+```
 
 なお、Gitは、下記のSSHの設定もやった。(もちろん、メールアドレスやユーザー名の設定も)
 
@@ -98,7 +98,7 @@ $ ssh -T git@github.com
 
 #### Warp
 
-'''bash
+```bash
 $ brew install --cask warp
 ```
 
@@ -173,10 +173,10 @@ $ asdf reshim
 
 まずはインストール
 
-'''bash
+```bash
 # NeoVim
 $ brew install neovim
-'''
+```
 
 
 
@@ -241,7 +241,7 @@ $ asdf reshim
 
 
 
-'''bash
+```bash
 # インストール
 $ brew install mysql
 
@@ -262,13 +262,12 @@ $ mysql -u root
 $ brew services stop mysql
 Stopping `mysql`... (might take a while)
 ==> Successfully stopped `mysql` (label: homebrew.mxcl.mysql)
-
-'''
+```
 
 本当はrootのパスワード変えたり、ユーザー作ったりしたほうがいいんだけど、一旦後回し
 -> やった。
 
-'''bash
+```bash
 # ログイン
 $ mysql -u root
 
@@ -288,7 +287,7 @@ mysql> quit;
 
 # 再度ログイン(パスワードでログインできたらOK)
 $ mysql -u root -p
-'''
+```
 
 
 
@@ -296,11 +295,11 @@ $ mysql -u root -p
 
 MySQL Workbentchも必要なのでインストール
 
-'''bash
+```bash
 # インストール
 $ brew install --cask mysqlworkbench
 
-'''
+```
 
 
 
