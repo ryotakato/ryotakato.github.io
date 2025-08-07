@@ -289,10 +289,6 @@ mysql> quit;
 $ mysql -u root -p
 ```
 
-
-
-
-
 MySQL Workbentchも必要なのでインストール
 
 ```bash
@@ -300,6 +296,22 @@ MySQL Workbentchも必要なのでインストール
 $ brew install --cask mysqlworkbench
 
 ```
+
+
+
+
+(2025/08/07 追記)
+-> この数日後、mysql 9.4.0がbrewで利用できるようになっていたので、
+下記で更新しておいた。
+
+```bash
+$ brew update
+
+$ brew upgrade mysql
+```
+
+
+
 
 
 
