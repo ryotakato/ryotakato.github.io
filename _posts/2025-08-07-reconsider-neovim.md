@@ -496,6 +496,9 @@ wombat.nvim
 lush.nvim
 
 
+(2025/08/09追記)
+この後toggleterm.nvimもいれたが、
+yaziやlazygitはそれぞれのプラグインから動かしたほうが動作が安定している。
 
 
 
