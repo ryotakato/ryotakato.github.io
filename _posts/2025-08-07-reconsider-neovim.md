@@ -382,6 +382,9 @@ init.lua で設定を書けばそのcolorschemeが反映されるので、
 [ViViDboarder/wombat.nvim: A wombat colorscheme for Neovim with lush](https://github.com/ViViDboarder/wombat.nvim)
 [rebelot/kanagawa.nvim: NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.](https://github.com/rebelot/kanagawa.nvim)
 
+(2025/08/09追記)
+kanagawaは結構好きな部類なんだけど、lazygitやyaziをfloat windowで使っているとちょっと色合いが気に入らず、
+wombat_lushとwombat_classicをstyler.nvimで切り替えて使うことにした。
 
 
 #### ファイラー
@@ -499,7 +502,7 @@ lush.nvim
 (2025/08/09追記)
 この後toggleterm.nvimもいれたが、
 yaziやlazygitはそれぞれのプラグインから動かしたほうが動作が安定している。
-
+また、styler.nvimもいれて、yaziやlazygitが開いているときだけ別のcolorschemeを適用できるようにした。
 
 
 ### Bram Moolennar追悼
