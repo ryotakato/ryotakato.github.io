@@ -325,11 +325,17 @@ $ brew install mas
 # ImageMagick
 $ brew install imagemagick
 
+# Graphviz
+$ brew install graphviz
+
 # Zoom
 $ brew install zoom
 
 # Minecraft Launcher
 $ brew install --cask minecraft
+
+# Miro
+$ brew install --cask miro
 ```
 
 
