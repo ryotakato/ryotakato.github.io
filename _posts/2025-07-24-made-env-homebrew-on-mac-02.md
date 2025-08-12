@@ -336,6 +336,9 @@ $ brew install --cask minecraft
 
 # Miro
 $ brew install --cask miro
+
+# yt-dlp
+$ brew install yt-dlp
 ```
 
 
