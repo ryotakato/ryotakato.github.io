@@ -231,6 +231,18 @@ $ asdf plugin add java
 $ asdf install java corretto-24.0.2.12.1
 $ asdf set -u java corretto-24.0.2.12.1
 $ asdf reshim
+
+# Rust
+$ asdf plugin add rust
+$ asdf install rust latest
+$ asdf set -u rust latest
+$ asdf reshim
+
+# Go
+$ asdf plugin add golang
+$ asdf install golang latest
+$ asdf set -u golang latest
+$ asdf reshim
 ```
 
 
@@ -336,6 +348,9 @@ $ brew install --cask minecraft
 
 # Miro
 $ brew install --cask miro
+
+# Draw.io
+$ brew install --cask drawio
 
 # yt-dlp
 $ brew install yt-dlp
