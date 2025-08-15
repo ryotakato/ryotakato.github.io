@@ -504,6 +504,10 @@ lush.nvim
 yaziやlazygitはそれぞれのプラグインから動かしたほうが動作が安定している。
 また、styler.nvimもいれて、yaziやlazygitが開いているときだけ別のcolorschemeを適用できるようにした。
 
+(2025/08/15追記)
+補完系プラグイン追加
+[NeoVimの補完としてblink.cmpをインストール](/2025/08/15/install-blink-cmp-nvim)
+
 
 ### Bram Moolennar追悼
 
