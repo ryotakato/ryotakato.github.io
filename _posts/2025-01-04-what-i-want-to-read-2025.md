@@ -5,7 +5,7 @@ tags : [本]
 date: 2025-01-04 17:31:44
 ---
 
-最終更新日：2025/08/19
+最終更新日：2025/08/28
 
 毎年恒例、読みたい本を記載しておく。
 
@@ -214,7 +214,7 @@ R.I.P.
 2025/08/19 読了
 
 非常に楽しかった。読みながら実装したので、別記事で書いてある。
-[Deep%20Learning-ref](/tags.html#Deep%20Learning-ref)
+[Tags:Deep%20Learning-ref](/tags.html#Deep%20Learning-ref)
 
 
 
@@ -222,10 +222,35 @@ R.I.P.
 
 2025/07/17 読了
 
+これも別記事で書いてある。
+[Tags:人工生命](/tags.html#%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD-ref)
+
 
 
 ### グドーさんのおさんぽびより {#book-22}
 
+<div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/B0BJPH9HRV/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/519QcTYbvvL._SL200_.jpg" alt="グドーさんのおさんぽびより" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/B0BJPH9HRV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">グドーさんのおさんぽびより</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">たかどのほうこ(著), 佐々木マキ(イラスト)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/B0BJPH9HRV/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
+
 2025/07/01 読了
+
+大好きな絵本作家、佐々木マキさんが絵を書いて、
+へんてこもりシリーズのたかどのほうこさんが文を書いている絵本。
+絵本なんだけど、結構気に入ったのでここに書いておく。
+
+三人の登場人物の掛け合いがゆるくていい感じなんだけど、
+それよりも、そのうち一人は女の子で、
+なんだけど、本好きという共通点があるから、大人も子どもも関係なく友達になっている感じがすき。
+お互いがお互いをリスペクトしているのが伝わってくる。
+
+それでいて飽きないような物語展開が、佐々木マキさんの絵に非常にマッチしている。
+
+シリーズ化してほしいなー。
+
+
+
+
+
+
+
 
 
