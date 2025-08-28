@@ -352,8 +352,14 @@ $ brew install --cask miro
 # Draw.io
 $ brew install --cask drawio
 
+# LM Studio
+$ brew install --cask lm-studio
+
 # yt-dlp
 $ brew install yt-dlp
+
+# Karabiner Elements (初回起動時、ANSI配列を選んで、必要なMacの設定を変更)
+$ brew install --cask karabiner-elements
 ```
 
 
@@ -368,7 +374,76 @@ $ brew install yt-dlp
 ちょっともうちょいいい方法はないか模索する予定。
 
 
+(2025/08/29 追記)
+上記の設定だと、Grove機能がfnと共存しているせいで、
+瞬時に日本語に切り替えて、「は」とか入力しようとしたときに、
+fn+Hと認識されるので、全部開いているアプリがhideされるとかになって、
+一々邪魔されるのが煩わしかったので、設定を戻して大人しくKarabiner-Elementsを入れる。
+他の人が作ったルールなどを探してインストールもできるみたいだけど、
+そうすると何やっているか分からなくて嫌なので、
+自分で設定書いた。
+やっていることは、左Cmdキーの単発押しでIME OFF、右Cmdキーの単発押しでIME ON、
+あと、CapsLockキーはCtrlキーと同じ動きになるようにした。
+海外の人みると、結構CapsLockを使っているみたいだけど、僕からすると邪魔でしかない。
 
+
+参考にしたのは下記
+[Karabiner-Elementsでcommand単体押しで英かなキーを送信するように設定するとcommand + クリックが効かなくなる問題の修正 – Webrandum](https://webrandum.net/karabiner-elements-command-click/)
+
+
+
+```json
+{
+    "description": "caps_lock -> control, left_command -> IME OFF, right_command -> IME ON",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "caps_lock",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [
+                {
+                    "key_code": "left_control",
+                    "modifiers": []
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "left_command",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [
+                {
+                    "key_code": "left_command",
+                    "lazy": true
+                }
+            ],
+            "to_if_alone": [{ "key_code": "japanese_eisuu" }],
+            "to_if_held_down": [{ "key_code": "left_command" }],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "right_command",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [
+                {
+                    "key_code": "right_command",
+                    "lazy": true
+                }
+            ],
+            "to_if_alone": [{ "key_code": "japanese_kana" }],
+            "to_if_held_down": [{ "key_code": "right_command" }],
+            "type": "basic"
+        }
+    ]
+}
+
+
+```
 
 
 
