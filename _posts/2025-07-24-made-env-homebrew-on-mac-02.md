@@ -352,6 +352,9 @@ $ brew install --cask miro
 # Draw.io
 $ brew install --cask drawio
 
+# Figma
+$ brew install --cask figma
+
 # LM Studio
 $ brew install --cask lm-studio
 
