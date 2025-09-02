@@ -170,7 +170,7 @@ on_openは、普通の人なら別に不要だと思うけど、
       todotui:toggle()
     end
 
-    vim.api.nvim_set_keymap("n", "<leader>td", "<cmd>lua _todotui_toggle()<CR>", { noremap = true, silent = true})
+    vim.api.nvim_set_keymap("n", "<leader>do", "<cmd>lua _todotui_toggle()<CR>", { noremap = true, silent = true})
 
 
 ```
