@@ -358,6 +358,10 @@ $ brew install --cask figma
 # LM Studio
 $ brew install --cask lm-studio
 
+# Unity Hub とUnity
+$ brew install --cask unity-hub
+$ brew install --cask unity
+
 # yt-dlp
 $ brew install yt-dlp
 
