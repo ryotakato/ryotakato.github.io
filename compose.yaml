@@ -1,0 +1,11 @@
+services:
+  service_jekyll:
+    container_name: local_jekyll
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/srv/jekyll
+    command: jekyll serve --force_polling --watch --verbose --trace
+    ports:
+      - "4000:4000"

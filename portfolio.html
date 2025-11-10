@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ryota Kato | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #fff8f0;
+      --orange: #f28c38;
+      --text: #2b2b2b;
+      --mono: 'JetBrains Mono', monospace;
+      --sans: 'Inter', sans-serif;
+    }
+
+    body {
+      margin: 0;
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      display: flex;
+      min-height: 100vh;
+    }
+
+    .sidebar {
+      width: 40%;
+      background: linear-gradient(to bottom, #f6b26b, #f28c38);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+    }
+
+    .sidebar img {
+      width: 80%;
+      max-width: 320px;
+      border-radius: 50%;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    }
+
+    .main {
+      width: 60%;
+      padding: 4rem;
+    }
+
+    section {
+      margin-bottom: 5rem;
+    }
+
+    .section-title {
+      font-family: var(--mono);
+      color: var(--orange);
+      font-weight: 600;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .section-title::before {
+      content: "#!";
+      color: var(--text);
+      margin-right: 0.2em;
+    }
+
+    a {
+      color: var(--orange);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 900px) {
+      body {
+        flex-direction: column;
+      }
+
+      .sidebar {
+        width: 100%;
+        height: auto;
+        padding: 2rem 0;
+        position: static;
+      }
+
+      .main {
+        width: 100%;
+        padding: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <img src="/images/portfolio.png" alt="Ryota Kato">
+  </div>
+
+  <div class="main">
+    <section id="about">
+      <h1>Ryota Kato (Tavi)</h1>
+      <h2 class="section-title">/about/me</h2>
+      <p>
+        I'm a software developer, who love building systems and keen to learning new things. <br/>
+        My wheelhouse is web systems, and not only front-end, but also back-end. Thus, I can work a full stack engineer. </br>
+        This is thanks to all people who helped me so far in my 15-years-experience. <br/>
+      </p>
+      <p>
+        My strong point is dedication for team members, for customers. <br/>
+        Although I always make an effort to keep "Readable Code", I don't forget consideration for customers. <br/>
+        Therefore, I would say that I can resolve the trade-off between business requirement and the limitation of technology. <br/>
+      </p>
+    </section>
+
+    <section id="skills">
+      <h2 class="section-title">/skills</h2>
+      <ul>
+        <li>Languages (On job): Java, C#, JavaScript, Python, HTML, CSS, SQL</li>
+        <li>Languages (On private): Rust, C++, Scheme(Lisp), Go, Bash, Ruby</li>
+        <li>Languages (Only can read): C-lang, Fortran, COBOL</li>
+        <li>Frameworks: Spring, Struts 1 & 2, Seaser, ASP.NET (ASP.NET MVC), Sinatra, Vue.js, Flask</li>
+        <li>Clouds: AWS, Azure</li>
+        <li>Database (On job): Oracle, SQL Server, MySQL, PostgreSQL</li>
+        <li>Database (On private): SQLite, MongoDB</li>
+        <li>Others: Web system design, Database design, OOP, Unit Test, Git, Project Management</li>
+      </ul>
+    </section>
+
+    <section id="works">
+      <h2 class="section-title">/works</h2>
+      <ul>
+        <li><a href="https://blog.tavi-travelog.net/works/celestial_simulator/002/index.html">Celestial Simulator</a> By Unity</li>
+        <li><a href="https://tavi-travelog.itch.io/rsp-life-game">RSP-life-game</a> By Godot Engine</li>
+        <li><a href="https://github.com/ryotakato/gauenv">Gauenv</a> (Version Manager for Gauche, already out of maintenance.)</li>
+        <li><a href="https://github.com/ryotakato/show-markup">Show-markup</a> (Markup language viewer, already out of maintenance.)</li>
+        <li> Learnt OR learning (Mainly O'reilly book)
+          <ul>
+            <li><a href="https://github.com/ryotakato/land-of-lisp">Land Of Lisp</a></li>
+            <li><a href="https://github.com/ryotakato/cpp_software_design">C++ Software Design</a></li>
+            <li><a href="https://github.com/ryotakato/alife_oreilly_src">Artificial Life</a></li>
+            <li><a href="https://github.com/ryotakato/de_zero">Deep learning from zero</a></li>
+            <li><a href="https://github.com/ryotakato/rust_the_book_src">Rust: "The Book"</a></li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2 class="section-title">/contact</h2>
+      <p>Email: <a href="mailto:ryotakato4@gmail.com">ryotakato4@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/tavi-ryota-kato">linkedin.com/in/tavi-ryota-kato</a></p>
+      <p>Github: <a href="https://github.com/ryotakato">ryotakato</a></p>
+      <p>Blog: <a href="https://blog.tavi-travelog.net/">Tavi's Travelog</a> (Mainly Japanese)</p>
+    </section>
+  </div>
+</body>
+</html>

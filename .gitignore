@@ -9,3 +9,5 @@ Thumbs.db
 .ruby-version
 .rvmrc
 *.swp
+
+.jekyll-cache/

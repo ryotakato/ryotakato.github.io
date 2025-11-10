@@ -362,6 +362,10 @@ $ brew install --cask lm-studio
 $ brew install --cask unity-hub
 $ brew install --cask unity
 
+# Docker関連
+$ brew install --cask docker-desktop
+$ brew install docker-compose
+
 # yt-dlp
 $ brew install yt-dlp
 
