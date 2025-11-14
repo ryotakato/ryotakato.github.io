@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RustでCコンパイラ その02 STEP4まで"
-tags : [Rust, Mac, 環境構築]
+tags : [Rust]
 date: 2025-11-15 12:20:44
 ---
 
