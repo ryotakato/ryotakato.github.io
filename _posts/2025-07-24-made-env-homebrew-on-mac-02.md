@@ -355,6 +355,9 @@ $ brew install --cask drawio
 # Figma
 $ brew install --cask figma
 
+# Canva
+$ brew install --cask canva
+
 # LM Studio
 $ brew install --cask lm-studio
 
