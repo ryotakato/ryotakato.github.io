@@ -136,17 +136,23 @@ Windowsとしてではなく、Other 64 ARMとして起動する必要がある�
 
 下記の流れ。
 
+まず、Create a custom virtual machineを押す
+
 
 ![build_windows_on_mac_01]({{ BASE_PATH }}/images/2025/11/26/build_windows_on_mac_01.png)
+
+
+Other から、Other 64-but Armを選択
 
 
 ![build_windows_on_mac_02]({{ BASE_PATH }}/images/2025/11/26/build_windows_on_mac_02.png)
 
 
+ここで、Choose virtual disk ボタンからVMDKファイルを選択して先に進む。
+
 ![build_windows_on_mac_03]({{ BASE_PATH }}/images/2025/11/26/build_windows_on_mac_03.png)
 
 
-この最後で、Choose virtual disk ボタンからVMDKファイルを選択して先に進む。
 名前がOther 64 ARMで起動しちゃうが、あとで変えることができる。
 
 最初は、プロセッサーは2つ、メモリは4GBにして起動したが、
@@ -215,6 +221,11 @@ Windows上でツールインストールを実行。
 
 終わると自然と画面サイズが調整できるようになる。
 Windowsのディスプレイ設定でもいじれるからお好きなサイズに。
+
+Mac Silicon上のWindowsでは、VMware Toolsはインストールできないって記事も見かけたけど、そんなことはなかった。
+最近更新されて、できるようになったのかな？
+
+
 
 
 あとは、Macからのファイル共有かな。
