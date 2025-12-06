@@ -56,7 +56,7 @@ UGが後回しになるので、何度も死んだ。
 スケーリング手段が別途必要になるので、そこが出ないとズルズルとHPを削られていく。
 
 
-![slaythespire_08_02]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_02.png)
+![slaythespire_08_03]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_03.png)
 
 ディフェクト
 ディフェクトは行けるときと行けないときの差が激しい。
@@ -68,7 +68,7 @@ UGが後回しになるので、何度も死んだ。
 
 
 
-![slaythespire_08_02]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_02.png)
+![slaythespire_08_04]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_04.png)
 
 ウォッチャー
 なんで勝てたか分からないデッキその2
@@ -94,7 +94,7 @@ UGが後回しになるので、何度も死んだ。
 
 
 
-![slaythespire_08_02]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_02.png)
+![slaythespire_08_05]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_05.png)
 
 アイアンクラッド。
 ネオーボーナスで脳天割りをもらったので、Act1は楽勝。
@@ -108,7 +108,7 @@ UGが後回しになるので、何度も死んだ。
 
 
 
-![slaythespire_08_02]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_02.png)
+![slaythespire_08_06]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_06.png)
 
 サイレント
 跳ねるフラスコで毒殺デッキ。
@@ -124,7 +124,7 @@ UGが後回しになるので、何度も死んだ。
 
 
 
-![slaythespire_08_02]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_02.png)
+![slaythespire_08_07]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_07.png)
 
 ディフェクト
 
@@ -138,7 +138,7 @@ UGが後回しになるので、何度も死んだ。
 
 
 
-![slaythespire_08_02]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_02.png)
+![slaythespire_08_08]({{ BASE_PATH }}/images/2024/04/19/slaythespire_08_08.png)
 
 ウォッチャー
 
