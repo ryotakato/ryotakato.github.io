@@ -127,7 +127,7 @@ Act2で急襲2枚目や、内なる平和も取れたので、他のいらない
 そして最後。
 
 
-![slaythespire_14_10]({{ BASE_PATH }}/images/2025/12/11/slaythespire_14_10.png)
+![slaythespire_14_11]({{ BASE_PATH }}/images/2025/12/11/slaythespire_14_11.png)
 
 
 
@@ -140,7 +140,7 @@ Act2で急襲2枚目や、内なる平和も取れたので、他のいらない
 
 さて、時間比較。
 
-![slaythespire_14_11]({{ BASE_PATH }}/images/2025/12/11/slaythespire_14_11.png)
+![slaythespire_14_12]({{ BASE_PATH }}/images/2025/12/11/slaythespire_14_12.png)
 
 
 アイアンクラッドを抜いて、ウォッチャーが1番少ない時間でクリアできた！
