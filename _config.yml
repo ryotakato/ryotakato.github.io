@@ -1,5 +1,5 @@
 # jekyll base setting
-exclude: [".rvmrc", ".ruby-version", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".ruby-version", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Dockerfile", "compose.yaml"]
 #auto: true
 #pygments: true
 highlighter: rouge
