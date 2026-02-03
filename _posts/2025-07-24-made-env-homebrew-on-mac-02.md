@@ -369,6 +369,12 @@ $ brew install --cask unity
 $ brew install --cask docker-desktop
 $ brew install docker-compose
 
+# DuckDB
+$ brew install duckdb
+
+# DBeaver
+$ brew install --cask dbeaver-community
+
 # yt-dlp
 $ brew install yt-dlp
 
@@ -466,6 +472,9 @@ MacのOSアップデートしたら、なんだかKarabiner-Elementsの動きが
 lazyだとCommand+Tabも効かなくなるのかなって思ったけど、そうではないらしい。
 あまり詳しく調べてないけど、上手くいったのでまあいいや。
 
+
+(2026/02/04 追記)
+上記のその他一覧にDuckDBとDBeaverを追加
 
 
 ```
