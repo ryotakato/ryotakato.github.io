@@ -3,8 +3,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Tavi's Travelog">
 <meta property="og:description" content="" />
-<meta property="og:image" content="{{ "/images/aboutme_s.jpg" | absolute_url }} />
+<meta property="og:image" content="{{ "/images/aboutme_s.jpg" | absolute_url }}" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="" />
-<meta name="twitter:image" content="{{ "/images/logo.png" | absolute_url }} />
+<meta name="twitter:image" content="{{ "/images/logo.png" | absolute_url }}" />
