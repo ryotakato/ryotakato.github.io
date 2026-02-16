@@ -14,6 +14,7 @@ safe: false
 timezone: UTC
 future: true
 lsi: false
+url: https://blog.tavi-travelog.net
 baseurl: /
 
 # blog setting
