@@ -375,6 +375,14 @@ $ brew install duckdb
 # DBeaver
 $ brew install --cask dbeaver-community
 
+
+# MongoDB Compass
+$ brew install --cask mongodb-compass
+
+
+# MS Teams
+$ brew install --cask microsoft-teams
+
 # yt-dlp
 $ brew install yt-dlp
 
