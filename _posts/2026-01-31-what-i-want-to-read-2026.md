@@ -5,7 +5,7 @@ tags : [本]
 date: 2026-01-31 12:24:44
 ---
 
-最終更新日：2026/04/01
+最終更新日：2026/04/04
 
 毎年恒例、読みたい本を記載しておく。
 
@@ -36,7 +36,7 @@ date: 2026-01-31 12:24:44
 5. [風の万里 黎明の空 上](#book-5)
 6. [風の万里 黎明の空 下](#book-6)
 7. [図南の翼](#book-7)
-8. [黄昏の岸　暁の天](#book-8)
+8. [黄昏の岸 暁の天](#book-8)
 9. [華胥の幽夢](#book-9)
 10. [丕緒の鳥](#book-10)
 11. [白銀の墟 玄の月 第一巻](#book-11)
@@ -198,21 +198,67 @@ date: 2026-01-31 12:24:44
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4101240639/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51uoCWGiKUL._SL200_.jpg" alt="白銀の墟 玄の月 第二巻 十二国記 (新潮文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4101240639/?tag=tavi06-22" name="AmaQuicklink" target="_blank">白銀の墟 玄の月 第二巻 十二国記 (新潮文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">小野 不由美(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4101240639/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-（読み中）
+2026/04/03 読了
 
+4つまとめて記載。
 
 
 ### 白銀の墟 玄の月 第三巻 {#book-13}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4101240647/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/516Rrkks3zL._SL200_.jpg" alt="白銀の墟 玄の月 第三巻 十二国記 (新潮文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4101240647/?tag=tavi06-22" name="AmaQuicklink" target="_blank">白銀の墟 玄の月 第三巻 十二国記 (新潮文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">小野 不由美(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4101240647/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-（読み中）
+2026/04/03 読了
 
+4つまとめて記載。
 
 
 ### 白銀の墟 玄の月 第四巻 {#book-14}
 
 <div class="AmaQuick-box" style="margin-bottom: 0px;"><div class="AmaQuick-image" style="float: left; margin: 0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/dp/4101240655/?tag=tavi06-22" name="AmaQuicklink" target="_blank"><img src="https://m.media-amazon.com/images/I/51GIzuufMdL._SL200_.jpg" alt="白銀の墟 玄の月 第四巻 十二国記 (新潮文庫)" style="border: none;"/></a></div><div class="AmaQuick-info" style="margin-bottom: 10px; line-height: 120%"><div class="AmaQuick-name" style="margin-bottom: 10px; line-height: 120%"><a href="https://www.amazon.co.jp/dp/4101240655/?tag=tavi06-22" name="AmaQuicklink" target="_blank">白銀の墟 玄の月 第四巻 十二国記 (新潮文庫)</a><div class="AmaQuick-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%">posted with <a href="https://creazy.net/amazon_quick_affiliate" title="AmaQuick" target="_blank">AmaQuick</a></div></div><div class="AmaQuick-detail">小野 不由美(著)</div><div class="AmaQuick-sub-info" style="float: left;"><div class="AmaQuick-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/dp/4101240655/?tag=tavi06-22" name="AmaQuicklink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="AmaQuick-footer" style="clear: left"></div></div>
 
-（読み中）
+
+2026/04/04 読了
+
+2019年に発売して、一度読んだときとはかなり違う印象。
+あの時は忙しかったのか、なんか覚えている結末と違う。
+でも、今回十二国記全部読み返していて、記憶が新しい中で読んでいるせいか、
+かなり好印象な終わり方だと思った。
+
+泰麒の計略と覚悟とは？阿選が何を思って反旗を翻したのか、琅燦の目的は何か？
+驍宗の部下たちはどうしているのか、そして李斎の生き方とは？
+
+これらがすべて詰まったよい作品だと思う。
+さらに、民の姿をしっかりと描いているのが高評価。
+これなら4巻にもなってしまうのは分かる。
+
+ただ、この作品は何年も発売されなかっただけに、
+著者の小野不由美さんは、どこかでストーリーをどうしようか悩んだところがあったんじゃないかなって思う。
+特に、3巻の李斎パートを読んでいたときに、どんどん加速していくのを感じた。
+そして、それまで希望が見えては空振りされってのを繰り返していただけに、
+なんかすんなり上手くいっている感じがして、少し座りが悪い感じがした。
+でも、これはそれまでの苦労や人との繋がりがあったからこそなんだろうけど、
+こんだけ色んな人とつながったりしていながら、阿選側に見つからなかったのもちょっとおかしいかなって。
+まあ、文州は傀儡に支配されているから、必要以上に反乱の芽を探そうとしないというのは一定の理由になっていたのだろうけど。
+
+ただ、4巻後半で驍宗が連れていかれ、何とかしようとするのだが、皆やられていって、もう可能性がないというところまで追い詰められたけど、
+それでも最後、処刑の儀式に乗り込んでいこうとする李斎や霜元の覚悟は良かったな。
+そして、そこからの大逆転劇も。
+多少のご都合主義と、そのときに阿選が何もしてなかったのはあれ？とは思うが、やはり泰麒がここで転変するというのが一番大きい。
+黒麒の凄さを証明したというか。
+
+
+今年の9月、短編集が出る。
+そこでは、この戴国の続編が描かれるらしいので、
+きっと著者も書き足りないところがあったのだろう。
+楽しみに待っていようと思う。
+
+
+
+
+
+
+
+
+
+
 
