@@ -146,6 +146,24 @@ input.err { background-color: orange; }
   list-style-type:none;
 }
 
+.social-icons {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  gap: 15px;
+}
+
+.social-icons a {
+  text-decoration: none;
+  color: #333;
+  font-size: 24px;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #0077b5;
+}
+
 
 blockquote {
     position: relative;
