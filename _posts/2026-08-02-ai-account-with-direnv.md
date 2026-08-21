@@ -226,7 +226,9 @@ MacのAutomatorを使って、プライベート用と仕事用で別々の起�
 設定する /bin/bash はこんな感じ。
 
 ```
-open -na "Cursor" --args --user-data-dir="$HOME/.cursor-private"
+export CURSOR_CONFIG_DIR="$HOME/.cursor-private"
+export CURSOR_DATA_DIR="$HOME/.cursor-private"
+nohup "/Applications/Cursor.app/Contents/MacOS/Cursor" --user-data-dir="$HOME/.cursor-private" >/dev/null 2>&1 &
 ```
 
 まだ認証してなければ、初回起動後に認証が聞かれるので、ブラウザでそれぞれのアカウントで認証しておけば、
